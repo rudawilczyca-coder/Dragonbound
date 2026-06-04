@@ -1,4 +1,4 @@
-Aurelie_Delacroix.md# Aurelie  — External Reference ### What other characters observe. No interiority. No voice.
+ Aurelie  — External Reference ### What other characters observe. No interiority. No voice.
 ## I. Facts
 Name: Aurelie Delacroix
 Age: 19
@@ -8,8 +8,10 @@ How she arrived in Prythian: She received a petrified dragon egg which hatched, 
 Current situation: refugee, alone
 ## II. Physical Appearance
 Height / build: 165cm / plump but no chubby - the body of someone who was never lacking food and was allowed physical movement though never trained in combat
-Hair: ruddy-brown, shoulder-length, slightly wavy, has a sideways bag
-Eyes: steel-silver
+Hair: Cool chestnut-brown, long and softly wavy, often coming loose from its pins. No red in it — the brown is ashy rather than warm.
+Eyes: Clear blue, wide-set, quick to give her away. (Was steel-silver — changed to pull off the fae-sharp axis.)
+Face/build: 165cm, soft and rounded — a face that still has girlhood in it, full cheeks, a mouth that startles easily into embarrassment. Plump in the well-fed, never-trained way. A scatter of freckles across the nose and shoulders.
+The contrast (for NPCs to clock): Where the people of Autumn run to fire — auburn, amber, sharp bone — she is cool and soft and unmistakably mortal. She does not match the palette of the place that's holding her.
 Distinguishing features: a mark on her left palm in the shape that vaguely resembles a dragon coiled like a letter "e" - the mark of dragon bond ; other than that her body is pristine
 How she carries herself: defiant, chin raised high, she's not used to bowing to people, though when she is in hiding she tries to make herself look smaller. With all her defiance, she is easy to startle / embarrass.
 What doesn't match: I'm not sure how to describe it but she feels much better when people are not watching her. The performance of nobility tires her.
