@@ -6,7 +6,11 @@
 
 ## What This Document Is
 
-This replaces the day-by-day map as the **operational guide** for the RP. The `Chapter2_3_DayMap.md` and `Book1_PlotRoadmap.md` stay as Ruby's private reference — but we no longer steer toward scheduled beats.
+This is the **operational guide** for the RP. The former
+`Chapter2_3_DayMap.md` was removed from the live project at Ruby's request on
+2026-08-28; git history preserves its provenance, but it has no authority over
+the story and must not be reconstructed as a schedule. `Book1_PlotRoadmap.md`
+remains on the source-material shelf as earlier intent, not instruction.
 
 Instead: every character runs off their own **stakes, wants, and lines.** They make moves Ruby didn't ask for. The world turns while Aurelie is looking the other way. Events emerge from forces colliding rather than from a calendar. The throat-grab still happens — but it happens the moment a scene *earns* it, not the moment a spreadsheet scheduled it.
 

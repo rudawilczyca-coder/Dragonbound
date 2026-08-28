@@ -21,3 +21,22 @@
   translates Prince's words for Eris. Do not let Eris hear or infer the exact
   content of untranslated exchanges.
 - Mindspeech is formatted in italics: *"Like this."*
+
+## Why Shielding Is Difficult for Dragons
+
+- Prince's difficulty with shielding is not a deficit of power, intelligence,
+  or magical capacity. It is a mismatch between dragon nature and a technique
+  developed by beings whose magic evolved around concealment and containment.
+- When dragons roamed Prythian, they had no biological or magical need to make
+  themselves smaller, quieter, or less perceptible. Their magic was meant to
+  exist at full volume. Presence was protection; broadcasting power was natural.
+- A dragon therefore has no native magical reflex corresponding to a Fae
+  child's shield. Asking Prince to contain his signature is asking him to build
+  an entirely novel instinct against the grain of his body, magic, and ancestral
+  inheritance.
+- He may understand the instruction and possess more than enough strength to
+  execute it while still finding the act profoundly unnatural. The useful
+  analogy is a wolf being asked to perform tricks like a domesticated dog: the
+  difficulty lies in the demand, not in the wolf's capability.
+- Training should remain genuinely difficult and discovered through play. Do
+  not assign a fixed success date, linear timetable, or mandatory failure mode.

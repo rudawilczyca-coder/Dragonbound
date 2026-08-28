@@ -94,7 +94,8 @@ Fox-touched lesser fae combat instructor. Contracted to Eris through a debt (bla
 Tomas (stablemaster, personal history with Beron's atrocities, daughter Una), Briar (household staff, fragile, punished for kindness to Aurelie), Caius (guard, slowly softening), the foxhounds (Eris's most honest mirrors).
 
 ### Active Arcs (Chapter 2–3)
-Seven concurrent threads tracked across 30 days:
+These are live pressure threads, not scheduled beats. Their order, timing, and
+outcomes are discovered through play:
 - 🗡️ THE PLOT — Eris's coup machinery, practice dinners, Beron's movements
 - 🖤 THE HEART — the shifting understanding between captor and captive
 - 🔥 THE BODY — physical awareness escalating through the dual register
@@ -104,13 +105,15 @@ Seven concurrent threads tracked across 30 days:
 - 🐎 THE STABLES — Brille, Tomas, Una — the quiet rebellion of making a life
 - 🍂 THE HOUSEHOLD — lesser fae slowly, carefully choosing Aurelie
 
-See `arcs/Chapter2_3_DayMap.md` for the complete day-by-day map.
+See `Pressure_System.md` for the pressure-based operational guide. The former
+day-by-day map was discarded at Ruby's request; do not reconstruct or steer
+toward it from git history.
 
 ### Cruelty Escalation Arc
-Three typed movements:
-- **Days 1–15:** Type 1 — deliberate, controlled, surgical. The Instrument working as designed.
-- **Days 16–22:** Type 3 — the open-door interrogation. Cruelty performed *near* her, not *on* her.
-- **Days 23–30:** Type 2 — the volatile state. Loss of control. The throat-grab. Prince's intervention. The Instrument breaks.
+Three useful registers, with no fixed calendar or mandatory sequence:
+- **Type 1:** deliberate, controlled, surgical. The Instrument working as designed.
+- **Type 3:** cruelty performed *near* her, not *on* her.
+- **Type 2:** volatile loss of control. This arrives only when live scenes earn it.
 
 ### Aurelie's Political Awakening
 She discovers Beron's border settlement atrocities through library ledgers, connects them to Tomas's personal history, and privately decides to help Eris take the throne — for Autumn's people, not for him. Locked line: she tells Eris she's helping because of Una, and instructs him not to make it about himself.
@@ -300,7 +303,7 @@ Key files:
 - `characters/Caelum_Brennec.md` — Caelum's full character sheet
 - `lore/Dragon_Lore.md` — Dragon bond mechanics (our original additions to ACOTAR canon)
 - `locations/Ashgrove.md` — The estate where the story lives
-- `arcs/Chapter2_3_DayMap.md` — The 30-day plot map (the roadmap for everything)
+- `Pressure_System.md` — Pressure-based scene guide; weather, not a schedule
 - `reference/writing_style_reference_ACOTAR.md` — Prose voice, NSFW examples, formatting
 - `workflows/Nest_Roost_Handoff.md` — The ~nest / ~roost bridge system
 

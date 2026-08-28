@@ -46,7 +46,11 @@ Aurelie meets Eris at the stream in former Spring territory. Three days' travel 
 
 ---
 
-### **CHAPTERS 2–3 — The Settling & The Tightening** *(planned in detail — see Chapter2_3_DayMap.md)*
+### **CHAPTERS 2–3 — The Settling & The Tightening** *(historical planning only)*
+
+The former detailed day map was discarded from the live project at Ruby's
+request on 2026-08-28. The material below records earlier intent; it does not
+schedule or predetermine the ongoing RP.
 
 30 days at Ashgrove. September 15 → October 15.
 
@@ -219,8 +223,8 @@ Eris becomes High Lord of Autumn. Beron contained, dead, or exiled (TBD).
 
 ## 📌 Cross-Reference Files
 
-**For detailed planning, see:**
-- `Chapter2_3_DayMap.md` — Day-by-day for the Ashgrove settling phase
+**For current operational guidance, see:**
+- `Pressure_System.md` — Pressure-based play without scheduled beats
 - `Ashgrove.md` — Estate reference (rooms, grounds, wards, staff)
 - `ErisVanserra_v6.md` — Eris's character sheet
 - `Aurelie_Delacroix.md` — Aurelie's external reference
