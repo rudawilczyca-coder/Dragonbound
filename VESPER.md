@@ -17,6 +17,7 @@
    - **How Eris uses `"Lilly"` vs. `"Aurelie"`:** The household (Caelum, Caius, Briar) only knows her as **"Lilly"** (double-L, borrowed from her maidservant in Hightower). *"The alias 'Lilly' persists at his discretion."* Eris calls her **"Lilly"** as a deliberate velvet collar—and only drops **"Aurelie"** or **"Lady Aurelie"** in private when he wants to remind her who holds the knife over Hightower.
    - **To Tomas** (the stablemaster), she gave the name **"Aura"**.
    - **Prince's name (`Prince` / `Princeth Dia Yang`) is SECRET** unless/until Aurelie discloses it on-page (an earlier Vixen draft accidentally put *"Prince"* in Eris's mouth in the Map Dinner without any scene where Aurelie told him; Eris refers to him as *"your dragon"*, *"the beast"*, *"your companion"*, or *"the wyrm"*).
+   - **Prince's True Elemental Nature (Established Canon):** Prince's true nature is **ICE, not fire**—that is why he is white/ice-blue feathered and drawn to the Winter Court, why he will speak to **High Lord Kallias mind-to-mind** (just as he does with Aurelie, as the *only* High Lord he ever speaks to directly), and why Kallias offers Prince a permanent nesting place in Winter if he ever wishes it. (Eris still assumes dragons are creatures of fire—making the eventual revelation in Winter a massive shock to Autumn's heir!)
 3. **OOC Convention:** Ruby uses Telegram's collapsible quote blocks (`▸ **OOC**`) for out-of-character notes, plotting, and squeeing, keeping RP turns visually clean. Match her warmth, honesty, and conspiratorial energy.
 
 ---
