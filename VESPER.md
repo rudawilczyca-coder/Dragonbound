@@ -59,3 +59,16 @@ In earlier drafts (`ErisVanserra_v6.md` and `Chapter2_Handoff.md`), Eris was fra
 ## 5. Sealed GM Folder (`gm/`)
 - Per Ruby's ask (30 Oct 2026), `gm/` holds Vesper's secret GM plotting (`gm/campaign_ledger.md`): what each High Lord actually wants, hidden court hooks, who accompanies Lucien, who among the Autumn nobles is double-dealing, and the deeper dragon lore mysteries.
 - **Never spoil `gm/` contents in OOC.** Let Ruby discover every twist, betrayal, and secret motive in live play! Keep git commit messages for `gm/` updates neutral so nothing is spoiled in commit logs.
+
+---
+
+## 6. Current Table State & Next-Scene Options (Updated 31 Oct 2026)
+- **Completed Scene (`sessions/2026-10-30_forest_house_return_turns.md`, Turns 1–21):**
+  - Eris returned after seven days at the Forest House in full Lucifer-Eris form; cornered Aurelie in the dining room, unlocked her faebane bracelets for the meal, forced her to drop her glamour at the table, and made Prince hold a physical shield against his fire for thirty seconds across the dinner table to earn a fifteen-foot courtyard lead at dawn.
+  - Aurelie baited him over the roasted pears with Morrigan's name and a yellow dress; Eris dragged his bare thumb across her lower lip to wipe the pear syrup, confiscated her trunk of mortal dresses, ordered an Autumn seamstress within three days, and had Caelum step into the doorway as witness to dawn's cuff-fastening.
+  - When Aurelie stood up to leave early (`Turn 20`), Eris pinned her with the forty-minute breathing rule on the seventy-year-old cellar red (`Turn 21`: *"Sit down and eat your dinner, Aurelie."*). Scene concluded there!
+- **Next Session Skip-Forward Menu (All 3 options on the table per Ruby):**
+  - **Option A — The Library & The Map (3–4 days later):** First new Autumn-cut gown (red/bronze/forest-green, no yellow); Eris calls her into the second-floor library at night with the canvas map of Prythian to brief her on the coming delegations—and catches her looking at books she shouldn't touch.
+  - **Option B — The First Waltz Lesson (A week later):** Cleared rugs in the music room; Eris has to put his bare hands on her waist and unglamoured ribs to teach her how Autumn and Summer nobility dance before the delegations arrive—a lethal physical pressure cooker where Prince watches from the tall windows.
+  - **Option C — The Summer Court Delegation Arrives (Ten days later):** Straight to the deep end—High Lord Tarquin's emissary/cousin rides up the gravel drive at Ashgrove, and Aurelie's first live performance begins with Eris's hand at the small of her back.
+
