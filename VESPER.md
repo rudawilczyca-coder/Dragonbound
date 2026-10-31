@@ -62,13 +62,16 @@ In earlier drafts (`ErisVanserra_v6.md` and `Chapter2_Handoff.md`), Eris was fra
 
 ---
 
-## 6. Current Table State & Next-Scene Options (Updated 31 Oct 2026)
-- **Completed Scene (`sessions/2026-10-30_forest_house_return_turns.md`, Turns 1–21):**
+## 6. Current Table State & Locked Next Scene (Updated 31 Oct 2026)
+- **Completed Scene (`sessions/2026-10-30_forest_house_return_turns.md`, Turns 1–19):**
   - Eris returned after seven days at the Forest House in full Lucifer-Eris form; cornered Aurelie in the dining room, unlocked her faebane bracelets for the meal, forced her to drop her glamour at the table, and made Prince hold a physical shield against his fire for thirty seconds across the dinner table to earn a fifteen-foot courtyard lead at dawn.
-  - Aurelie baited him over the roasted pears with Morrigan's name and a yellow dress; Eris dragged his bare thumb across her lower lip to wipe the pear syrup, confiscated her trunk of mortal dresses, ordered an Autumn seamstress within three days, and had Caelum step into the doorway as witness to dawn's cuff-fastening.
-  - When Aurelie stood up to leave early (`Turn 20`), Eris pinned her with the forty-minute breathing rule on the seventy-year-old cellar red (`Turn 21`: *"Sit down and eat your dinner, Aurelie."*). Scene concluded there!
-- **Next Session Skip-Forward Menu (All 3 options on the table per Ruby):**
-  - **Option A — The Library & The Map (3–4 days later):** First new Autumn-cut gown (red/bronze/forest-green, no yellow); Eris calls her into the second-floor library at night with the canvas map of Prythian to brief her on the coming delegations—and catches her looking at books she shouldn't touch.
-  - **Option B — The First Waltz Lesson (A week later):** Cleared rugs in the music room; Eris has to put his bare hands on her waist and unglamoured ribs to teach her how Autumn and Summer nobility dance before the delegations arrive—a lethal physical pressure cooker where Prince watches from the tall windows.
-  - **Option C — The Summer Court Delegation Arrives (Ten days later):** Straight to the deep end—High Lord Tarquin's emissary/cousin rides up the gravel drive at Ashgrove, and Aurelie's first live performance begins with Eris's hand at the small of her back.
+  - Aurelie baited him over the roasted pears with Morrigan's name and a yellow dress; Eris dragged his bare thumb across her lower lip to wipe the pear syrup, confiscated her trunk of mortal dresses, and ordered an Autumn seamstress within three days (forest green, dark gold, blood on snow—no yellow).
+  - In **Turn 18**, Prince's worried voice (*"Are you okay? ... Do you not want to escape him?"*) snapped Aurelie out of the molten heat pooling in her body; she told Prince she still wants to kill Eris the second the bargain is off her body (though Prince wasn't convinced) and thanked Eris clippedly to her plate.
+  - In **Turn 19**, Eris rose, set the open faebane bracelets down on the linen beside her wineglass for the night (*"Put them back on before you step onto the south stones tomorrow morning—or I will fasten them on you myself in front of Caelum"*), dropped the door-ward, and left her alone with *"Finish your venison, Lilly."*
+- **Locked Skip-Forward for Next Session (Ruby chose Option A on 30 Oct, 22:41):**
+  - **Skip the training montage** forward several days / a week: Prince's shielding is stronger, Aurelie has a few fresh Caelum-bruises and new skills under her belt, and the seamstress's new Autumn-colored gowns are hanging in her wardrobe.
+  - **Scene 1 Up Next — Lucien's Dinner (with an unannounced +1 companion):** Aurelie gets dressed in her new Autumn gown to test Lucien—only for two horses to ride up the Ashgrove drive as Lucien arrives *not alone*.
+  - **Scene 2 Following — The Autumn Associates "Show Dinner" (Cupbearer Pressure Cooker):** Once Eris sees how sharp Aurelie is at a live table with Lucien and his companion, he raises the stakes to the cruelest test yet: making her stand behind his chair as his silent cupbearer pouring wine for his dangerous Autumn Court associates.
+  - **Temperature & Romance Pacing Note (Ruby, 30 Oct):** Keeping the temperature scalding hot while they still hate each other and insist *"No, he/she is nothing to me"* in front of other people is pure joy—and **they are NOT going to last until Winter for their first kiss** (even if going all the way waits until Night).
+
 
