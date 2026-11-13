@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dragonbound Writing Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=EB+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* Layout idea: a sunlit Adriata terrace. A sea-and-sun band on top, a white-limestone writing table
+   on the left, and a gilded side table of portraits and pinned notes on the right. One bright world, single theme. */
+:root {
+  --stone: #f7f1e6;       /* limestone page */
+  --paper: #fffdf8;       /* writing surface */
+  --ink: #1f3340;         /* deep-sea ink */
+  --sea: #1d7f8c;         /* sea-glass accent */
+  --sun: #c9962e;         /* gilt */
+  --coral: #d06a4f;       /* sunset coral, used for "over target" and shouting */
+  --muted: #5d6f78;
+  --line: #e4d8c2;
+  --font-display: "Marcellus", "Cormorant Garamond", Georgia, serif;
+  --font-prose: "EB Garamond", Garamond, Georgia, serif;
+  --font-ui: "Jost", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body {
+  background: var(--stone);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: 15px;
+  line-height: 1.5;
+}
+button, input, textarea { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--sea); outline-offset: 2px; }
+
+/* ---------- Header band ---------- */
+.band {
+  position: relative;
+  height: 190px;
+  overflow: hidden;
+  border-bottom: 3px solid var(--sun);
+  background: linear-gradient(#fbe3a6, #f6c97a 55%, #2a8f9b 56%, #165e6c);
+}
+.band canvas, .band img.banner {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+}
+.band img.banner { object-fit: cover; display: none; }
+.band.has-banner img.banner { display: block; }
+.band.has-banner canvas { display: none; }
+.band-inner {
+  position: relative; z-index: 1; height: 100%;
+  max-width: 1320px; margin: 0 auto; padding: 22px 24px;
+  display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+}
+.title h1 {
+  margin: 0; font-family: var(--font-display); font-weight: 400;
+  font-size: clamp(28px, 4vw, 42px); letter-spacing: .04em; color: #fffdf6;
+  text-shadow: 0 1px 2px rgba(16,50,60,.55), 0 0 18px rgba(16,50,60,.35);
+  text-wrap: balance;
+}
+.title p { margin: 2px 0 0; color: #fdf4dc; font-size: 13px; letter-spacing: .14em; text-transform: uppercase;
+  text-shadow: 0 1px 2px rgba(16,50,60,.6); }
+.band-tools { display: flex; gap: 8px; flex-wrap: wrap; }
+.chip-btn {
+  border: 1px solid rgba(255,255,255,.7); background: rgba(255,253,248,.82); color: var(--ink);
+  padding: 6px 12px; border-radius: 999px; cursor: pointer; font-size: 13px; font-weight: 500;
+  backdrop-filter: blur(4px);
+}
+.chip-btn:hover { background: #fff; }
+
+/* ---------- Main grid ---------- */
+main {
+  max-width: 1320px; margin: 0 auto; padding: 20px 24px 40px;
+  display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 24px;
+}
+@media (max-width: 980px) { main { grid-template-columns: 1fr; } }
+
+.panel {
+  background: var(--paper); border: 1px solid var(--line); border-radius: 6px;
+  box-shadow: 0 1px 0 #fff inset, 0 6px 20px -14px rgba(31,51,64,.35);
+}
+.gilt-top { border-top: 3px solid var(--sun); }
+
+/* Editor */
+.editor { display: flex; flex-direction: column; min-height: 560px; }
+.toolbar {
+  display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+  padding: 10px 12px; border-bottom: 1px solid var(--line);
+}
+.tool {
+  border: 1px solid var(--line); background: var(--stone); border-radius: 4px;
+  padding: 5px 10px; cursor: pointer; font-size: 13px; display: inline-flex; gap: 6px; align-items: center;
+}
+.tool:hover { border-color: var(--sea); }
+.tool .sample { font-family: var(--font-prose); font-size: 15px; }
+.tool.thought .sample { font-style: italic; }
+.tool.tele .sample { font-style: italic; color: var(--sea); }
+.tool.shout .sample { font-style: italic; font-weight: 600; color: var(--coral); }
+.tool.ooc .sample { font-family: var(--font-ui); color: var(--muted); }
+.tool kbd { font-family: var(--font-ui); font-size: 11px; color: var(--muted); }
+.spacer { flex: 1; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; }
+.seg button { border: 0; background: var(--stone); padding: 5px 10px; cursor: pointer; font-size: 13px; }
+.seg button[aria-pressed="true"] { background: var(--sea); color: #fff; }
+
+.panes { flex: 1; display: grid; grid-template-columns: 1fr 1fr; min-height: 0; }
+.panes.write-only { grid-template-columns: 1fr; }
+.panes.write-only .preview { display: none; }
+.panes.preview-only { grid-template-columns: 1fr; }
+.panes.preview-only .write { display: none; }
+@media (max-width: 700px) { .panes { grid-template-columns: 1fr; } }
+
+textarea#draft {
+  width: 100%; height: 100%; min-height: 420px; resize: vertical; border: 0; outline: none;
+  padding: 22px 26px; background: transparent;
+  font-family: var(--font-prose); font-size: 19px; line-height: 1.65;
+}
+textarea#draft:focus-visible { outline: none; box-shadow: inset 0 0 0 2px rgba(29,127,140,.25); }
+.preview {
+  border-left: 1px solid var(--line); padding: 22px 28px; overflow: auto; max-height: 72vh;
+  font-family: var(--font-prose); font-size: 19px; line-height: 1.65;
+  background: linear-gradient(#fffdf8, #fdf8ee);
+}
+.preview .empty { color: var(--muted); font-style: italic; }
+.preview p { margin: 0 0 1em; max-width: 65ch; }
+.preview em.thought { font-style: italic; }
+.preview em.tele { font-style: italic; color: var(--sea); }
+.preview strong.shout { font-style: italic; color: var(--coral); }
+.preview .ooc {
+  font-family: var(--font-ui); font-size: 14px; color: var(--muted);
+  background: #f1ece1; border-radius: 3px; padding: 1px 6px;
+}
+
+.statusbar {
+  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  padding: 10px 14px; border-top: 1px solid var(--line);
+}
+.gauge { display: flex; align-items: center; gap: 10px; }
+.gauge svg { flex: none; }
+.count { font-variant-numeric: tabular-nums; }
+.count b { font-size: 18px; }
+.count small { color: var(--muted); display: block; font-size: 12px; }
+.target label { font-size: 13px; color: var(--muted); margin-right: 6px; }
+.target input {
+  width: 72px; padding: 4px 6px; border: 1px solid var(--line); border-radius: 4px;
+  background: var(--stone); font-variant-numeric: tabular-nums;
+}
+.primary {
+  background: var(--sea); color: #fff; border: 0; border-radius: 4px; padding: 8px 16px;
+  cursor: pointer; font-weight: 500;
+}
+.primary:hover { background: #166b77; }
+.ghost { background: none; border: 1px solid var(--line); border-radius: 4px; padding: 7px 12px; cursor: pointer; }
+.ghost:hover { border-color: var(--coral); color: var(--coral); }
+.toast { font-size: 13px; color: var(--sea); min-width: 6ch; }
+.confirm { display: none; align-items: center; gap: 8px; font-size: 13px; }
+.confirm.show { display: inline-flex; }
+
+/* Sidebar */
+aside { display: flex; flex-direction: column; gap: 20px; }
+.side-h {
+  font-family: var(--font-display); font-weight: 400; font-size: 19px; letter-spacing: .03em;
+  margin: 0; padding: 12px 16px 0;
+}
+.side-sub { margin: 2px 16px 10px; color: var(--muted); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
+
+.portraits { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 0 16px 16px; }
+.portrait {
+  border: 0; padding: 0; background: none; cursor: pointer; text-align: left;
+  display: flex; flex-direction: column; gap: 4px;
+}
+.portrait img {
+  width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 4px; display: block;
+  border: 1px solid var(--line); box-shadow: 0 0 0 2px var(--paper), 0 0 0 3px var(--sun);
+}
+.portrait span { font-size: 12px; font-weight: 500; }
+.portrait small { font-size: 11px; color: var(--muted); }
+
+.notes { padding: 0 16px 16px; display: flex; flex-direction: column; gap: 12px; }
+.note label { display: block; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--sea); font-weight: 600; margin-bottom: 4px; }
+.note textarea {
+  width: 100%; min-height: 92px; resize: vertical; border: 1px solid var(--line); border-radius: 4px;
+  padding: 8px 10px; background: #fffef9; font-size: 14px; line-height: 1.45;
+}
+.note textarea:focus { border-color: var(--sea); outline: none; }
+
+.sound { padding: 0 16px 16px; display: flex; flex-direction: column; gap: 10px; }
+.sound iframe { width: 100%; height: 352px; border: 0; border-radius: 12px; }
+.sound .track-card {
+  display: flex; gap: 12px; align-items: center; padding: 12px; border-radius: 6px;
+  background: linear-gradient(135deg, #165e6c, #1d7f8c 60%, #c9962e); color: #fff;
+}
+.sound .track-card svg { flex: none; }
+.sound .track-card b { display: block; font-weight: 500; }
+.sound .track-card small { opacity: .85; font-size: 12px; }
+.sound a.primary { text-decoration: none; text-align: center; }
+.sound p { margin: 0; font-size: 12px; color: var(--muted); }
+
+/* Lightbox */
+.lightbox {
+  position: fixed; inset: 0; background: rgba(16,40,50,.78); display: none;
+  align-items: center; justify-content: center; padding: 24px; z-index: 10;
+}
+.lightbox.show { display: flex; }
+.lightbox figure { margin: 0; max-width: min(520px, 100%); text-align: center; color: #fff; }
+.lightbox img { max-width: 100%; max-height: 80vh; border-radius: 6px; border: 3px solid var(--sun); }
+.lightbox figcaption { margin-top: 8px; font-family: var(--font-display); font-size: 18px; }
+
+/* Banner dialog */
+.drawer {
+  display: none; max-width: 1320px; margin: 16px auto 0; padding: 0 24px;
+}
+.drawer.show { display: block; }
+.drawer .panel { padding: 14px 16px; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; font-size: 14px; }
+.drawer p { margin: 0; flex: 1 1 320px; color: var(--muted); }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+
+<header class="band" id="band">
+  <canvas id="sea" aria-hidden="true"></canvas>
+  <img class="banner" id="bannerImg" alt="">
+  <div class="band-inner">
+    <div class="title">
+      <h1>Dragonbound Writing Desk</h1>
+      <p>Aurelie &amp; Prince · posts for the RP</p>
+    </div>
+    <div class="band-tools">
+      <button class="chip-btn" id="bannerBtn" type="button">Change banner</button>
+    </div>
+  </div>
+</header>
+
+<div class="drawer" id="drawer">
+  <div class="panel">
+    <p>Drop in a wide image from ChatGPT (3:1 works best). It's resized and saved in this browser only. The prompts are in <code>app/writing-desk/IMAGE_PROMPTS.md</code> in the repo.</p>
+    <label class="primary" for="bannerFile" style="cursor:pointer">Choose image</label>
+    <input type="file" id="bannerFile" accept="image/*" hidden>
+    <button class="ghost" id="bannerReset" type="button">Use painted sea</button>
+  </div>
+</div>
+
+<main>
+  <section class="panel gilt-top editor" aria-label="Post editor">
+    <div class="toolbar" role="toolbar" aria-label="Formatting">
+      <button class="tool thought" data-fmt="thought" type="button" title="Internal thought (Ctrl+I)"><span class="sample">*thought*</span><kbd>Ctrl I</kbd></button>
+      <button class="tool tele" data-fmt="tele" type="button" title="Telepathic speech with Prince (Ctrl+Shift+T)"><span class="sample">*"Prince"*</span><kbd>Ctrl ⇧ T</kbd></button>
+      <button class="tool shout" data-fmt="shout" type="button" title="Shouted speech (Ctrl+Shift+S)"><span class="sample">***"Shout!"***</span><kbd>Ctrl ⇧ S</kbd></button>
+      <button class="tool" data-fmt="bold" type="button" title="Emphasis (Ctrl+B)"><span class="sample"><b>**bold**</b></span><kbd>Ctrl B</kbd></button>
+      <button class="tool" data-fmt="dialogue" type="button" title="Dialogue quotes (Ctrl+')"><span class="sample">"Speech"</span><kbd>Ctrl '</kbd></button>
+      <button class="tool ooc" data-fmt="ooc" type="button" title="Out-of-character note (Ctrl+Shift+O)"><span class="sample">[OOC: ]</span><kbd>Ctrl ⇧ O</kbd></button>
+      <span class="spacer"></span>
+      <div class="seg" role="group" aria-label="View">
+        <button type="button" data-view="write-only" aria-pressed="false">Write</button>
+        <button type="button" data-view="split" aria-pressed="true">Split</button>
+        <button type="button" data-view="preview-only" aria-pressed="false">Preview</button>
+      </div>
+    </div>
+
+    <div class="panes" id="panes">
+      <div class="write">
+        <label for="draft" class="visually-hidden" style="position:absolute;left:-9999px">Your post</label>
+        <textarea id="draft" spellcheck="true" placeholder="Write Aurelie's next post here…"></textarea>
+      </div>
+      <div class="preview" id="preview" aria-live="polite"></div>
+    </div>
+
+    <div class="statusbar">
+      <div class="gauge">
+        <svg id="sun" width="46" height="46" viewBox="0 0 46 46" aria-hidden="true">
+          <g id="rays" stroke="#c9962e" stroke-width="2" stroke-linecap="round"></g>
+          <circle cx="23" cy="23" r="12" fill="#fbecc4" stroke="#e4d8c2"/>
+          <circle id="sunFill" cx="23" cy="23" r="12" fill="none" stroke="#c9962e" stroke-width="4"
+            stroke-dasharray="75.4" stroke-dashoffset="75.4" transform="rotate(-90 23 23)"/>
+        </svg>
+        <div class="count"><b id="wc">0</b> / <span id="wcTarget">400</span> words
+          <small id="wcNote">OOC brackets aren't counted</small></div>
+      </div>
+      <div class="target">
+        <label for="target">Target</label><input id="target" type="number" min="50" step="50" value="400">
+      </div>
+      <span class="spacer"></span>
+      <span class="toast" id="toast" role="status"></span>
+      <span class="confirm" id="confirm">Clear this draft?
+        <button class="ghost" id="confirmYes" type="button">Clear</button>
+        <button class="ghost" id="confirmNo" type="button">Keep</button></span>
+      <button class="ghost" id="clearBtn" type="button">Clear</button>
+      <button class="primary" id="copyBtn" type="button">Copy post</button>
+    </div>
+  </section>
+
+  <aside>
+    <section class="panel gilt-top" aria-labelledby="castH">
+      <h2 class="side-h" id="castH">The cast</h2>
+      <p class="side-sub">Click a portrait to enlarge it</p>
+      <div class="portraits">
+        <button class="portrait" type="button" data-full="img/aurelie.jpg" data-name="Aurelie Delacroix">
+          <img src="img/aurelie.jpg" alt="Aurelie in her green velvet Ashgrove gown"><span>Aurelie</span><small>yours</small></button>
+        <button class="portrait" type="button" data-full="img/prince.jpg" data-name="Princeth Dia Yang">
+          <img src="img/prince.jpg" alt="Prince's reference sheet" style="object-position: 0 18%"><span>Prince</span><small>yours</small></button>
+        <button class="portrait" type="button" data-full="img/eris.jpg" data-name="Eris Vanserra">
+          <img src="img/eris.jpg" alt="Eris at Ashgrove"><span>Eris</span><small>Vixen's</small></button>
+      </div>
+    </section>
+
+    <section class="panel gilt-top" aria-labelledby="notesH">
+      <h2 class="side-h" id="notesH">Pinned notes</h2>
+      <p class="side-sub">Saved as you type</p>
+      <div class="notes">
+        <div class="note"><label for="n-scene">Scene</label>
+          <textarea id="n-scene" data-note="scene">Ashgrove, night after the Lucien dinner. Rain on the eaves. The dining room is wrecked.</textarea></div>
+        <div class="note"><label for="n-beat">Last beat</label>
+          <textarea id="n-beat" data-note="beat">Eris opened her balcony ward so Prince could get up to her room, then sat alone at the head of the table with the port. Her bite on his thumb still won't close.</textarea></div>
+        <div class="note"><label for="n-threads">Open threads</label>
+          <textarea id="n-threads" data-note="threads">Lucien's visit. The thumb bite. Prince's hatred at the terrace doors.</textarea></div>
+      </div>
+    </section>
+
+    <section class="panel gilt-top" aria-labelledby="soundH">
+      <h2 class="side-h" id="soundH">Soundtrack</h2>
+      <p class="side-sub">Adriata cinematic</p>
+      <div class="sound" id="sound"></div>
+    </section>
+  </aside>
+</main>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Portrait">
+  <figure><img id="lbImg" alt=""><figcaption id="lbCap"></figcaption></figure>
+</div>
+
+<script>
+(function () {
+  // ---------- storage (fails soft) ----------
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("dbdesk:" + k); return v === null ? d : v; } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem("dbdesk:" + k, v); return true; } catch (e) { return false; } },
+    del(k) { try { localStorage.removeItem("dbdesk:" + k); } catch (e) {} }
+  };
+  const $ = (s) => document.querySelector(s);
+
+  // ---------- editor ----------
+  const draft = $("#draft"), preview = $("#preview");
+  draft.value = store.get("draft", "");
+
+  const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  function inline(s) {
+    return esc(s)
+      .replace(/(\[\s*OOC:[^\]]*\]|\(\(\s*OOC:[\s\S]*?\)\)|\[\[\s*OOC:[\s\S]*?\]\])/gi, '<span class="ooc">$1</span>')
+      .replace(/\*\*\*([^*]+?)\*\*\*/g, '<strong class="shout">$1</strong>')
+      .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/\*(&quot;|"|“)([^*]+?)("|”)\*/g, '<em class="tele">$1$2$3</em>')
+      .replace(/\*([^*\n]+?)\*/g, '<em class="thought">$1</em>');
+  }
+  function render() {
+    const txt = draft.value.trim();
+    if (!txt) { preview.innerHTML = '<p class="empty">Your formatted post shows here as you write.</p>'; return; }
+    preview.innerHTML = txt.split(/\n\s*\n/).map(p => "<p>" + inline(p).replace(/\n/g, "<br>") + "</p>").join("");
+  }
+
+  // word count + sun gauge
+  const target = $("#target");
+  target.value = store.get("target", "400");
+  const rays = $("#rays");
+  for (let i = 0; i < 12; i++) {
+    const a = i * Math.PI / 6, l = document.createElementNS("http://www.w3.org/2000/svg", "line");
+    l.setAttribute("x1", 23 + Math.cos(a) * 16); l.setAttribute("y1", 23 + Math.sin(a) * 16);
+    l.setAttribute("x2", 23 + Math.cos(a) * 21); l.setAttribute("y2", 23 + Math.sin(a) * 21);
+    l.setAttribute("opacity", ".15"); rays.appendChild(l);
+  }
+  function count() {
+    const prose = draft.value.replace(/\[\s*OOC:[^\]]*\]|\(\(\s*OOC:[\s\S]*?\)\)|\[\[\s*OOC:[\s\S]*?\]\]/gi, " ");
+    const n = (prose.match(/[A-Za-zÀ-ÿ0-9’'-]+/g) || []).length;
+    const t = Math.max(1, parseInt(target.value, 10) || 400);
+    const ratio = Math.min(1, n / t);
+    $("#wc").textContent = n; $("#wcTarget").textContent = t;
+    const fill = $("#sunFill");
+    fill.setAttribute("stroke-dashoffset", (75.4 * (1 - ratio)).toFixed(1));
+    fill.setAttribute("stroke", n > t * 1.5 ? "#d06a4f" : "#c9962e");
+    [...rays.children].forEach((r, i) => r.setAttribute("opacity", i < Math.round(ratio * 12) ? "1" : ".15"));
+    $("#wcNote").textContent = n >= t
+      ? (n > t * 1.5 ? "Well past target. Long post!" : "Target reached ☀")
+      : (t - n) + " to go · OOC brackets aren't counted";
+  }
+  let saveT;
+  function changed() {
+    render(); count();
+    clearTimeout(saveT);
+    saveT = setTimeout(() => flash(store.set("draft", draft.value) ? "Saved" : "Not saved (storage off)"), 500);
+  }
+  draft.addEventListener("input", changed);
+  target.addEventListener("input", () => { store.set("target", target.value); count(); });
+
+  // formatting
+  const wraps = {
+    thought: ["*", "*", "thought"], tele: ['*"', '"*', "words to Prince"],
+    shout: ['***"', '"***', "Shout"], bold: ["**", "**", "emphasis"],
+    dialogue: ['"', '"', "Speech"], ooc: ["[OOC: ", "]", "note"]
+  };
+  function applyFmt(kind) {
+    const [a, b, ph] = wraps[kind];
+    const s = draft.selectionStart, e = draft.selectionEnd;
+    const sel = draft.value.slice(s, e) || ph;
+    draft.focus();
+    draft.setRangeText(a + sel + b, s, e, "end");
+    if (s === e) draft.setSelectionRange(s + a.length, s + a.length + sel.length);
+    changed();
+  }
+  document.querySelectorAll("[data-fmt]").forEach(btn => btn.addEventListener("click", () => applyFmt(btn.dataset.fmt)));
+  draft.addEventListener("keydown", (ev) => {
+    if (!(ev.ctrlKey || ev.metaKey)) return;
+    const k = ev.key.toLowerCase();
+    let kind = null;
+    if (!ev.shiftKey && k === "i") kind = "thought";
+    else if (!ev.shiftKey && k === "b") kind = "bold";
+    else if (!ev.shiftKey && k === "'") kind = "dialogue";
+    else if (ev.shiftKey && k === "t") kind = "tele";
+    else if (ev.shiftKey && k === "s") kind = "shout";
+    else if (ev.shiftKey && k === "o") kind = "ooc";
+    if (kind) { ev.preventDefault(); applyFmt(kind); }
+  });
+
+  // view toggle
+  const panes = $("#panes");
+  function setView(v) {
+    panes.className = "panes" + (v === "split" ? "" : " " + v);
+    document.querySelectorAll("[data-view]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === v)));
+    store.set("view", v);
+  }
+  document.querySelectorAll("[data-view]").forEach(b => b.addEventListener("click", () => setView(b.dataset.view)));
+  setView(store.get("view", "split"));
+
+  // copy / clear
+  let toastT;
+  function flash(msg) { const t = $("#toast"); t.textContent = msg; clearTimeout(toastT); toastT = setTimeout(() => t.textContent = "", 1800); }
+  $("#copyBtn").addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(draft.value); flash("Copied ✓"); }
+    catch (e) { draft.focus(); draft.select(); flash("Selected. Press Ctrl+C"); }
+  });
+  $("#clearBtn").addEventListener("click", () => { $("#confirm").classList.add("show"); $("#clearBtn").hidden = true; });
+  $("#confirmNo").addEventListener("click", () => { $("#confirm").classList.remove("show"); $("#clearBtn").hidden = false; });
+  $("#confirmYes").addEventListener("click", () => {
+    draft.value = ""; store.del("draft"); changed();
+    $("#confirm").classList.remove("show"); $("#clearBtn").hidden = false; draft.focus();
+  });
+
+  // pinned notes
+  document.querySelectorAll("[data-note]").forEach(t => {
+    const saved = store.get("note:" + t.dataset.note, null);
+    if (saved !== null) t.value = saved;
+    t.addEventListener("input", () => store.set("note:" + t.dataset.note, t.value));
+  });
+
+  // lightbox
+  const lb = $("#lightbox");
+  document.querySelectorAll(".portrait").forEach(p => p.addEventListener("click", () => {
+    $("#lbImg").src = p.dataset.full; $("#lbImg").alt = p.dataset.name; $("#lbCap").textContent = p.dataset.name;
+    lb.classList.add("show");
+  }));
+  lb.addEventListener("click", () => lb.classList.remove("show"));
+  document.addEventListener("keydown", e => { if (e.key === "Escape") lb.classList.remove("show"); });
+
+  // ---------- soundtrack ----------
+  const PLAYLIST_ID = "68NEMvkxTpeX1vlP3D4k48";
+  const PLAYLIST_URL = "https://open.spotify.com/playlist/" + PLAYLIST_ID;
+  const sound = $("#sound");
+  if (location.protocol === "file:" || location.hostname === "localhost" || location.hostname === "127.0.0.1") {
+    sound.innerHTML = '<iframe title="Cinematic Fantasy Score For Writing on Spotify" src="https://open.spotify.com/embed/playlist/' +
+      PLAYLIST_ID + '?theme=0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>';
+  } else {
+    sound.innerHTML =
+      '<div class="track-card"><svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#fbecc4"/>' +
+      '<path d="M8 24c4-3 8-3 12 0s8 3 12 0" stroke="#1d7f8c" stroke-width="2.5" fill="none"/><path d="M10 18c3-2 7-2 10 0s7 2 10 0" stroke="#c9962e" stroke-width="2" fill="none"/></svg>' +
+      '<div><b>Cinematic Fantasy Score For Writing</b><small>Your private Spotify playlist</small></div></div>' +
+      '<a class="primary" href="' + PLAYLIST_URL + '" target="_blank" rel="noopener">Open in Spotify</a>' +
+      '<p>This hosted page can\'t show the Spotify player. Open the desk from the repo file to get the player here.</p>';
+  }
+
+  // ---------- banner ----------
+  const band = $("#band"), bannerImg = $("#bannerImg");
+  function showBanner(src) { if (src) { bannerImg.src = src; band.classList.add("has-banner"); } else { band.classList.remove("has-banner"); bannerImg.removeAttribute("src"); } }
+  showBanner(store.get("banner", ""));
+  $("#bannerBtn").addEventListener("click", () => $("#drawer").classList.toggle("show"));
+  $("#bannerReset").addEventListener("click", () => { store.del("banner"); showBanner(""); flash("Painted sea restored"); });
+  $("#bannerFile").addEventListener("change", (ev) => {
+    const f = ev.target.files[0]; if (!f) return;
+    const img = new Image();
+    img.onload = () => {
+      const w = Math.min(1800, img.naturalWidth), h = Math.round(img.naturalHeight * w / img.naturalWidth);
+      const c = document.createElement("canvas"); c.width = w; c.height = h;
+      c.getContext("2d").drawImage(img, 0, 0, w, h);
+      const data = c.toDataURL("image/jpeg", 0.82);
+      showBanner(data);
+      flash(store.set("banner", data) ? "Banner saved" : "Banner shown, but too big to save");
+      URL.revokeObjectURL(img.src);
+    };
+    img.src = URL.createObjectURL(f);
+  });
+
+  // ---------- painted sea ----------
+  const cv = $("#sea"), ctx = cv.getContext("2d");
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let W = 0, H = 0, dpr = 1;
+  function size() { dpr = window.devicePixelRatio || 1; W = cv.clientWidth; H = cv.clientHeight; cv.width = W * dpr; cv.height = H * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0); }
+  const glints = Array.from({ length: 70 }, () => ({ x: Math.random(), y: Math.random(), p: Math.random() * 6.28, s: .6 + Math.random() * 1.4 }));
+  function draw(t) {
+    const horizon = H * 0.56, sunX = W * 0.74;
+    let g = ctx.createLinearGradient(0, 0, 0, horizon);
+    g.addColorStop(0, "#f9e6b8"); g.addColorStop(.7, "#f8cf86"); g.addColorStop(1, "#f4b86a");
+    ctx.fillStyle = g; ctx.fillRect(0, 0, W, horizon);
+    // sun
+    const rg = ctx.createRadialGradient(sunX, horizon - 6, 4, sunX, horizon - 6, 140);
+    rg.addColorStop(0, "rgba(255,250,225,1)"); rg.addColorStop(.25, "rgba(255,236,170,.9)"); rg.addColorStop(1, "rgba(255,220,140,0)");
+    ctx.fillStyle = rg; ctx.fillRect(0, 0, W, horizon);
+    ctx.beginPath(); ctx.arc(sunX, horizon, 34, Math.PI, 0); ctx.fillStyle = "#fff6d6"; ctx.fill();
+    // distant headland with white city
+    ctx.fillStyle = "#c79a6a";
+    ctx.beginPath(); ctx.moveTo(0, horizon); ctx.lineTo(0, horizon - 26); ctx.quadraticCurveTo(W * .1, horizon - 44, W * .22, horizon - 18); ctx.lineTo(W * .3, horizon); ctx.fill();
+    ctx.fillStyle = "#fbf3e2";
+    for (let i = 0; i < 9; i++) { const x = W * .02 + i * W * .022, h = 6 + (i * 7 % 11); ctx.fillRect(x, horizon - 24 - h + i * 1.6, W * .014, h); }
+    // sea
+    g = ctx.createLinearGradient(0, horizon, 0, H);
+    g.addColorStop(0, "#3aa3ad"); g.addColorStop(.5, "#1f7f8d"); g.addColorStop(1, "#11505d");
+    ctx.fillStyle = g; ctx.fillRect(0, horizon, W, H - horizon);
+    // sun path
+    const sp = ctx.createLinearGradient(0, horizon, 0, H);
+    sp.addColorStop(0, "rgba(255,240,190,.75)"); sp.addColorStop(1, "rgba(255,240,190,0)");
+    ctx.fillStyle = sp;
+    ctx.beginPath(); ctx.moveTo(sunX - 30, horizon); ctx.lineTo(sunX + 30, horizon); ctx.lineTo(sunX + 120, H); ctx.lineTo(sunX - 120, H); ctx.fill();
+    // swells
+    for (let k = 0; k < 5; k++) {
+      const y0 = horizon + 10 + k * (H - horizon) / 5, amp = 2 + k * 1.3, len = 60 + k * 30;
+      ctx.beginPath();
+      for (let x = 0; x <= W; x += 6) ctx.lineTo(x, y0 + Math.sin(x / len + t * (0.4 + k * .12) + k) * amp);
+      ctx.strokeStyle = "rgba(220,245,240," + (0.16 + k * .04) + ")"; ctx.lineWidth = 1 + k * .3; ctx.stroke();
+    }
+    // glints
+    glints.forEach(p => {
+      const a = Math.max(0, Math.sin(t * p.s + p.p));
+      const x = p.x * W, y = horizon + 4 + p.y * (H - horizon - 6);
+      const near = 1 - Math.min(1, Math.abs(x - sunX) / (W * .35));
+      ctx.fillStyle = "rgba(255,248,215," + (a * (.25 + near * .75)).toFixed(2) + ")";
+      ctx.fillRect(x, y, 4 + near * 8, 1.4);
+    });
+    // a small far-off dragon silhouette
+    const dx = W * .52 + Math.sin(t * .2) * 30, dy = horizon * .42 + Math.sin(t * .7) * 4, f = Math.sin(t * 2.2) * 5;
+    ctx.strokeStyle = "rgba(60,70,80,.55)"; ctx.lineWidth = 1.6; ctx.beginPath();
+    ctx.moveTo(dx - 16, dy - 4 - f); ctx.quadraticCurveTo(dx - 7, dy - 6 - f, dx, dy); ctx.quadraticCurveTo(dx + 7, dy - 6 - f, dx + 16, dy - 4 - f);
+    ctx.moveTo(dx - 4, dy + 1); ctx.lineTo(dx + 8, dy - 1); ctx.stroke();
+  }
+  function loop(ms) { draw(ms / 1000); if (!reduce) requestAnimationFrame(loop); }
+  size(); window.addEventListener("resize", () => { size(); if (reduce) draw(0); });
+  requestAnimationFrame(loop);
+
+  render(); count();
+})();
+</script>
+</body>
+</html>
