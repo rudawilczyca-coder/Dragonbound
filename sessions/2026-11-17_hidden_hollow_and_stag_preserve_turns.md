@@ -184,7 +184,7 @@ Slowly, a low, genuine huff of laughter escaped him—not the polished courtier�
 
 "Careful, Lilly," Eris murmured, his voice rough-edged over the crackle of the gold flames. "If word gets out that the Heir of Autumn is kneeling in the mud playing healer to a smart-mouthed human, my brothers might stop sleeping with daggers under their pillows. Think of the scandal."
 
-He didn't take his hands away. Instead, seeing that she hadn't kicked him into the fire, he slid both bare palms upward from her calves—past her knees to the tight, knotted muscles along the outsides of her thighs where fünf hours of gripping a climbing saddle always did the worst damage.
+He didn't take his hands away. Instead, seeing that she hadn't kicked him into the fire, he slid both bare palms upward from her calves—past her knees to the tight, knotted muscles along the outsides of her thighs where five hours of gripping a climbing saddle always did the worst damage.
 
 His touch wasn't a grab or a claim this time. He used the heel of his palms and the slow, practiced pressure of a horseman who had spent centuries riding war-mounts through mountain passes—working a steady, deep current of Fae ember-warmth right into the seized tendons through the wool, his thumbs pressing firmly into the ache along her outer thighs until the cramped muscle fibers began to unspool beneath his fingers.
 
