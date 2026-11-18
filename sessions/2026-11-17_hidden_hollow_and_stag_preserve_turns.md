@@ -191,3 +191,240 @@ His touch wasn't a grab or a claim this time. He used the heel of his palms and 
 He kept his eyes on his work for a long moment so she wouldn't feel cornered into staring at him—though from three inches away, he could feel every shift of her breath and see the steam rising from the untouched wooden bowl in her hands.
 
 "Killing and maiming take far less concentration than keeping this heat low enough not to singe your riding breeches," Eris added dryly, his thumb working a particularly stubborn knot just above her left knee before his amber eyes lifted back to hers through the bronze light. "Now pick up the spoon and eat while it's hot. Or do I need to add *force-feeding stubborn mortals* to my list of atrocities?" 🍂🔥🗡️
+
+---
+
+## Turn 5 — Ruby (Aurelie, 21:25 CET — Continued Nov 18)
+
+She should've bitten her tongue. Aurelie knew that for the first time Eris was being decent towards her and she should've said 'thank you' and ate his stew and stayed quiet. 
+But his hands were so gentle on her thighs that a blush bloomed on her face and it made something inside her flare, as if being nasty to him was the only defense she had left. Well, nasty wasn't maybe the best word for what she did next. 
+She leaned a little forwards, both her hands braced on the bench.
+"Then why do you bother keeping it low? Burn me. See if I flinch."
+She looked straight at him, refusing to back away, waiting for him to fold and move away, the way he did the first few weeks after she came to live at Ashgrove.
+
+---
+
+## Turn 5 — Vesper (Eris, 21:27 CET)
+
+Behind him, the gold fire in the stone ring snapped once—flaring half a foot higher in the windless air.
+
+*Burn me. See if I flinch.*
+
+For three seconds, Eris didn't breathe. He looked at her leaning forward over her knees, the wooden bowl set aside on the bench, both small hands braced on the furs on either side of her hips while a hot, defiant flush climbed all the way from her collarbones to the tips of her ears.
+
+She was waiting for him to step back.
+
+He could see it in the stubborn tilt of her chin and the way her shoulders were braced for a victory she thought she already knew the shape of. During those first weeks at Ashgrove, whenever her temper or her proximity had pushed his blood too close to the edge, Eris had always been the one to end it—snapping a cold remark, locking his hands behind his back, and walking out of the room before his control could fray.
+
+And the little fool had actually convinced herself he had walked away because *he* was the one who couldn't take the heat.
+
+A dark, ugly surge of pure Autumn temper rolled through Eris's chest, burning away the last shred of the careful horseman who had just been easing the cramps out of her legs.
+
+He did not fold. He did not move an inch backward.
+
+Instead, still kneeling between her boots, Eris shifted his weight forward—parting her knees wider with the width of his ribs and rising up into the space she had just leaned into until his face was four inches from hers.
+
+His right hand stayed pinned high on the outside of her thigh, his bare fingers curling hard into the damp wool so she couldn't slide back across the bench even if her nerve broke. His left hand left her leg—not to retreat, but to come down flat over her braced right hand on the fur bench, caging her fingers beneath his palm.
+
+And then he stopped holding the fire down.
+
+He didn't unleash a blast that would char cloth or blister mortal skin—five centuries of lethal training meant Eris Vanserra knew to a single degree how much heat a body could take before it broke. He simply opened the damper under his skin by two notches.
+
+The soothing, hearth-warm balm soaking into her thigh and her caged hand vanished in a heartbeat. In its place came a heavy, merciless wave of dry, radiating Fae heat—hot enough to make the damp wool of her trousers steam against his palm, hot enough to sink straight past muscle into the marrow of her bones and turn the four inches of air between their mouths into a shimmering current that tasted of woodsmoke, copper, and ozone.
+
+In the shadow of the canvas awning, Eris's eyes were no longer pale amber; the gold rings around his pupils burned like banked coals blown open by a bellows.
+
+"Is that what you thought, Lilly?" Eris murmured, his voice dropping so low and slow it barely stirred the air against her lips, every syllable vibrating through the palm pinning her hand to the bench. "That I walked out of rooms at Ashgrove because I was afraid of what *you* would do?"
+
+He leaned half an inch closer, letting the heat rolling off his collarbones and bare throat wash straight across her flushed cheeks, his gaze locked on her eyes—watching for the slightest flutter of her lashes, the smallest hitch in her breath.
+
+"You have no idea how fragile you are," he whispered, his thumb shifting once, scorching-warm, over the racing pulse in the back of her pinned wrist. "Or how little it would take to burn through every defense you think you have left."
+
+He didn't pull away—waiting right there in the furnace of his own breath to see whether she would break her stare first.
+
+Then, forty yards down the dark military trace at the mouth of the hollow, one of the four amber blood-filaments Eris had sunk into the granite shivered against his awareness like a tripped wire.
+
+A split second later, two low, sharp notes of a nightjar's call cut through the red oaks from the ridge—Caelum's warning whistle—followed by the sudden, frantic snort of the coach horses by the east wall as something heavy and wrong moved through the mountain fog outside the ward-ring. 🍂🔥🗡️
+
+---
+
+## Turn 6 — Ruby (Aurelie, 21:41 CET)
+
+Aurelie watched for his reaction, for the retreat. When it didn't come, when Eris invaded her space instead, she moved her torso back. If she didn't, their bodies would've touched and Aurelie didn't know what would happen then. So she kept the small distance, until his hand touched her, and her heart skipped a beat and then raced ahead. She knew he could probably smell the fear, she refused to back even an inch farther. Instead, she kept watching his eyes… Waiting.  
+And then it came. The heat. And the more hot his hand became, the more her skin started prickling and then stinging the faster her heartbeat became. But instead of shrinking, or trying to pull away, she stayed completely steady under his touch. A smile crept up on her mouth slowly, and she started breathing faster.  
+*More! I want more!* She thought, like a maniac, hoping, waiting for the moment when the pain in her hand would get even worse.   
+She registered Prince's surprised agitation somewhere at the back of her mind, like he couldn't understand what was wrong with her. And frankly, she didn't understand either. The only thing she knew was that Eris Vanserra's face was inches from hers, and she never hated him more, and never wanted more to just close those few inches.   
+She winced slightly from pain. She was nowhere near asking him to stop. If anything, she was about to beg him not to, when the whistle broke the spell.
+
+---
+
+## Turn 6 — Vesper (Eris & Caelum, 21:44 CET)
+
+Eris had expected her to snatch her wrist back.
+
+He had expected the sharp gasp of a sheltered highborn girl who had played with matches once too often, or the bitter, wet-eyed glare she had given him on the bridge. He had calibrated the heat in his palm to the exact threshold where pride usually gave way to survival instinct—just enough sting to force her chin down, prove his point, and put three safe feet of mountain air back between them.
+
+She didn't pull back.
+
+Under his scorching palm, he felt the fine, involuntary tremor run through the bones of her hand as the heat bit into her skin. He smelled the sudden, sharp spike of mortal fear in her sweat—and then, braided right through the center of that fear, a second scent rose off her throat that slammed into Eris's lungs like raw alcohol thrown on an open grate.
+
+Her pulse didn't flutter in panic; it hammered against his thumb, heavy and fast. Her lips parted on a shallow, quickening breath, her pupils blowing wide in the bronze glare until the brown was almost swallowed by black.
+
+She winced—a tiny tightening at the corners of her eyes as the sting climbed—and then a slow, unhinged smile curved her mouth.
+
+*What in the cauldron—*
+
+For a fraction of a second, Eris Vanserra froze on his knees between her legs, genuinely staggered.
+
+She wasn't enduring it to win a staring contest. She was *leaning into the burn*. Four inches from his mouth, her eyes had dropped to his lips with a ferocious, starving heat that matched the fire under his own skin—as if the sting in her hand had burned straight through the cage of her manners and left nothing behind but teeth and appetite.
+
+A violent, visceral jolt went straight from Eris's palm to his groin, so sharp his breath caught behind his ribs. *She's mad,* he thought wildly, his fingers tightening by sheer reflex around her thigh while every predatory instinct in his blood roared at him to grab the back of her neck, crush those last four inches to nothing, and find out what sound she made when he gave her the fire she was silently begging for.
+
+His chin actually tilted a fraction of an inch forward—
+
+And then his western ward-filament snapped, and Caelum's two-note nightjar whistle sliced through the dark.
+
+Eris stopped dead, the muscles across his shoulders corded like iron cable. For one murderous heartbeat, he looked as though he might let whatever was out in the fog eat the horses just so he didn't have to take his hands off her.
+
+Instead, a low, blistering curse in the Old Language tore out of his throat. He killed the heat in his palm in an instant—not pulling away gently, but using his grip on her waist to shove her firmly backward until her spine hit the solid granite cliff wall behind the bench under the deepest shadow of the canvas awning.
+
+"Do not move from this stone," Eris breathed against her mouth—his voice still ragged and dark from what had almost happened two seconds ago. Before he rose, his bare thumb dragged once, deliberately and far too hard, across the corner of her smiling lower lip. "We are not finished with that, Lilly."
+
+He spun on his heel and killed the gold campfire with a single slash of his hand.
+
+Pitch darkness swallowed the hollow—broken only by the silver-blue starlight filtering through the red oak canopy and the faint, ghostly shimmer of the outer ward-ring forty yards down the draw.
+
+From the ridge by the split monoliths, Caelum dropped out of the lower branches of an oak, landing in the leaf-litter without a sound, his longbow already strung and a black-fletched ash arrow notched to the cord. Both of his russet fox ears were pinned flat to his skull.
+
+"Not Beron's riders," Caelum breathed as Eris materialized beside him by the tumbled stone windbreak, the ash-wood hilt of Eris's court blade sliding free of its scabbard with a whisper of oiled steel. "Too heavy, and they aren't following the road. Came up out of the wet gorge below the Summer line. Three of them—drawn by the horse-scent."
+
+Down by the mouth of the draw, the mountain fog parted.
+
+Something massive shambled up the overgrown military trace and pressed its snout straight against Eris's invisible amber ward-line.
+
+In the starlight, it looked like a nightmare stitched together out of river-mud and drowned timber—a *kelpie-hound* of the border marshes, big as a draft horse, its hairless gray hide dripping with black bog-slime, six pale, lidless eyes rolling toward the scent of Brille and the coach team. Behind it in the mist, two more sets of long, curved yellow tusks gleamed as the second and third beasts circled the perimeter rock, testing the ward.
+
+Where the lead creature's wet muzzle struck Eris's blood-ward, a shower of dull orange sparks hissed in the dark, filling the ravine with the stench of scorched swamp-rot. The ward held—barely—vibrating like a taut bowstring under the weight of three bog-predators throwing their shoulders against the line.
+
+"Don't loose unless the line cracks," Eris murmured to Caelum, his voice icy and lethal now, though his left palm was still tingling with the phantom imprint of Aurelie's scorching skin. "Their blood draws every scavenger within five miles, and her dragon is still twenty miles north."
+
+Ten paces behind them, in the pitch-dark shadow of the cliff wall by the dead firepit, Aurelie had her riding dagger at her hip, Brille stamping nervously six feet to her right—and across the thirty miles of cold night sky to the north, Prince's sharp, alarmed presence was already surging hard against the back of her mind as one of the bog-hounds found a hairline fissure in the eastern rocks right above the horses. 🍂🔥🗡️🐉
+
+---
+
+## Turn 7 — Ruby (Aurelie, 22:19 CET)
+
+Aurelie let out a short, surprised 'Oompf' when Eris bushed her back. Her own heat died the second she saw glowing eyes beyond the wards. 
+{Stay there! I'm coming!} She heard Prince's words, even at the distance of twenty miles, which could only mean that he was practically screaming, disregarding every warning about sending thoughts at long distances.
+She quickly got up, taking out her dagger. Aurelie had no intention of throwing herself into the fight. She was more than fine to let the fae deal with whatever the horrible creatures outside were. 
+But then Brille neighed loudly, and Aurelie glanced in that direction and saw the eyes in the fissure. It was too small to let the bog-hound through, but the creature was already widening it with its massive paws and she knew it would get through in a moment. 
+She ran towards the horses on instinct, using the dagger to cut through the ropes tying them down, Brille first. It was faster than trying to untie the knots, but she still had to fold the rope over the blade and drag it strongly. 
+"Eris!" She called out, when both Brille and his gelding were free. All four carriage horses were still tied, and the bog-hound could already push his head through. She didn't dare look back to check if the other two creatures broke through the wards.
+
+---
+
+## Turn 7 — Vesper (Eris & Caelum, 22:21 CET)
+
+*"Eris!"*
+
+The sound of her voice came from the wrong place.
+
+Not from the dark cliff overhang behind the dead firepit where he had just pinned her to the stone and told her not to move—but from the eastern rock wall by the spring, twenty yards to his left.
+
+Eris spun his head so fast his copper hair lashed across his cheek.
+
+Through the silver gloom of the oaks, he saw Brille and his own black gelding bolting clear toward the safety of the baggage coach with trailing, severed hemp leads—and right behind them, standing in the mud beside the four rearing carriage horses with an eight-inch riding knife in her fist, was Aurelie.
+
+Four feet above her head, the granite seam in the eastern cliff split open with a sound like a pistol shot.
+
+A slab of wet rock crashed into the spring pool. The third kelpie-hound jammed its massive, slime-slick shoulders straight through the widened gap, six pale eyes locking instantly onto the nearest living thing in reach—not the draft team, but the small, warm mortal standing at the tie-rail with a dagger.
+
+Something cold and violent seized Eris Vanserra by the throat.
+
+It was not a calculation about his bargain, or his coup, or what her dragon would do if she died. For one blinding fraction of a second, as the beast's curved yellow tusks lunged downward toward her shoulder, five hundred years of court training vanished into pure, black terror—followed immediately by a rage so hot it nearly blew the stones out of the earth.
+
+"Caelum—*hold the draw!*" Eris snarled.
+
+He didn't run the twenty yards across the leaf-litter; the air simply cracked with a smell of scorched ozone and folded around him.
+
+Down at the southern choke-point, the sudden drop in Eris's concentration made the front amber ward-line flicker and snap like thin glass. The two massive bog-hounds in the draw roared—a wet, rattling sound like drowning lungs—and charged between the split monoliths. Caelum didn't flinch; his bowstring thrummed twice in two heartbeats, driving a pair of iron-tipped ash shafts deep into the lead monster's throat and eye-cluster before his long hunting knives flashed into his fists.
+
+By the eastern spring, the flanking kelpie-hound never reached Aurelie's shoulder.
+
+A blur of dark wool and white-hot steel materialized directly between Aurelie and the fissure.
+
+Eris's left arm swept backward like an iron bar, catching Aurelie around the waist and hurling her three paces back behind his hip against the flank of the lead carriage horse—just as his right hand drove three feet of Autumn-forged court steel straight up through the roof of the lunging beast's open mouth.
+
+Black, foul-smelling bog-blood erupted over Eris's sleeve and cuff. The creature shrieked, thrashing its draft-horse bulk in the narrow rock cleft and snapping the wooden tie-rail in half with one clawed foreleg. Still, bog-kelpies were half-dead river-things; steel alone didn't stop them fast enough.
+
+With the monster's tusks scraping inches from his ribs as it tried to crush him against the stone, Eris didn't draw a second blade.
+
+He clamped his bare left hand—the same hand that had been burning against Aurelie's skin thirty seconds ago—straight onto the beast's wet throat below its jaw, and let the furnace inside him off the leash.
+
+There was no open plume of flame to light up the mountain ridges for five miles. Instead, a terrifying, muffled *thump* of white-gold heat flashed *inside* the creature's neck. Steam and the stench of boiling marsh-mud blasted out of the fissure as the kelpie-hound's throat cooked from the inside out in two seconds flat; its six pale eyes went milky white, and eight hundred pounds of dead bog-flesh collapsed forward into the spring pool with a heavy splash.
+
+Eris wrenched his blade free with a wet rasp of steel, breathing hard, black slime and steaming blood dripping from his knuckles.
+
+Before the carcass had even stopped twitching, he pivoted on his heel, reached past the terrified carriage horse, and caught Aurelie by the front of her cloak—yanking her clear of the thrashing hooves and backing her hard against the rear wheel of the baggage coach while his eyes swept her from throat to boots in the starlight, checking for blood.
+
+"Are you touched?" Eris bit out, his chest heaving against her knuckles, his voice shaking with an adrenal fury he couldn't even pretend to hide as his bare, smoking-hot fingers gripped the wool at her collarbones. "When I tell you not to move from the stone, *Aurelie*, I do not mean *go play stable-boy in the teeth of a marsh-fiend with a butter knife!*"
+
+He hadn't called her *Lilly*.
+
+Twenty yards down the slope, a heavy crash echoed through the oaks—Caelum had dropped the first charging hound in the draw with a hamstring cut and a blade through the skull, but the second beast—the largest of the pack, bristles crusted in bog-iron—had bowled past him in the dark and was barreling straight up the center of the hollow toward the baggage coach and the four panicked carriage horses still straining at their uncut ropes.
+
+And high above the northern ridge—closing the last five miles of mountain sky at a dive so steep the air was already beginning to whistle like an incoming gale—a pair of furious azure-blue eyes and white-and-ice-blue feathered wings broke through the high cloud shelf. 🍂🔥🗡️🐉
+
+---
+
+## Turn 8 — Ruby (Aurelie & Prince, 22:49 CET)
+
+She had just started cutting the rope of the first carriage horse, when the creature broke through. Her head snapped up, and she opened her mouth, though she couldn't even draw breath to scream. Then Eris materialized between her and the beast, right out of thin air and spun her away.   
+The entire fight took seconds, and the only thing that Aurelie registered was the fear in her own bloodstream, and the smell of burning bog-flesh, like a heated mud and bog water, hitting her nostrils.   
+And then the beast fell, and Eris caught her by the cloak. Aurelie drew a sharp inhale when his hand — still blisteringly hot from boiling the creature's throat alive — brushed through her bare collarbone like a brand. Her eyes opened in terror and disbelief, his questions barely registering.  
+"No… Touched? How did you—?"  
+She wasn't afraid of his heat, of his threats and his anger at her. But this version of Eris — the one that seemed genuinely terrified by the prospect of her being killed — scared her to the bone.   
+But then she felt *him*, barrelling through the air at breakneck speed and looked up in time to catch the bolt of light and scales and feathers that her dragon was.   
+He came down on the pack leader with a roar that went straight through Aurelie's ears and bones. He wasn't that much larger from the creature, but the bog-hound has never in its life fought with something that attacked it from the sky. It tried to twist and catch Prince's tail or one of his limbs, but the dragon was relentless. It tore chunks of the beast neck away with his maw, while his claws tore deep gauges in its side. The creature trashed and shrieked and buckled, and then the dragon gripped its neck and tore, yanking his elongated neck and tearing the hound's head clean off its body.  
+The shriek died, cut off like a string, as legs gave out under the bog-hound kelpie, dropping in a heap of lifeless meat under the dragon.   
+Prince's flanks rose and fell in sharp pulls. He dropped the head on the ground, dark blood marking his jaw and throat. He looked up, directly at Eris, his pupils contracting into slits. He stepped off the body, taking one step towards the High Fae, still holding his rider by her cloak. Then he took a deep inhale, and snapped his head forward in a snake-like motion. He didn't attack, but the roar that came from his mouth was an ear-splitting, teeth-rattling thing of pure fury.
+
+---
+
+## Turn 8 — Vesper (Eris & Caelum, 22:51 CET)
+
+The force of the roar hit the hollow like an avalanche breaking off a peak.
+
+Dead red oak leaves and loose pebbles blasted backward across the dirt. Behind the coach, the four surviving draft horses screamed and dropped to their hocks against their ropes; down by the split monoliths, Caelum clapped a bloodied forearm over his pinned fox ears and dropped to one knee in the ferns as the sound vibrated straight through the granite bedrock.
+
+Five paces from the dragon's blood-soaked jaws, Eris Vanserra didn't take a single step back.
+
+The sheer physical pressure of Prince's voice whipped Eris's copper hair straight back from his shoulders and blew a spray of black bog-blood across his cheekbone. Every instinct of a creature born to the courts of Prythian screamed at him either to throw up a shield of white-hot flame or to get clear of twenty-two feet of furious, winged apex predator whose jaws had just torn an eight-hundred-pound marsh-fiend's head off by the roots.
+
+Instead, Eris pivoted a half-step on his bootheel—putting his own broad shoulder slightly *more* between the dragon's bloody teeth and Aurelie's face, purely out of reflex against the flying spittle and the deafening shockwave—while his bare left hand slowly uncurled from the wool at her collarbones.
+
+Where his scorching knuckles had brushed the bare skin of her throat a second ago, a faint, angry pink flush was already rising on her collarbone.
+
+Eris saw it in the starlight. His jaw tightened by a fraction of an inch.
+
+He didn't raise his court sword toward Prince. With deliberate, unhurried precision, Eris lowered the point of the soiled blade until the tip rested against the mud by his boot, palm open enough to show he wasn't casting—while his burning amber eyes locked straight onto Prince's slitted azure ones without blinking.
+
+"You were twenty miles out," Eris said into the ringing silence left behind by the roar. His voice wasn't raised, and it wasn't deferential; it was low, rough as gravel, and still vibrating with the remnants of his own murderous adrenaline. "Three minutes from the northern preserve ridge to the southern pass. I didn't think wings built like yours could take a dive that steep without snapping a primary."
+
+He looked directly at the dark bog-blood dripping from Prince's chin onto the decapitated carcass, then back up into the dragon's furious blue eyes.
+
+"Save your breath for the one behind me," Eris told the dragon flatly, jerking his chin a fraction of an inch toward Aurelie against the coach wheel. "I told her to stay against the cliff wall under the overhang. She decided the horses' ropes were more important than her own neck."
+
+Down the draw, Caelum finally straightened out of the ferns, shaking his head hard as one of his russet fox ears gave a sharp, ringing twitch. He took one look at the headless, eight-hundred-pound carcass smoking under Prince's foreclaws, then at the severed six-eyed skull lying three feet away in the leaf-litter, and let out a low, breathless whistle.
+
+"Mother above," Caelum muttered, wiping black swamp-ichor off his hunting knives onto the moss. "Remind me never to irritate your bird, my lady."
+
+Against the rear wheel of the baggage coach, Eris still hadn't stepped out of Aurelie's space.
+
+With Prince looming five paces away like a pillar of white-and-ice-blue fury, Eris turned his head back down to her. The terrifying, bottomless panic she had glimpsed in his eyes three seconds ago was already being bricked back up behind five centuries of iron control—except his chest was still rising too fast, and when his gaze dropped to the pink heat-mark his own fingers had just left across her bare collarbone, something dark and unsettled flickered through the gold rings of his irises.
+
+He didn't apologize for the push, or for yelling her real name, or for the brand on her skin.
+
+Instead, very slowly—while Prince watched every millimeter of the movement with slitted, lethal azure eyes—Eris cooled his bare left hand down from blistering iron to that low, steady, hearth-ember warmth, and lifted two fingers toward the red flush on her collarbone, stopping half an inch short of touching her so both she and her dragon could see it coming.
+
+"Let me take the sting out of that before your dragon tries to take my arm off at the elbow," Eris murmured, so low only she and Prince could hear it over the settling horses. "And don't ask me *how* I crossed the hollow, Lilly. You already know the answer—you just didn't think I would spend a secret like that on you." 🍂🔥🗡️🐉
