@@ -56,3 +56,37 @@ Eris hosts four high-ranking Autumn nobles at Ashgrove under the guise of an aut
 - **Completed Beat — The Seventh Evening (`sessions/2026-11-01_lucien_dinner_turns.md`):**
   - Lucien and Jurian's dinner is complete: Aurelie gutted Jurian over the soup, endured Eris's bare hand high inside the thigh-slit of her green velvet gown under the tablecloth, deflected Jurian's news of Queen Ismena's three ships at the southern neutral ports, and publicly turned down Lucien's escape signal (while learning about Lucien's boyhood stash of Dawn Court natural histories behind the third shelf by the east window in the Ashgrove library).
   - In the aftermath, Aurelie bit Eris's thumb hard enough to draw blood; Eris branded the hollow of her throat with a crimson fingerprint of his blood (*"Do not wash that off until morning"*) and sentenced her to stand behind his chair in the crimson wool as his silent cupbearer when the four Autumn Court lords dine at Ashgrove in three nights. Aurelie licked his blood off her lips while holding his gaze (cracking a crystal goblet from Eris's heat spike), told him to let the dragon in himself, and went upstairs to cry herself to sleep without touching the blood mark on her throat while Eris opened her upper balcony latch from below for Prince.
+
+---
+
+## 5. Night 1 in the Hidden Hollow — The Midnight Complication ("Dealer's Choice", Prepped 18 Nov 2026)
+*(Triggered by Ruby's 18 Nov 19:48 ask: "I want something to happen at night, dealer's choice. But I don't want the road to go too smoothly 😏🗡️")*
+
+### A. The Setup & Double Detonator
+- **Why tonight goes sideways:** In Turn 3, Eris revealed he sent a morning dispatch pulling the southern game-wardens off the royal red-stag preserve four miles north until dawn so Prince could hunt undisturbed. What Eris doesn't know yet is that **someone inside the Forest House (Kallum's network via Lady Meridia's runners) flagged that counter-order within the hour**.
+- **The Hunter Pack:** **Vane of the Copper Fen** (one of Beron's ruthless kennel-captains from the Forest House) and four mounted blood-trackers with **two ash-collared bog-hounds** rode hard down the military trace to find out *why* Eris cleared a four-mile royal valley on the eve of a border crossing.
+- **Beat 1 — The Bond Snap & The Ward Chime (Interrupting the Fireside Scene):**
+  - Right as the fireside tension between Eris (kneeling between Aurelie's boots, warming her thighs) and Aurelie hits a peak on Turn 5/6, **two alarms fire at once**:
+    1. **Aurelie's bond with Prince snaps cold-alert four miles north** (riders with iron-tipped repeater crossbows and flare-horns just entered the lower edge of the stag preserve where Prince was finishing his kill—giving Aurelie one sharp heartbeat of thinking *Eris set a trap for him*).
+    2. Half a second later, **Eris's own amber bloodline ward along the highway monoliths shivers like plucked wire**—and the look on Eris's face (pure, glacial fury that someone used *his* warden-dispatch to track his column) proves to Aurelie in an instant that the ambush wasn't his.
+
+### B. Pitch-Dark Proximity Under the Cliff Overhang
+- **Killing the Fire:** With a single snap of his fist, Eris snuffs the gold campfire to black coal, plunging the Hidden Hollow into pitch mountain dark and cold starlight.
+- **Tactical Deployment:**
+  - **Caelum** ghosts up the east cairn with his longbow strung and twin hunting knives bare, russet fox ears flat as he tracks the bog-hounds turning off the paved highway into their draw.
+  - **Forced Proximity in the Dark:** Bog-hounds track mortal heartbeats and sweat on the night wind. To keep her scent and sound sealed inside his personal blood-ward while the trackers probe the outer windbreak, **Eris backs Aurelie into the deep shadow beneath the granite cliff overhang**—wrapping his dark wool cloak around both of them, her spine to the cold rock, his chest flush against hers in the dark, one bare hand warm near her throat/jaw to feel if she makes a sound.
+  - **The Friction:** She can feel the lethal heat coiling under his skin—not courtier polish, but a predator about to burn five men alive—while her bond with Prince screams that Prince is winging south at breakneck speed four miles away.
+
+### C. The Breach & Midnight Skirmish (Keeping the Winter Twist Intact!)
+- **Crucial Canon Guard:** Do **NOT** reveal Prince's ice-breath to Eris yet (Eris must keep believing dragons are fire-creatures until the Winter Court!). Prince kills with **dead-silent dive speed, crushing white-and-ice-blue weight, razor talons, and his golden tail-blade** (which shears open and shut like twin scimitars).
+- **The Escalation:**
+  - One bog-hound catches the residual ironwood/mortal trace at the split monoliths and bays; Vane's trackers loose a **red Forest House signal-bolt** or try to breach the outer stone windbreak to take a witness back to Beron.
+  - Eris steps out of the overhang in full **Lucifer-Eris** lethality—no wasted words, pure silent white-gold ash-fire that turns wet ironwood and bog-hound collars to slag—while Caelum drops the horn-blower from the east cairn with an arrow through the throat.
+  - **Prince's Midnight Drop:** Just as a mounted tracker wheels his horse to bolt back down the highway to warn Beron, **Prince drops vertically out of the starlit clouds onto the thirty-foot granite shelf / ravine mouth**—no roar until impact, golden tail-blade shearing clean through the escape path, azure eyes glowing in the dark above the cliff like twin cold stars.
+
+### D. The Aftermath & Overnight Cost (Turn 7+ Payoff)
+- **No Witnesses, New Stakes:** Now Eris knows Beron (or Kallum) has eyes on his southern dispatches—meaning the highway to the Summer border pass tomorrow is hot, and they cannot afford a single slip.
+- **Physical & Emotional Edge:**
+  - Option 1: Eris takes a cold-iron or ash-wood quarrel graze across his forearm/ribs when he intercepted a bolt meant for the shadow under the overhang (or burned a ward-net barehanded), and furiously refuses to make a sound about it back by the banked coals—forcing a razor-sharp tables-turned moment where Aurelie sees the blood on his cuff.
+  - Option 2: With the outer ward burned out from the fight and Prince coiled on the thirty-foot granite shelf directly above them (close enough that his golden tail-blade hangs over the lip of the rock like a pendulum), Eris and Aurelie have to share the darkened canvas shelter on a half-banked coal bed for the rest of the watch while Caelum runs a two-mile sweep to erase the tracks.
+
