@@ -1,0 +1,101 @@
+# Road to Night — arc planning notes (19 Nov 2026)
+
+*Talked through by Ruby and Vesper on Telegram, 15:09–15:58, while she waited for a work call. Nothing here has been played. These are agreed bones and open questions, not canon. Player-visible on purpose: everything below was said to her face. GM-only material stays in `gm/campaign_ledger.md`.*
+
+## Where the idea came from
+
+Ruby was reading *Feathers So Vicious* and wanted to borrow one thing from it: humans tell children that the fae are the monsters, and then the humans are the ones who come with chains. Aurelie has spent the whole story braced against Eris. The real threat is the well-mannered people she was promised to at home. Her words: not that book's level of horror.
+
+## The spine
+
+1. **Summer.** Lucien meets the party there. He is the emissary to the mortal lands, so he is the first to hear that Queen Ismena is tightening the search. Tarquin confirms that her people have been asking, very gently, about a girl with a stone.
+2. **Aurelie's advantage.** Nobody on the mortal side knows the egg hatched. They are looking for a runaway and a stolen jewel, not a dragon.
+3. **The leak.** As the court visits go on, Prince shows himself. Someone at one of those courts is a mole and tells Ismena that the jewel was an egg and it has hatched. From there the pace picks up.
+4. **Lucien travels with them** from Summer onward to keep Aurelie safe, and drops away somewhere around Winter (exact exit not decided).
+5. **Night.** Ismena has struck a deal with someone in the Court of Nightmares who wants Rhysand gone (Keir is the natural partner). Aurelie and Prince are taken and held under the mountain for a few days. They are not dragged back to the mortal lands; the mortal world comes to her.
+6. **Julian arrives to collect.** See below.
+7. **Eris detonates.** See below.
+8. **The bargain dissolves overnight in Night.** She goes to bed with the mark and wakes without it.
+
+Order agreed for the Night beats: first kiss (before Night) → arrival → capture and a few days held → the detonation → their first time → the morning without the mark.
+
+## Prince Julian
+
+- Arrives as the knight in shining armour. Polite at first.
+- What he wants is the dragon and the power that comes with it. Aurelie is inconsequential to him: someone to sit still, look pretty and bear heirs.
+- He promises Prince a very comfortable cage and never once speaks to him as a person.
+- When Aurelie refuses everything and tells him where to go, he gets angry and hits her.
+- The contrast is the point: Eris is harsh with her, shouts at her, has hurt her, and still respects her teeth and her fire more than Julian ever will.
+- Her parents: Vesper's suggestion is that they are relieved and sincerely think this is a rescue, rather than villains. Ruby did not object but did not settle it.
+
+## Why Prince does not simply burn them all
+
+Ruby floated humans being immune to his magic. Vesper pushed back: Eris bargained for her because Prince could burn Beron off a throne, and an immunity would shrink him. Preferred instead, that he could kill everyone and cannot use it:
+
+- they hold Aurelie, and he is not fast enough to be sure;
+- her family is standing in the hall;
+- possibly something made for his kind, out of Ismena's collection (the egg was item #312, so there are other items). **New invention, needs Ruby's yes.**
+
+**Checked in the prologue transcript:** the eggshell is gone. The pieces turned to ash as they fell, and where they dissolved against her skin they etched the mark into her left palm. Nothing is left for anyone to steal. What remains of the egg is in her hand.
+
+## The detonation ("who hurt you")
+
+- Eris walks in, sees what Julian did, and burns him. Not dead: a permanent scar on the side of his face.
+- Vesper's additions, both welcomed: Aurelie draws blood first (she bites; Julian is already bleeding from her when Eris arrives), and it costs Eris, because doing it in front of Keir's court shows everyone he cares, which is what he has been hiding from Beron.
+- By the next morning Eris is already using the incident as leverage for the coup.
+
+## The bargain, as it bears on this
+
+Terms are in `arcs/Chapter1_Synopsis.md` (the first dinner, Day 3).
+
+- **Neither can fabricate to the other.** Eris added the clause for her, and the synopsis has him bound the same way. So "I hate you" only comes out while it is true. By Night one of them may try to say it and fail. **Open question put to Ruby, unanswered:** does the bargain physically stop the words, or do they come out and burn?
+- Ruby had forgotten the clause and is not sure it was kept everywhere. Decision: skim past any old slip and hold to it from now on. Vesper offered a sweep of the old sessions for direct lies to Eris; not yet asked for.
+- **Night is the last court on the list** (Day, Summer, Dawn, Winter, Night), so the bargain is nearly fulfilled there, and her promise to kill him comes due just as Julian arrives to "rescue" her. While the mark is still on her arm, "rescuing a captive" is true on paper, which is what would make Keir go along.
+- When the mark goes, the no-lying clause goes with it. Her first sentence to him as a free woman is that she is staying for the sake of the Autumn Court. He knows she can lie again.
+
+## The first time and the morning after
+
+- She chooses it. In the original version (with Vixen) it was a hate scene: she says she hates him, he says it back, she kisses him, he cannot stop, she asks for it. Next day they are back to "I hate you" with a strong undercurrent that it was never hate. Keep it close to that.
+- Morning: no mark. She could walk out and does not. By then she has burned her bridges with Ismena and her family, so there is nowhere to go home to but Ashgrove.
+- She tells him she could kill him now. He says she is welcome to try. She says she might have a use for some of his body parts. Then they eat breakfast and she asks how they put him on his father's throne.
+- Her plan after that: help Eris take Autumn, then she and Prince go their own way, even if it takes years.
+
+## Eris stays a bastard
+
+Ruby's firm wish: no whitewashing. He does not become a good man because he loves her. Agreed rules:
+
+- He never apologises for the bargain or for the Day 6 threat against her family. If the threat is ever withdrawn, it is by action, not a speech.
+- He still overrules and outmanoeuvres her when their interests collide. He would choose the coup over her wishes. He would not choose it over her life, and that is the only line that moves.
+- He uses her and the rescue toward his own ends, while knowing he would die for her if it came to it.
+- Love makes him honest with her, not gentle.
+- Her promise to kill him stays a live possibility, never a joke between them.
+
+Vesper's one pushback, which she liked: "ruthless for her instead of to her" is itself the usual whitewash, so some of it must stay pointed at her.
+
+## Mates
+
+Ruby's idea: possible, but Aurelie would first have to channel through Prince and so become a creature of magic, otherwise she could not perceive the bond. Vesper's view: hold it back a long time. Her staying after the bargain dissolves is a choice, and that is stronger than fate. Not decided.
+
+## Prince as an endling
+
+By Night they know there are no other dragons. Prince has outlived his kind by millennia and has to come to terms with never finding a mate, family or home among his own. Later he discovers he can shift. Kallias's offer of a home in Winter matters here; he will want to visit often. This is Ruby's to write. End state she has in mind: Winter and Autumn as their two homes, with new trouble found by then.
+
+## The second man
+
+Ruby loves two men and one woman as a shape and wants a second, serious suitor.
+
+- **Lucien is not the serious rival.** Brothers would rule out what she wants from the triangle, and she is not sure she likes brother rivalry. Instead **Lucien takes over the role planned for the Summer man**: the alternative who is too nice, whose presence makes Aurelie realise she prefers Eris. She already likes him and already refused his rescue once.
+- **The serious one is a Winter Court male** (Vesper's pick, accepted). He speaks to Prince first, courts her through the dragon, and comes attached to the place Prince wants to be.
+- **Ruby builds him herself.** He must be rooted in canon the way Theo Nott is in Intertwined: a real history and real standing with canon characters, not a stranger who walks in. She said she has a few ideas. **Waiting on her.**
+- Azriel may appear in Night as scenery. No claim.
+
+## Still open
+
+1. Does the bargain stop a false "I hate you", or let it out and burn?
+2. What does Aurelie feel when she first sees Julian: fear, or the pull of home?
+3. How much does Ruby want to know in advance, and how much should Vesper hide so it can surprise her?
+4. The Winter male: who he is. Ruby's ideas first.
+5. Where and how Lucien leaves the road.
+6. Her parents: sincere rescuers or not.
+7. Whether anything from Ismena's collection can hold Prince.
+8. Mates: whether, and when.
