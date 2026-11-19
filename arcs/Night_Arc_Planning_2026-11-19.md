@@ -86,7 +86,12 @@ Ruby loves two men and one woman as a shape and wants a second, serious suitor.
 
 - **Lucien is not the serious rival.** Brothers would rule out what she wants from the triangle, and she is not sure she likes brother rivalry. Instead **Lucien takes over the role planned for the Summer man**: the alternative who is too nice, whose presence makes Aurelie realise she prefers Eris. She already likes him and already refused his rescue once.
 - **The serious one is a Winter Court male** (Vesper's pick, accepted). He speaks to Prince first, courts her through the dragon, and comes attached to the place Prince wants to be.
-- **Ruby builds him herself.** He must be rooted in canon the way Theo Nott is in Intertwined: a real history and real standing with canon characters, not a stranger who walks in. She said she has a few ideas. **Waiting on her.** (Full vibe pitch, canon origins A/B/C, name roster, Eris contrast table & concept portrait staged in `arcs/Winter_Court_Male_Pitch_2026-11-19.md` and `reference/Winter_Court_Commander_and_Prince_Concept.png`.)
+- **Ruby builds him herself.** He must be rooted in canon the way Theo Nott is in Intertwined: a real history and real standing with canon characters, not a stranger who walks in. She said she has a few ideas. **Waiting on her final name + origin lock.**
+  - *19 Nov 17:00–18:23 locks staged in `arcs/Winter_Court_Male_Pitch_2026-11-19.md`:*
+    - **Visuals:** Ruby's 17:23 portrait (`reference/Winter_Court_Commander_Ruby_Portrait_2026-11-19.jpg` — long black hair with shaved-side undercut fade, trimmed beard, pale glacier-blue eyes, black studded northern armor) + first-meeting concept (`reference/Winter_Court_Commander_and_Prince_Concept.png`, noting Prince must be much larger in all future renders).
+    - **The *"Kai"* Name Shortlist (18:00):** Formal northern name (**Malakai**, **Nikolai**, **Kairon**, or **Kaiden** — avoiding *Caius/Kaius* to keep clear of our Autumn NPC Caius and Caelum) with **"Kai"** as the nickname only Viviane and Aurelie dare to use to his face.
+    - **Hidden Runic Wing-Stave Kill-Tally Tattoo (17:52–18:22):** Strictly below the armor collar line (bare neck), climbing the spine and branching across both shoulder blades like folded stave-wings with 236 herringbone kill notches, sweeping over the clavicles to lock over the sternum/heart (`art/winter_tattoo/winter_warlord_tattoo_blueprint.png` & `winter_warlord_tattoo_stencil_parchment.png`).
+    - **Two-Tops Collision Dynamic (18:01–18:11):** Competitive devotion and physical counterweight against Eris Vanserra (see `Winter_Court_Male_Pitch_2026-11-19.md` §7).
 - Azriel may appear in Night as scenery. No claim.
 
 ## Still open

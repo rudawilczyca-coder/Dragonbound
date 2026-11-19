@@ -27,11 +27,22 @@ In *ACOMAF* and *ACOWAR*, SJM established three load-bearing facts about the Win
 
 ---
 
-## 3. Name Roster to Taste-Test
+## 3. Name Roster to Taste-Test (Updated 19 Nov 18:00 — The "Full Names for Kai" Shortlist)
 
+### A. Ruby's 18:00 "Kai" Shortlist (The Formal Commander Name -> Begrudging *"Kai"* Dynamic)
+- **The *"Kai"* Rule:** To his soldiers, to Kallias's court, and to Eris Vanserra, he is addressed exclusively by his full northern name and title (*Commander Malakai*, *Lord Nikolai*). Only **Viviane** (when teasing him) and eventually **Aurelie** (when she deliberately refuses to be intimidated by his six-foot-four warlord glare) call him **"Kai."** The first time she drops *"Kai"* in front of Eris, Eris's jaw visibly ticks while the warlord lets her get away with it without a single correction.
+
+| Name | Phonetic Weight & Meaning | Pairing Against *Eris Vanserra* & Canon Note |
+| :--- | :--- | :--- |
+| **Malakai** *(or **Malachi**)* | Three heavy, rolling syllables with a sharp middle *k* and dark, ancient-oath weight | Sounds like an old-blood Winter warlord whose name is carved into glacial border stones; **"Commander Malakai" -> "Kai"** has maximum contrast between terrifying northern rank and Aurelie's nickname. |
+| **Nikolai** | Aristocratic northern winter steel; velvet-over-glacier cadence | Gives him unmistakable High-Fae nobility alongside his brute physical power; *Lord Nikolai of the High Crags* goes toe-to-toe with *Eris Vanserra* in any council hall. |
+| **Kairon** *(or **Kyro**)* | Cold iron and high altitude; crisp, mythic northern edge | Keeps the *Kai-* root clean and completely separate from our Autumn lesser-fae steward **Caelum** and our NPC **Caius** (which rules out *Kaius/Caius* from the graphic). |
+| **Kaiden** *(or **Makai**)* | Rough-hewn, grounded warrior cadence | Clean two-syllable snap when barked across a snowy pass or an ambush line. |
+
+### B. Earlier Northern Roster (Still Available as Surnames, House Names, or Alternates)
 | Name | Phonetic Weight & Meaning | Pairing Against *Eris Vanserra* |
 | :--- | :--- | :--- |
-| **Kaelen / Caelen Vane** *(or **Frost**)* | Sharp, cold, clean consonant bite; sounds like wind off a glacier *(Kaelen keeps the spelling visually distinct from Caelum Brennec)* | Cuts cleanly against *Eris*'s sibilant courtly hiss. |
+| **Kaelen / Caelen Vane** *(or **Frost**)* | Sharp, cold, clean consonant bite; sounds like wind off a glacier *(Vane or Frost also pairs cleanly as a surname with Malakai / Nikolai)* | Cuts cleanly against *Eris*'s sibilant courtly hiss. |
 | **Sorin** *(or **Soren**)* | Dark, steady, wolfish northern rumble | Warm low vowels and hard *r/n* grounding Eris's quick, aristocratic blade-work. |
 | **Valen** *(or **Torin**)* | Old-blood Prythian nobility; Cassian-weight physical presence | Sounds like a name carved into a Winter treaty stone five hundred years ago. |
 | **Hale** | Short, rough-edged, punchy (hoarfrost / hail / whole) | A single-syllable hammer against Eris's silk-wrapped multi-clause threats. |
@@ -71,9 +82,23 @@ If **Eris Vanserra** is *smoke, crimson wool, sharp court masks, chess-board cru
   - *Ruby's Scale Rule (17:23):* **"Prince is FAR too small and cute XDDD"** — in all future renders and scenes, Prince must be sized properly as a formidable white-and-ice-blue feathered drake (with gold horns, gold tail-blade, and azure eyes), never a small snow-pigeon.
 - **Ruby's Official Character Portrait (17:23):** `reference/Winter_Court_Commander_Ruby_Portrait_2026-11-19.jpg`
   - **Locked Visuals:** Long jet-black hair falling over the shoulders with a **shaved-side undercut fade**, pointed Fae ears, **striking pale glacier-blue eyes**, a **trimmed dark beard**, and weathered black northern armor with studded metallic trim along the high collar/gorget and pauldron.
-- **The Kill-Tally Stave Tattoo Blueprint (Ruby's 17:23–17:52 Design):**
+- **The Kill-Tally Stave Tattoo Blueprint (Ruby's 17:23–17:52 Design + Jason's 18:22 SVG Forge):**
   - **Inspiration:** Xaden Riorson (*Fourth Wing* rebellion/kill marks) + Rowan Whitethorn (*Throne of Glass* / Maasverse Fae blackwork) + two Nordic/geomantic vertical rune-stave sheets (*Force, Voice of Ancients, Escape from Shadows, Protection, Eclipse, Pleine lune*).
+  - **Generated SVG & High-Res PNG Assets (`art/winter_tattoo/`):**
+    - `art/winter_tattoo/winter_warlord_tattoo_blueprint.svg` & `.png` (dual anatomical dorsal/ventral blueprint on dark slate with callout annotations)
+    - `art/winter_tattoo/winter_warlord_tattoo_stencil_parchment.svg` & `.png` (aged vellum ink-on-parchment stencil sheet)
+    - `art/winter_tattoo/winter_warlord_tattoo_pure_linework.svg` (transparent pure vector linework for compositing)
+    - `art/winter_tattoo/generate_tattoo_svg.py` (parametric Python SVG generator for instant rib/barb/collar adjustments)
   - **Anatomy & The Reveal (17:52 Lock):**
-    - **No neck ink:** Stops below the collar line so his throat and neck look completely bare while armored—making the ink a slow-burn surprise when Aurelie first sees his bare upper body.
-    - **The Spine & Shoulder-Blade Wings:** Climbs straight up his **spine** from the lower back like a runic backbone, then **branches wide across both shoulder blades like a pair of folded stave-wings** feathered with razor-sharp herringbone kill-tally barbs.
-    - **The Front Convergence:** Sweeps forward over his collarbones and pectorals to **come together and lock across the front of his chest/heart**.
+    - **No neck ink:** Stops cleanly at the C7/T1 collar boundary (`COLLAR CUTOFF — BARE NECK ABOVE`) so his throat and neck look completely bare while armored—making the ink a slow-burn surprise when Aurelie first sees his bare upper body.
+    - **The Spine & Shoulder-Blade Wings:** Climbs straight up his **spine** from the lower back (L3) like a runic backbone (*Force* + *Voice of Ancients* bindrunes with 58 paired vertebral kill-notches), then **branches wide across both shoulder blades like a pair of folded stave-wings** (3 primary + 3 secondary stave ribs per scapula feathered with 152 razor-sharp herringbone kill-tally barbs).
+    - **The Front Convergence:** Sweeps forward over his collarbones and pectorals to **come together and lock across the front of his chest/heart** in an *Eclipse / Pleine Lune / Protection* bindrune sigil (with 26 sternum notches = **236 total recorded kills**).
+
+---
+
+## 7. The Two-Tops Collision & MFM Mechanics (18:01–18:11 Lock)
+
+When Ruby asked how two dominant alpha males work in the same room (and the same bed) without one turning into a polite sidekick:
+1. **Competitive Devotion (Weaponized Competence & Rough Worship):** Neither submits to the other. When their attention locks onto Aurelie at the same time, they compete over **who can read her faster, hold her steadier, and ruin her harder**—Eris with his sharp, aristocratic, Lucifer-coded fire and velvet cruelty; Kai with his massive, unyielding glacier-wolf strength and rough northern reverence.
+2. **The Physical Counterweight:** Because Kai is broader, heavier, and impervious to Eris's political rank, he is the **only male in Prythian who can physically catch Eris's wrist** when Eris's temper runs hot—or hold Aurelie's hips pinned in his lap while daring Eris to come closer and stop talking.
+3. **Her Power Between Them:** Between two predators who refuse to kneel to anyone else in the world, **Aurelie is the fulcrum**—getting to ruin the icy northern warlord while the future High Lord of Autumn ruins both of them.
