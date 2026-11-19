@@ -86,7 +86,7 @@ Ruby loves two men and one woman as a shape and wants a second, serious suitor.
 
 - **Lucien is not the serious rival.** Brothers would rule out what she wants from the triangle, and she is not sure she likes brother rivalry. Instead **Lucien takes over the role planned for the Summer man**: the alternative who is too nice, whose presence makes Aurelie realise she prefers Eris. She already likes him and already refused his rescue once.
 - **The serious one is a Winter Court male** (Vesper's pick, accepted). He speaks to Prince first, courts her through the dragon, and comes attached to the place Prince wants to be.
-- **Ruby builds him herself.** He must be rooted in canon the way Theo Nott is in Intertwined: a real history and real standing with canon characters, not a stranger who walks in. She said she has a few ideas. **Waiting on her.**
+- **Ruby builds him herself.** He must be rooted in canon the way Theo Nott is in Intertwined: a real history and real standing with canon characters, not a stranger who walks in. She said she has a few ideas. **Waiting on her.** (Full vibe pitch, canon origins A/B/C, name roster, Eris contrast table & concept portrait staged in `arcs/Winter_Court_Male_Pitch_2026-11-19.md` and `reference/Winter_Court_Commander_and_Prince_Concept.png`.)
 - Azriel may appear in Night as scenery. No claim.
 
 ## Still open
