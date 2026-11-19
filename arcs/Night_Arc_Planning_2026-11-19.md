@@ -6,18 +6,21 @@
 
 Ruby was reading *Feathers So Vicious* and wanted to borrow one thing from it: humans tell children that the fae are the monsters, and then the humans are the ones who come with chains. Aurelie has spent the whole story braced against Eris. The real threat is the well-mannered people she was promised to at home. Her words: not that book's level of horror.
 
-## The spine
+## The spine (Updated 19:35 — The Escalation Ladder)
 
-1. **Summer.** Lucien meets the party there. He is the emissary to the mortal lands, so he is the first to hear that Queen Ismena is tightening the search. Tarquin confirms that her people have been asking, very gently, about a girl with a stone.
-2. **Aurelie's advantage.** Nobody on the mortal side knows the egg hatched. They are looking for a runaway and a stolen jewel, not a dragon.
-3. **The leak.** As the court visits go on, Prince shows himself. Someone at one of those courts is a mole and tells Ismena that the jewel was an egg and it has hatched. From there the pace picks up.
-4. **Lucien travels with them** from Summer onward to keep Aurelie safe, and drops away somewhere around Winter (exact exit not decided).
-5. **Night.** Ismena has struck a deal with someone in the Court of Nightmares who wants Rhysand gone (Keir is the natural partner). Aurelie and Prince are taken and held under the mountain for a few days. They are not dragged back to the mortal lands; the mortal world comes to her.
-6. **Julian arrives to collect.** See below.
-7. **Eris detonates.** See below.
-8. **The bargain dissolves overnight in Night.** She goes to bed with the mark and wakes without it.
+1. **Tonight in the Hidden Hollow (Night 1 on the road to Summer — The Blood-Bite First Kiss):** Right after the bog-kelpie fight (or after the midnight complication in the hollow), his control finally snaps and hers does too. Not a gentle Disney kiss: they crash together, she bites his lip to blood and shoves him off even though she started it just as much as he did.
+2. **The Inn Before Adriata (Night 2 / Last Night Before Adriata — The Bath & The Wall):** Caelum stays with the carriage and horses; Eris takes an inn room for Aurelie and himself so they can wash the road and marsh blood off and look presentable for Tarquin's court. Leaving her with the steaming tub, he drops a sarcastic remark; she fires back with a smirk (*"Wouldn't you like to watch?"*). He sees red—backs her against the wall, presses her flush through their clothes, grinds against her (*"You have NO idea what I would like to do to you"*) while her hands fist in his shirt, and presses his thumb/finger straight onto the fresh burn on her collarbone (*"Ask me to leave you alone, and I will"*). He turns the heat up under his skin as she watches him without asking him to stop—until she says one fatal line in the moment that makes him spin on his heel and storm out.
+3. **Summer (Adriata — The Boiling Point & Lucien):** In Summer, the physical seal is already broken: dark corners, touching, kissing, backing her against marble pillars while denying anything in public. Then **Lucien** arrives—genuine, kind, scarred, looking at Aurelie like a captive who needs saving from his bastard older brother. Eris turns into a walking thermonuclear powder keg (and half-jokingly a human sauna for the entire Adriata bay so he doesn't literally combust).
+4. **Aurelie's advantage.** Nobody on the mortal side knows the egg hatched. They are looking for a runaway and a stolen jewel, not a dragon.
+5. **The leak.** As the court visits go on, Prince shows himself. Someone at one of those courts is a mole and tells Ismena that the jewel was an egg and it has hatched. From there the pace picks up.
+6. **Lucien travels with them** from Summer onward to keep Aurelie safe, and drops away somewhere around Winter (exact exit not decided).
+7. **Winter (Commander Malakai / "Kai").** Now when they reach Winter, Eris and Aurelie aren't untouched strangers—they've already been burning each other alive across Summer, Dawn, and Day, which makes **Malakai** stepping onto the board (kneeling to Prince, towering at six-foot-four with his 49-blade runic wings, and letting Aurelie call him *"Kai"*) ten times more explosive for Eris.
+8. **Night.** Ismena has struck a deal with someone in the Court of Nightmares who wants Rhysand gone (Keir is the natural partner). Aurelie and Prince are taken and held under the mountain for a few days. They are not dragged back to the mortal lands; the mortal world comes to her.
+9. **Julian arrives to collect.** See below.
+10. **Eris detonates.** See below.
+11. **The bargain dissolves overnight in Night.** She goes to bed with the mark and wakes without it.
 
-Order agreed for the Night beats: first kiss (before Night) → arrival → capture and a few days held → the detonation → their first time → the morning without the mark.
+Order agreed for the full escalation: blood-bite first kiss in the hollow (now) → the inn bath wall-pin before Adriata → touching/kissing + Lucien jealousy powder keg in Summer → Malakai (*"Kai"*) collision in Winter → Night Court capture → the detonation → their first time (full consummation) → the morning without the mark.
 
 ## Prince Julian
 

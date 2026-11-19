@@ -27,10 +27,11 @@ In *ACOMAF* and *ACOWAR*, SJM established three load-bearing facts about the Win
 
 ---
 
-## 3. Name Roster to Taste-Test (Updated 19 Nov 18:00 — The "Full Names for Kai" Shortlist)
+## 3. Name Roster (Updated 19 Nov 19:10 — Locked as **Malakai / "Kai"**)
 
-### A. Ruby's 18:00 "Kai" Shortlist (The Formal Commander Name -> Begrudging *"Kai"* Dynamic)
-- **The *"Kai"* Rule:** To his soldiers, to Kallias's court, and to Eris Vanserra, he is addressed exclusively by his full northern name and title (*Commander Malakai*, *Lord Nikolai*). Only **Viviane** (when teasing him) and eventually **Aurelie** (when she deliberately refuses to be intimidated by his six-foot-four warlord glare) call him **"Kai."** The first time she drops *"Kai"* in front of Eris, Eris's jaw visibly ticks while the warlord lets her get away with it without a single correction.
+### A. Ruby's Locked Choice: **Commander Malakai ("Kai")** (18:00–19:10 CET)
+- **Locked Name (19:10 CET):** Ruby officially locked **Malakai** after inspecting his portrait and tattoo stencil (*"And he's Malakai by the way. I liked Nikolai, but then I looked at his art again and yup, he looks like a Malakai"*).
+- **The *"Kai"* Rule:** To his soldiers, to Kallias's court, and to Eris Vanserra, he is addressed exclusively by his full northern name and title (*Commander Malakai*). Only **Viviane** (when teasing him) and eventually **Aurelie** (when she deliberately refuses to be intimidated by his six-foot-four warlord glare) call him **"Kai."** The first time she drops *"Kai"* in front of Eris, Eris's jaw visibly ticks while the warlord lets her get away with it without a single correction.
 
 | Name | Phonetic Weight & Meaning | Pairing Against *Eris Vanserra* & Canon Note |
 | :--- | :--- | :--- |
