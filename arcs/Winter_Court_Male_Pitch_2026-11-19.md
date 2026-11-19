@@ -65,6 +65,15 @@ If **Eris Vanserra** is *smoke, crimson wool, sharp court masks, chess-board cru
 
 ---
 
-## 6. Concept Portrait
+## 6. Concept Portraits & Runic Wing-Stave Kill-Tally Tattoo (Updated 19 Nov 18:00)
 
-- Saved in repo: `reference/Winter_Court_Commander_and_Prince_Concept.png`
+- **First-Meeting Concept Render:** `reference/Winter_Court_Commander_and_Prince_Concept.png`
+  - *Ruby's Scale Rule (17:23):* **"Prince is FAR too small and cute XDDD"** — in all future renders and scenes, Prince must be sized properly as a formidable white-and-ice-blue feathered drake (with gold horns, gold tail-blade, and azure eyes), never a small snow-pigeon.
+- **Ruby's Official Character Portrait (17:23):** `reference/Winter_Court_Commander_Ruby_Portrait_2026-11-19.jpg`
+  - **Locked Visuals:** Long jet-black hair falling over the shoulders with a **shaved-side undercut fade**, pointed Fae ears, **striking pale glacier-blue eyes**, a **trimmed dark beard**, and weathered black northern armor with studded metallic trim along the high collar/gorget and pauldron.
+- **The Kill-Tally Stave Tattoo Blueprint (Ruby's 17:23–17:52 Design):**
+  - **Inspiration:** Xaden Riorson (*Fourth Wing* rebellion/kill marks) + Rowan Whitethorn (*Throne of Glass* / Maasverse Fae blackwork) + two Nordic/geomantic vertical rune-stave sheets (*Force, Voice of Ancients, Escape from Shadows, Protection, Eclipse, Pleine lune*).
+  - **Anatomy & The Reveal (17:52 Lock):**
+    - **No neck ink:** Stops below the collar line so his throat and neck look completely bare while armored—making the ink a slow-burn surprise when Aurelie first sees his bare upper body.
+    - **The Spine & Shoulder-Blade Wings:** Climbs straight up his **spine** from the lower back like a runic backbone, then **branches wide across both shoulder blades like a pair of folded stave-wings** feathered with razor-sharp herringbone kill-tally barbs.
+    - **The Front Convergence:** Sweeps forward over his collarbones and pectorals to **come together and lock across the front of his chest/heart**.
