@@ -523,7 +523,7 @@ His amber eyes dropped instantly—from her furious, flushed face to the thin, u
 
 Ten minutes ago, she had dragged heavy wool over that burn with both fists just to spite him. Now she was standing in front of him in the mountain chill in nothing but thin linen, thrusting what he had done for her—and what he had left on her skin—straight into his face like a gauntleted slap.
 
-*She hates owing me,* Eris realized. Through the dark ink of the bargain mark on his left palm, her fury wasn't a distant ripple; it was a hot, suffocating tide slamming straight against his pulse, sharp as iron and twice as intoxicating. *She would rather I had burned her hand on the bench than put my back between her and those teeth.*
+*She hates owing me,* Eris realized. Through the Ember Script of the bargain mark on his right forearm, her fury wasn't a distant ripple; it was a hot, suffocating tide slamming straight against his pulse, sharp as iron and twice as intoxicating. *She would rather I had burned her hand on the bench than put my back between her and those teeth.*
 
 "Is that what’s choking you, Lilly?" Eris asked softly. His court drawl was gone; his voice was a low, lethal purr that barely carried past the rush of the spring, rough with woodsmoke and the adrenaline still simmering under his skin. "Not the hound. Not the blood on your shirt. The fact that you can't file tonight away under *monsters who locked me in a gilded cage*?"
 
@@ -592,9 +592,9 @@ He took half a step back, giving her the six inches of air she had just fought f
 
 A dark red bead of blood welled on the split skin of his lower lip, sliding down toward the corner of his mouth.
 
-Eris didn't wipe it away. Instead, as his blazing, molten-gold eyes stayed locked on hers in the gloom, the tip of his tongue came out—slow, deliberate, and predatory—and licked her bite clean, tasting his own blood mixed with hers while the cut sealed itself too slowly under the heat of his magic.
+Eris didn't wipe it away. Instead, as his blazing, molten-gold eyes stayed locked on hers in the gloom, the tip of his tongue came out—slow, deliberate, and predatory—and licked her bite clean, tasting his own blood where her teeth had split his skin while the cut sealed itself too slowly under the heat of his magic.
 
-"Little wildcat," Eris rasped, his voice wrecked, an octave lower than his court register and vibrating right through the soles of her boots. His left palm was still tingling where the bargain ink had flared against her panic, and his nostrils flared once—drinking in the air between them with brutal, unhidden satisfaction.
+"Little wildcat," Eris rasped, his voice wrecked, an octave lower than his court register and vibrating right through the soles of her boots. His right forearm was still tingling where the Ember Script of the bargain mark had flared against her panic, and his nostrils flared once—drinking in the air between them with brutal, unhidden satisfaction.
 
 Because she could bite him to the bone, she could shove at his chest with both hands, and she could stare at him like he was the devil climb out of the pit—but she was standing three inches from a High Fae male whose senses were built to track blood and scent in the dark.
 

@@ -438,13 +438,13 @@ Instead, the circle of dry white stone around Eris's boots stopped steaming. The
 
 Because he had felt it too.
 
-Not the insult—he had been absorbing worse from his father's table since he was old enough to hold a fork, though never from a nineteen-year-old mortal with wet chestnut hair and a mouth stained with his own brandy. What had locked Eris's spine into iron stillness was the recoil of the bargain thread between his left palm and hers three seconds earlier.
+Not the insult—he had been absorbing worse from his father's table since he was old enough to hold a fork, though never from a nineteen-year-old mortal with wet chestnut hair and a mouth stained with his own brandy. What had locked Eris's spine into iron stillness was the recoil of the bargain thread between his right forearm and her left three seconds earlier.
 
 His shields had slipped by a hair's breadth when her needle had found the one raw nerve he never let breathe: the cold, bottomless well of five hundred years spent wearing a monster's mask in a court of vipers, knowing that if his hand ever shook once, everyone he had bled to keep alive behind his back would burn.
 
 Any High Fae lady of Autumn who caught even a whiff of that suffocating dark beneath his ribs would have flinched back as if she'd stepped on an adder.
 
-Aurelie hadn't flinched. Through the dark ink of the mark on his palm, before he had slammed the iron door shut again, he had felt the wild, unmistakable lurch of her pulse—not leaning away from the edge of the abyss, but leaning *over* it. Hungry to see the bottom.
+Aurelie hadn't flinched. Through the glowing Ember Script on his right forearm, before he had slammed the iron door shut again, he had felt the wild, unmistakable lurch of her pulse—not leaning away from the edge of the abyss, but leaning *over* it. Hungry to see the bottom.
 
 *Mad,* Eris thought, his pulse hammering a slow, heavy rhythm against the base of his throat as he watched her turn her back on him—*turn her back on him*—to soothe her skittish mare and slip the cold iron bit back between Brille's teeth. *She is completely, gloriously out of her mind. And she is going to get us both killed before we reach the coast.*
 
