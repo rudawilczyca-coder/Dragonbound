@@ -655,7 +655,7 @@ Eris didn't take his bedroll under the canvas awning.
 
 He picked up his clean spare riding coat from the front box, walked to the rear wheel of the baggage wagon—directly beneath the floorboards where Aurelie had curled up between the cedar travel-chest and the bales of Autumn silk with her dagger clutched against her hip—and sat with his back braced against the heavy oak spokes.
 
-Through two inches of seasoned ash-wood above his head, he could hear the slow, uneven catch of her breathing as exhaustion finally dragged her under, and feel the steady, low-ember hum of the bargain mark on his palm settling as her pulse slowed.
+Through two inches of seasoned ash-wood above his head, he could hear the slow, uneven catch of her breathing as exhaustion finally dragged her under, and feel the steady, low-ember hum of the bargain mark on his right forearm settling as her pulse slowed.
 
 Eris rested his forearms on his drawn-up knees, tilted his head back against the wagon wheel, and stared out into the black mountain trees toward the Summer border—not sleeping for a single minute of the three hours left until dawn. 🍂🔥🗡️🐉
 
@@ -686,3 +686,87 @@ Eris didn't take off his riding coat. He walked once to the tall, shuttered sea-
 His hand closed on the iron latch. He didn't look at the bed, and he didn't look at the steaming water—only over his shoulder at her, his face a mask of cool, immaculate court indifference that didn't quite reach the dark gold rings of his eyes.
 
 "The hot water is yours," Eris said evenly, his voice clipped and formal, every trace of last night's gravel-rough heat locked behind five inches of aristocratic iron. "Try not to drown yourself in it, or scrub the skin off your neck out of spite. I'll be in the outer room going over the harbor dispatches until the water is cold—since I have no desire to arrive at Tarquin's palace tomorrow morning explaining why my guest smells like a butchered marsh-hound." 🍂🔥🗡️
+
+---
+
+## Turn 14 — Ruby (Aurelie, 19 Nov 23:31 CET) & Vesper (Eris, 23:32 CET)
+
+**Ruby (Aurelie):**
+Aurelie needed the bath. It's been almost four days since she's had one, and even though she survived a month of travel between her home and Ashgrove, it was easy to get used to the comforts that Ashgrove offered.
+Eris was already going away, and she threw over her shoulder — pulling her linen shirt up through her head.
+"Somehow drowning seems preferable to spending one more second in your company."
+She said it mostly to herself, and then she didn't hear the door closing behind her.
+"Do not force me to supervise your bath, Lady Lilly." His voice was as cold as his body was hot. She could feel the smell of his heated skin even across the room. She should've kept quiet. She should've said no and thank you and let him close the door and leave her alone.
+Instead Aurelie spun around and looked straight at Eris, clad only in a white see-through thin-strapped undershirt, and tipped her chin up.
+"Wouldn't you like to *watch*." She said it as a statement, a bait, a goad directed at the heat with which he took her first real kiss yesterday.
+
+**Vesper (Eris):**
+The iron latch didn't click shut.
+
+For the span of a single heartbeat, Eris stood dead still in the open frame of the antechamber door. The rising rosemary steam from the copper tub curled between them, catching the amber glow of the brazier and turning the thin, damp white lawn of her undershirt nearly translucent against her skin—while down her left inner forearm, the thorny red-gold briar of the Ember Script pulsed once in answer to the sudden, reckless spike of her heartbeat.
+
+Every drop of five-hundred-year court restraint in Eris Vanserra's blood simply vaporized.
+
+He didn'twinnow, and he didn't run, yet he crossed the floorboards so fast the draft of his dark riding coat blew the candle-flames sideways. Before Aurelie could take more than half a step back, she ran out of room—her shoulder blades meeting the warm, whitewashed limestone wall beside the tub as Eris crowded straight into her space, caging her in with the full, unyielding height and heat of his body.
+
+He didn't stop an inch away this time. He pressed her flush against the stone, one booted thigh sliding hard between hers through her riding breeches, pinning her weight from chest to hip so she could feel every taut, coiled line of him and the heavy hammer of his heart straight through the thin linen of her shift.
+
+His eyes weren't amber anymore; they were pure, incandescent molten gold, rimmed in black.
+
+"You have *no* idea," Eris breathed against her mouth, his voice dropping to a low, lethal tremor that vibrated right into her ribs as he leaned his weight into her, slow and deliberate and ruthlessly unmistakable, "what I would like to do to you, little wildcat."
+
+His left hand braced flat against the limestone an inch from her temple. His right hand came up—slow enough that she could have knocked it aside, though his gaze dared her to try—and he laid the pad of his thumb and index finger straight over the faint pink crescent of the burn at the base of her collarbone.
+
+He didn't press hard enough to bruise. Instead, deliberately, he let the leash on his magic slip by a single notch.
+
+A wave of pure, blistering Autumn heat rolled up under his skin—not burning her, not searing her flesh, but radiating straight from his calloused thumb into the sensitised mark on her throat like a live ember held an inch from bare skin, flooding the narrow space between the wall and his chest with the dizzying scent of cedar smoke, crushed cloves, and raw Fae need.
+
+His jaw brushed her cheek as he angled his head down, his lips hovering a breath from the corner of her mouth, his thumb slowly tracing the curve of his own mark on her collarbone while his right forearm burned gold against her side.
+
+"You pulled a dagger on me by the water last night and told me what you'd do if I touched you again," Eris murmured, so close his breath stirred the damp curls at her temple, his thumb radiating hotter against her pulse point with every second she didn't push him off. "So I am giving you your chance right now, Lilly. Ask me to leave you alone. Tell me to take my hands off you and walk out that door—and I will." 🍂🔥🗡️
+
+---
+
+## Turn 15 — Ruby (Aurelie, 19 Nov 23:47 CET) & Vesper (Eris, 23:48 CET)
+
+**Ruby (Aurelie):**
+She felt a shiver run down her spine the moment his leg parted hers. She felt every inch of his body and the heat of it, and she felt her own heart startle in her chest against his.
+Aurelie had every intention of shoving him away, and then he touched her sensitive, burned skin and she inhaled sharply.
+It was hot at first, but it quickly started to itch and then needle with pain.
+Her breaths quickened and her eyes opened wide, pupils dilating. Instead of shoving him away, she fisted both her hands in the front of his shirt.
+"Go on. Burn me. Try to break me."
+Pain and heat filled her head and made her say something she didn't fully understand.
+"You want me as broken as you are, don't you? That's the only thing you know how to do. Break things."
+She inhaled through her teeth, as the heat and the pain increased again and she smiled.
+"That's what your father did. That's why you want him dead. That's what all that darkness in you is."
+
+**Vesper (Eris — v7 Lucifer Cut):**
+The needle-sting under Eris's thumb stopped dead.
+
+Not because she had shamed him, and not out of mercy—but because the instant she hissed *"Go on. Burn me"* with her pupils blown wide and her fists knotted in his shirt, Eris saw the trick for what it was.
+
+A slow, wickedly cold smile curved one corner of his mouth.
+
+She wasn't defying him. She was *hiding*.
+
+Pain, Aurelie knew how to fight. As long as it hurt, she could grit her teeth, call him his father's son, and pretend the violent shiver running down her spine had nothing to do with the booted thigh pressed hard between her legs.
+
+Eris didn't waste a single syllable explaining his father to her. She hadn't paid for that ledger, and he didn't give free lessons.
+
+Instead, his left hand slid off the limestone wall, wrapped around the back of her nape, and tilted her chin up until her throat was bared to him—while the heat under his right thumb changed completely. The sharp, biting sting vanished, replaced by a deep, syrupy, intoxicating wave of pure Autumn warmth that sank straight through her skin into her bloodstream like mulled wine, making every nerve ending along her collarbone and down her spine ache with sudden, dizzying sensitivity.
+
+"No," Eris murmured against her parted lips, his voice a dark, velvet purr that didn't give an inch to her bait. "You don't get off that easily, Lilly."
+
+He shifted his weight forward, pinning her hips flush to the warm wall with his while his right hand left her collarbone and slid slowly down her side—over the thin, damp white lawn of her undershirt, feeling her ribs jump under his palm before his fingers curled possessively around the curve of her hip.
+
+"You want me to burn you because pain lets you keep pretending you hate this," Eris whispered into her mouth, brushing his lips across hers so lightly it was pure torture—close enough that she could taste the smoke on his breath, yet refusing to close the last fraction of an inch unless she leaned up to take it. "You want a monster to fight so you can forget the sound you made in my mouth by the stream last night."
+
+His hand at her hip pulled her one ruthless inch closer against the hard ridge of his thigh, letting her feel the full, scorching proof of what she was doing to him while her own knuckles were still trapped tight against his chest.
+
+"I don't break things that belong to my table, little wildcat—I *tame* them," Eris breathed against the corner of her jaw, his molten-gold eyes dropping to her trembling mouth with slow, predatory satisfaction as he felt her breath splinter against his throat. "And right now, with both of your hands clinging to my shirt so I won't step back... it isn't my darkness you're afraid of."
+
+Abruptly, without warning, Eris pried her clenched fingers off the front of his shirt, pressed her wrists flat against the limestone on either side of her shoulders for one scorching second, and then released her completely—stepping back a single pace to the open antechamber door while the air around her skin went cold.
+
+He looked her over from head to toe in her thin white shift, his chest rising once, his golden eyes dark as coal in the firelight.
+
+"Wash the marsh off before the water cools," Eris said softly, his hand closing on the oak door as he pulled it shut behind him. "And lock the bolt from your side, Lilly—if you actually trust yourself to turn it." 🍂🔥🗡️
