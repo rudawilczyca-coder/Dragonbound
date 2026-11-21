@@ -1331,3 +1331,92 @@ Not a flicker of that calculation reached Eris's face. Smooth as oiled steel, he
 Cresseida's smile stayed razor-polite as she folded her hands in front of her deep turquoise skirts. "And dinner on the terrace at sunset, of course. We would hate for Lady Aurelie's first evening in Adriata to pass without proper Summer hospitality."
 
 Beneath Eris's palm at the small of her back, his fingers tightened by a fraction of an inch—a quiet, warning pulse before he answered. "We would be delighted, Lady Cresseida." 🍂🔥🗡️
+
+
+---
+
+## Turn 26 — Ruby (21 Nov 20:37 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+Aurelie gave Tarquin a genuine smile as soon as his presence eased enough to let her breathe. He didn't seem… dangerous. Which was exactly what Eris had warned her about. She didn't even glance at Cresseida and Varian.
+
+"Thank you, High Lord," she said when he offered Prince the freedom of the ridge. She knew he had waved away titles, but using his name would still feel like calling Prince an overgrown chicken.
+
+{Tell him I'm grateful for the invitation, and that I'll refrain from hunting over the bay, lest I scare all the fish away.}
+
+Prince shifted his weight from one front paw to the other, his gaze fixed on the High Lord and flicking now and then to the armed male at his side. Aurelie was startled and shy, and the dragon offered the High Lord no deference at all. The contrast was stark.
+
+"My companion thanks you as well. He accepts the invitation to the open sky, but he won't hunt over the bay, so he doesn't scare away all the fish."
+
+She wasn't looking at Tarquin's face so much as somewhere around his half-open shirt. Then she curtsied again and let Eris carry the conversation. Even though her wrists were bare, she could almost feel the ghost of the faebane bracelets, and she could definitely feel the pulse of her bargain mark, visible through the slit in her sleeve.
+
+Eris's hand was still at the small of her back, and for one helpless, fleeting second she thought about begging the High Lord of Summer to free her of him. Then she remembered the dinner when Eris had threatened her family and the moment he had stepped between her and the bog-hound. Whether she liked it or not, even ignoring the bargain, she owed him her life. So she stood by his side, quiet and timid, for once exactly as he wanted her to be.
+
+She had no way of knowing that the last mortal-born girl to stand on these steps had smiled at Tarquin just as sweetly, then lied to his face, robbed his vaults, and gone on to become High Lady of the Night Court.
+
+**Vesper (Eris):**
+At the top of the step, Varian didn't smile.
+
+The Prince of Summer's hand hadn't left his sword-pommel since the white dragon's azure eyes had locked onto him—not because the beast was snarling, which a soldier would have known how to read, but because the dragon was measuring his reach with the flat, unhurried calm of a sovereign deciding which guard he would kill first if the parley broke.
+
+And yet, ten paces in front of that half-tonne of pearl scale and golden horn stood a nineteen-year-old mortal girl staring shyly at the sea-glass clasp on Tarquin's half-open shirt, translating for a myth as politely as if she were apologizing for a spaniel at a garden party.
+
+*He accepts the invitation to the open sky, but he won't hunt over the bay, so he doesn't scare away all the fish.*
+
+Cresseida's posture went very still. A hound obeyed whistles and hand-signs. A beast did not compose dry courtesies about an allied court's fishing nets in real time.
+
+"He speaks to you," Tarquin said softly—not an accusation, just quiet, unguarded wonder as his turquoise gaze shifted from Prince's unblinking cat-slit eyes back down to Aurelie. "Word for word."
+
+Then Aurelie sank into her second curtsy.
+
+As her arm bent to gather the copper-and-wine silk of her skirt, the slit along her left sleeve parted in the noon sun—catching the molten, gold-red filigree of the Autumn Ember Script winding from the inner hollow of her elbow down toward her bare wrist.
+
+Tarquin's gaze dropped to it. His warm smile didn't vanish, precisely, but something behind his turquoise eyes cooled and hardened by ten degrees—the instinctive recoil of a young High Lord who had once opened his house, his harbor, and his heart to another sweet-faced girl with a high lord's bargain etched into her skin, and paid for it in blood and stolen ancient relics.
+
+When Tarquin lifted his eyes from Aurelie's forearm, he wasn't looking at her anymore. He was looking straight at Eris.
+
+And Eris hadn't missed a single fraction of it.
+
+He had seen her eyes drop to Tarquin's open shirt. Worse—for one sharp, fractured second while his palm rested against the small of her back, Eris had felt that tiny, desperate spike kick against the inside of their bargain bond: the sudden urge to bolt across the marble and throw herself on Summer's mercy. And then, right behind it, the quiet collapse of her shoulders as she swallowed it back down and stood timid and silent against his side.
+
+*Exactly as he had ordered her to be.*
+
+It should have satisfied him. He had spent two weeks breaking his teeth on her defiance, telling her to hold her tongue, keep her head down, and let him play the board. Now she was standing beside him like a well-schooled dove while Tarquin looked at the Autumn brand on her arm as though Eris had dragged a chained songbird onto his steps—and instead of triumph, a hot, ugly knot of fury twisted straight through Eris's chest.
+
+*Look at a High Lord's collarbone and go meek for him, will you?* Eris thought, the ember-script beneath his own right cuff pulsing once, sharp and scalding, in answer to hers. *Five minutes ago you were leaning out of my carriage window with fig juice on your mouth telling me I'd be the first to kneel.*
+
+"My companion has a sense of humor, High Lord," Eris said smoothly, his voice a masterclass of cool, unbothered Autumn velvet as his gloved fingers guided Aurelie half a step toward the shaded colonnade of the sea-wing. "And Lady Aurelie takes her promises very seriously. We will leave your harbor fish in peace until sunset."
+
+"See that you do, Lord Vanserra," Cresseida murmured silkily from the top step, her eyes still tracking the glimmer of gold-red script disappearing back inside Aurelie's sleeve. "My cousin's steward will show you to the Cliff-Pearls suite. The eastern terrace has already been cleared of guards so your... guest may land without alarming the household."
+
+Tarquin inclined his head—still courteous, still gracious, though that new, watchful fathom of ocean depth remained in his eyes as he looked back to Aurelie. "Rest well, Aurelie. We will speak more at sunset."
+
+---
+
+The walk along the upper sea-colonnade took less than four minutes.
+
+Below the white marble parapet, the cliff dropped two hundred feet straight into churning turquoise surf; the moment they cleared the central courtyard, the wind caught Prince's great feathered wings as he launched effortlessly off the outer balustrade, banking out into the dazzling blue sky before circling back toward the wide, sun-bleached limestone shelf that jutted out directly below their private terrace.
+
+Two silent Summer attendants bowed them into the Cliff-Pearls suite—a high-ceilinged saloon of pale coral stone, mother-of-pearl inlay, and tall arched glass doors thrown open to a private cliffside loggia where white linen awnings snapped lazily in the sea breeze. Decanters of chilled citrus wine, iced water, and bowls of sea-salted almonds sat waiting on a low silver table.
+
+Eris didn't say a word until the attendants bowed out and the tall carved double doors clicked shut behind them.
+
+The moment the latch caught, Eris flicked his left wrist. A thin, soundless ribbon of amber Autumn fire ran along the doorframe and sealed the suite against Summer ears.
+
+Then he took his hand off the small of her back, stepped around her to put himself between her and the open terrace archway, and pulled off both dark leather riding gloves—tossing them onto the silver tray beside the wine decanters with a soft, lethal slap.
+
+When he turned back to face her, the smooth, court-polished mask he had worn on Tarquin's steps was gone. His amber eyes were bright, fixed straight on hers, burning with fifty different threads of coiled tension that had been building since the breakfast table at the Salt-Lantern.
+
+"Well," Eris said quietly—no shout, no bluster, just that low, dangerous murmur that vibrated like a drawn bowstring in the cool marble room. "Let us take inventory of the last twenty minutes, shall we, *Lady Aurelie Delacroix*?"
+
+He took a single, unhurried step toward her, ticking the points off without looking away from her face.
+
+"First, your dragon makes High Lord Tarquin's own gate-captain drop to his knees in the middle of the public square while Cresseida's spies watch from the balcony. Second, you spend the ride up the hill eating my figs, calling me by my given name, and informing me I'll be the first High Lord to kneel."
+
+He took another slow step closer, stopping within arm's reach, his gaze dropping for one searing heartbeat to the slit in her left sleeve—and then lifting straight back to her eyes.
+
+"And third—after I specifically warn you to let me take the first cut on those steps—you blurt your real family name to the High Lord of Summer, stare at his open shirt like a convent girl seeing the sun for the first time, and stand there trembling against my hand while debating for three full seconds whether to ask him to rescue you from me."
+
+His head tilted a fraction, a dark, razor-thin smile touching his mouth that didn't reach his blazing golden eyes at all.
+
+"Don't bother denying that last part, Lilly. I felt it through the mark on your arm before you even finished your curtsy." He gestured lightly toward the open terrace beyond his shoulder, where Prince's massive white shadow had just settled onto the sunny cliff-ledge twenty feet below the rail. "So tell me—before Cresseida spends the next five hours turning the southern shipping ledgers upside down looking for the name *Delacroix*—what else did your dragon tell you on those steps that made you decide High Lord Tarquin needed the truth more than you needed your cover?" 🍂🔥🗡️
