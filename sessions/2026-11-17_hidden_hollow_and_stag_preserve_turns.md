@@ -770,3 +770,564 @@ Abruptly, without warning, Eris pried her clenched fingers off the front of his 
 He looked her over from head to toe in her thin white shift, his chest rising once, his golden eyes dark as coal in the firelight.
 
 "Wash the marsh off before the water cools," Eris said softly, his hand closing on the oak door as he pulled it shut behind him. "And lock the bolt from your side, Lilly—if you actually trust yourself to turn it." 🍂🔥🗡️
+
+---
+
+## Turn 16 — Ruby (Aurelie, drafted by Vesper & approved 20 Nov 23:25 CET) & Vesper (Eris, 23:01 CET)
+
+**Ruby (Aurelie):**
+Aurelie didn’t hesitate. The second the oak door clicked shut, she crossed the flagstones on bare feet and slammed the iron bolt home—hard, loud, making certain he heard the heavy *clack* of metal locking him out.
+
+Her hands were still shaking when she peeled off the damp undershirt and stepped out of her riding breeches. She climbed into the copper tub and sank up to her shoulders, biting back a hiss as the steaming rosemary water hit the stiff ache in her thighs and the tender pink crescent along her collarbone.
+
+For a minute, she just stared at the flickering ceiling beams and told herself it was over. The marsh was washed off. The door was bolted. He was on the other side of it.
+
+Except the heat hadn’t left her.
+
+It wasn’t just the bathwater. It sat low and heavy between her thighs, an insistent, throbbing warmth that didn’t fade even when she forced her breathing to slow. Tentatively, almost as if her own body belonged to a stranger, Aurelie let one hand drift down beneath the surface of the water.
+
+Her breath caught at the first hesitant brush of her own fingertips. She didn’t know what she was doing—didn’t push it anywhere, didn’t chase it. She only lingered there for a few stunned, motionless seconds, her cheeks burning darker than the steam could explain, startled by how *hot* she was. How slick and aching and unbearably sensitive.
+
+Before her betrothal, her mother and the older ladies at Hightower had sat her down in a sunlit parlor and explained *wifely duties* in clipped, dutiful whispers. A highborn lady closed her eyes, lay still beneath her husband, and endured until it was finished. It was an obligation, like sitting through a winter sermon or wearing a tight corset.
+
+Nobody had ever told her it could feel like *this*. Nobody had warned her that a body could catch fire from the inside, or that the worst part of what Eris Vanserra had done against that wall wasn’t the threat—it was the treacherous, humiliating certainty that some part of her had *wanted* him not to step back.
+
+Aurelie snatched her hand away as if the water itself had scalded her, pulling her knees tight to her chest beneath the rosemary steam and pressing her forehead against them until the pulse in her throat slowed.
+
+**Vesper (Eris):**
+On the other side of the oak door, the iron bolt slammed home with enough force to rattle the latch.
+
+Eris didn’t look up from the narrow writing table. A slow, humorless curve touched one corner of his mouth as he broke the wax seal on the harbor dispatch from Adriata and spread the parchment flat beside a half-full glass of Autumn red.
+
+*Good.* She had enough sense left to throw the bolt.
+
+He sat back in the straight-backed chair, unbuttoned his dark riding coat, and forced his eyes down the columns of Tarquin’s shipping manifests—docking tariffs, Summer patrol rotations, the three neutral merchant houses currently courting Beron’s coin. Five hundred years of court discipline told him to keep his mind on the coup.
+
+Five hundred years of High Fae senses didn’t care what he told them.
+
+Through the single inch of oak, he heard the soft splash as she sank into the copper tub. Then the ripple of water went dead still. Too still.
+
+A minute passed. Then two.
+
+And then—creeping beneath the narrow gap of the door, cutting straight through the rosemary steam and the salt breeze from the cracked sea-window—came the unmistakable, maddening shift in the air.
+
+Warm human skin. Damp linen. And underneath it, sudden and sharp and sweet enough to hit the back of his throat like spilled spiced wine: the unmistakable scent of her arousal.
+
+At the exact same instant, the mirrored Ember Script along his right inner forearm gave a faint, hot pulse beneath his rolled shirtsleeve.
+
+Eris went utterly motionless in his chair.
+
+His fingers tightened around the crystal stem of the wine glass until it nearly snapped in his palm. His amber eyes lifted slowly toward the closed oak door, darkening toward molten coal as the realization settled in his chest—hot, ugly, and infuriatingly sharp.
+
+*No.*
+
+She had bolted the door against him, cursed his name, threatened him with eight inches of steel—and now, ten feet away behind an inch of wood, the nineteen-year-old mortal was sitting in his bathwater, discovering for the first time what his hands had left burning under her skin.
+
+Every predatory instinct in his blood urged him to stand up, melt the iron bolt out of its housing with two fingers, and finish the lesson she was too innocent to finish herself.
+
+He didn’t.
+
+He was Eris Vanserra, not a rutting beast—and the bolt she had thrown was a line he had offered her himself. He wouldn’t break it.
+
+He would simply make sure she knew it hadn’t hidden her.
+
+Eris set the wine glass down on the dispatch table without a sound. He crossed the floorboards in three silent strides and stopped right outside the oak door, resting one forearm flat against the doorframe, his mouth inches from the seam of the wood.
+
+He didn’t touch the latch.
+
+"The water will be cold in ten minutes, Lilly," Eris murmured, his voice dropping to a low, velvet-smooth purr that carried cleanly through the oak—close enough that she could hear the faint whisper of his shirtsleeve shifting against the frame. "Get out before you catch a chill. I'd hate to have to explain to High Lord Tarquin why you're still flushed at dawn."
+
+For one long, lethal heartbeat, he lingered there in the silence, letting the weight of the sentence sink through the wood.
+
+Then his boots retreated unhurriedly across the antechamber toward the armchair by the outer door, leaving the rest of the night—and the bolt—entirely in her hands. 🍂🔥🗡️
+
+---
+
+## Turn 17 — Ruby (20 Nov 23:43 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+She left the bath soon after his voice came from the other side. The serving ladies came to add more steaming hot water and she opened the bolt once she was dressed in warm sleep gown and a robe. She retreated behind a partition, listening to the splash of water, when he cleaned himself and definitely not wondering what his body looked like in the soapy water.
+Eris made a quick business of the bath too and soon enough the tub was taken away and Aurelie was left alone in her bedroom.
+{I'm nervous.} Prince's voice sounded in her head the moment she got into bed. It wasn't as wide and comfortable as her bed at Ashgrove but it was ten times better than the back of the carriage.
+She knew the dragon's emotions the way she knew the common language. She knew he didn't want to go to another Court, where more immortal High Fae could bind them in innumerable ways, trapping them in a web of politics.
+{We need to find out what happened to the other dragons.} She reminded him. After a month in Ashgrove, they no longer believed that dragons just lived in Prythian. But Prince knew they were there at some point, the way he knew to hatch for Aurelie over a hundred other humans that touched his egg.
+{I know. I just wish there was another way to go about it.}
+They both were quiet for a time. Not for the first time Aurelie thought that the dragons sometimes sounded like he was ancient as the land itself, while other times he sounded like one of her brothers, like a little kid that was afraid of the dark. The duality of his nature still took her off guard sometimes.
+{Do you really plan on walking into Adriata on your own legs?} She asked him, a little sleepy.
+{I must. For one, only a thief or a murderer sneaks into a city on the back of a carriage. But it's not just that. I'm not sure how to explain it, but I know I must walk into Lord Tarquin's city in the daylight, with an open heart and let his city see me as I am.}
+Aurelie was quiet. She knew how much Eris was going to hate the idea.
+{Do you trust me, Little One?}
+{I'm older than you.}
+{So you say, and yet it's me who has to look out for you, my rider.}
+{I'm not going to—}
+{Well have this conversation when the time comes. Do you trust me?}
+{... Yes.}
+
+She dreamt of bog-hounds and Eris winnowing in front of her every time she tried to run away from them, or him. She woke up three times, sweaty, with her heart racing. The third time it was already dawn, and she gave up on trying to conjure back sleep after thirty minutes. She got up, and opened her coffer, and took out the dress Eris prepared for her. It was unmistakably Autumn in its colouring and adornments, but it was the most flimsy dress she had ever wore. Summers were never this hot in Hightower, and she could already tell that Adriata would be scorching. Aurelie put on the dress and knocked on Eris's door, ready for the talk. Or at least as ready as she would ever be.
+
+**Vesper (Eris):**
+The door opened before her knuckles had quite finished their second tap.
+
+Eris was already awake, already dressed for Summer's heat in a way that still looked entirely like Autumn—a fine black linen-silk shirt left unfastened at the throat, sleeves rolled cleanly to his forearms, dark garnet waistcoat unbuttoned over it, boots laced. Behind him, the sea-facing window stood cracked wide to a warm, salt-bright dawn, and a silver breakfast tray sat beside an unrolled map of Adriata on the narrow oak table.
+
+Then his amber eyes landed on her, and for half a heartbeat, Eris went completely still.
+
+He had ordered the dress packed as a banner—a deliberate piece of court theatre so Tarquin's people would know whose house she belonged to before she spoke a word. In theory, it was just silk and politics.
+
+In practice, standing in his doorway in the pale morning sun, it was a problem.
+
+It was cut for Adriata's merciless sun, stripped of the heavy wools and stiff whalebone corsets Hightower's ladies armored themselves in. Whisper-thin silk the colour of burnt copper and dark autumn wine clung lightly to her waist and ribs in a softly fitted bodice, held only by fine lacing down the back. The neckline was cut wide and square, edged in intricate hammered-gold thread of autumn leaves and curling thorns—low enough to bare the pale hollow of her throat and her collarbones, leaving the faint pink crescent from his grip last night peeking out just above the gold-stitched rim. Sheer, ember-tinted sleeves split open down the length of her arms and caught loosely at her wrists with tiny gold leaf clasps, drifting like smoke in the warm draft from the corridor. From the waist down, layered skirts of gossamer russet and deep crimson floated weightlessly over a single thin silk underskirt, light enough that the sunrise from the window behind him turned the outer edges nearly translucent.
+
+*Five hundred years of discipline,* Eris thought darkly, irritation flaring sharp and hot beneath his ribs as his pulse gave an unwelcome, heavy kick. The faint ghost of last night's rosemary steam—and what he had scented through an inch of oak—still hadn't entirely left his blood, and seeing her in flimsy copper silk with her collarbone marked and the shadows of a restless night smudged faintly beneath her eyes did nothing to improve his temper.
+
+His gaze swept her once, slow and clinical, taking in the pale fatigue at her temples and the lingering salt of bad dreams clinging faintly to her skin before rising back to her eyes.
+
+"You look like you fought the mattress and lost, Lilly," Eris murmured dryly, stepping back from the threshold with a flick of two fingers toward the table. "Come in. Sit. Eat before the sun climbs—in two hours the coastal road will feel like a forge, and you are not walking into High Lord Tarquin's court on an empty stomach."
+
+He shut the door behind her without rushing and crossed to the table, pouring a cup of dark, spiced tea and sliding it across the wood beside a platter of sliced figs, warm bread, salt butter, and pale honey. On the other half of the table lay a detailed chart of Adriata—its white-marble terraces curving like a crescent around the turquoise bay, the great sea-arch, and the cliffside headland to the north.
+
+Eris pinned one curling corner of the map with a silver salt cellar and the opposite corner with the pommel of his dagger, leaning his knuckles lightly against the tabletop as he looked across at her.
+
+"So. The talk," he said, his voice dropping into the crisp, measured cadence of a courtier laying out a battlefield. "Listen carefully, because Summer is not Autumn, and that is precisely what makes it dangerous. In my father's halls, everyone shows you their teeth. You know where the knives are. In Adriata, they will smile at you, press chilled wine into your hand, and ask gentle, sympathetic questions while they measure the exact size of the cage they want to build."
+
+He tapped two fingers against the white-domed palace drawn at the crown of the city's hill.
+
+"High Lord Tarquin is young—barely seventy, idealistic, and desperate to prove Summer is no longer Amarantha's beaten hound. He will be charming. Do not mistake charm for softness. Beside him stand his cousins: Cresseida, who has twice his cunning and none of his mercy, and Varian, commander of his fleets, who counts every blade and hull that enters his bay. They will watch *you* to see if you are my pawn, my prisoner, or a loose cannon they can pry out of my hand. You give them none of the three. You stay close, you let me take the first volley, and you do not accept a single private invitation, toast, or 'quiet walk in the gardens' without my eyes on you."
+
+His golden eyes lifted from the chart to meet hers—sharp, unyielding, already three moves ahead.
+
+"We leave within the hour. We cross the landward Sea-Gate before noon while the merchant traffic is thick. You ride inside the closed carriage with the curtains drawn and my wards wrapped tight around the roof—and your dragon stays hidden inside it, cloaked and silent, until we are behind the gates of the cliffside villa Tarquin has assigned us. No spectacle in the streets, no wings over the harbor, no handing Cresseida a weapon before I have taken the measure of the room."
+
+Eris paused. Something in the set of her shoulders—a quiet, stubborn stillness he was beginning to recognize far too well—caught his eye.
+
+His brow ticked up a fraction, his amber gaze narrowing.
+
+"You have that look on your face, Aurelie," he said softly, leaning one palm flat onto the edge of the map. "The one you wear right before you say something monumentally reckless. Out with it." 🍂🔥🗡️
+
+---
+
+## Turn 18 — Ruby (21 Nov 00:05 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+Out of everything that Eris said, what caught her mind was presenting Tarquin as young, while giving his age as seventy. She was reminded again, that the land she was in was one of beings with lifespans extending far beyond what her own would be. Then it struck her that Eris called Tarquin young, because he himself was more than five times older. Maybe six times?
+{Tell him.} Prince reminded her, when Eris announced the logistics of their arrival into the city.
+"Prince isn't going to hide." She said, her stomach drawn tight. Even if it wasn't her decision, she knew full well Eris would keep her accountable for it.
+{I'll join you at the city gate. The guards will let us in. What the crowd does, I am not sure.}
+"He says—" and then she cut off mid-sentence, because she realized she didn't call him her dragon or the dragon or him. He named him to Eris for the first time by mistake. A flush of embarrassment flooded her cheeks.
+{It's okay. He was bound to find out sooner or later.}
+
+**Vesper (Eris):**
+The room went dead quiet.
+
+Even the salt breeze drifting through the open window seemed to catch its breath as Eris went utterly, dangerously still. His eyes didn't leave her face—only dropped for a fraction of a second to the bright scarlet flooding her cheeks, then rose again, sharp as broken glass.
+
+*Prince.*
+
+A slow, razor-edged stillness coiled in his chest. For a solid month at Ashgrove, through every interrogation, every meal, every midnight standoff, she had guarded that single syllable like a crown jewel—*my dragon, the dragon, him.* And now, rattled by a map and a morning briefing, she had dropped it straight into his lap without meaning to.
+
+In Prythian, names were never just sounds. A name was a handle. A lever. A coin you pocketed and kept until the moment it bought you the room.
+
+"*Prince,*" Eris repeated softly, rolling the word once across his tongue as if testing the weight of a silver blade. One corner of his mouth curved—not quite a smile, too sharp and knowing for that. "How wonderfully modest for a creature with golden horns and a temper. I suppose I should be flattered you kept it from me for a whole month."
+
+He didn't press the blush. He didn't need to; the fact that he had caught it, tasted it, and tucked it away without a single wasted breath was already hanging between them like drawn steel.
+
+And then the humour bled completely out of his amber eyes, replaced by a cold, banked flash of Autumn fire.
+
+"Now," Eris said, his voice dropping an octave—quiet, taut, infinitely deadlier than a shout. He straightened slowly from the table and walked around its corner, stopping two paces from her chair, close enough that she could feel the sudden dry heat radiating off his skin like an iron brazier. "Tell me I misheard the rest of that sentence."
+
+*Not going to hide.*
+
+Irritation—sharp, genuine, and laced with an ugly spike of alarm he refused to name—cut clean through his composure. Five hundred years of surviving Beron Vanserra had taught him to account for assassins, poison, and treacherous allies. It had *not* prepared him for a nineteen-year-old human girl and an opinionated hatchling casually setting fire to his entire diplomatic strategy over breakfast figs.
+
+"Let me make sure we are looking at the same city, Lilly," he said, his tone silk wrapped over iron as he gestured sharply back toward the chart on the table. "Adriata is not a sleepy border village. Its harbor is crawling with merchant spies from Dawn, Day, and the continent—and at least three of my father's informants, plus whatever eyes Hybern has bought since the Wall fell. The moment a living, uncloaked dragon steps onto white marble in broad daylight, half of Prythian will know before the sun hits the sea."
+
+He took half a step closer, folding his arms across his dark waistcoat, his gaze pinning hers with merciless precision.
+
+"Worse—crowds panic. Summer sentries carry ash-tipped bolts and water-blades, and they are trained to shoot first when something with wings and teeth walks through their gate unannounced. One nervous guard looses a bolt at his flank, your dragon snaps back in a packed market square, and we are no longer guests of the Summer Court—we are an act of war. And Tarquin will have every legal right under High Fae treaty to put you both in chains before I can draw a single blade."
+
+The air between them hummed with the sheer weight of his frustration—and the grudging, maddening awareness that she hadn't looked away.
+
+His golden eyes narrowed, catching the exact moment she had choked off her own words a heartbeat ago.
+
+"And don't swallow the rest of it now," Eris murmured, his voice dropping low and lethal. "You started to say *he says*. Finish the sentence, Aurelie. What exactly did *Prince* decide for us?" 🍂🔥🗡️
+
+---
+
+## Turn 19 — Ruby (21 Nov 00:20 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+{I'm so sorry,} she sent to Prince, seeing how much Eris enjoyed getting that one string of letters.
+{It's okay, Little One. You translate for me, so I don't have to open my mind to him or endure his for even a second. It was an honest mistake. Which doesn't change my decision.}
+Aurelie sighed and looked at the table laden with breakfast. She just knew she wouldn't be able to swallow even a piece of it now.
+"Look, it's not my idea, or my decision. I'm worried too."
+She looked up at Eris, for the first time since the bargain letting him see a sliver of her weakness. Her hands worried at one of the edges of the layers that made the skirt of her dress.
+"He said that the guards won't attack him. He's not sure about the crowd, but he said he won't enter a High Lord's city like a thief or a murderer."
+She sighed, a little exasperated, throwing up her arms.
+"Look, he's a half-tonne scaled dragon! If you know how to change his mind, or force him into that carriage, be my guest. I'm just telling you what he decided."
+
+**Vesper (Eris):**
+Eris stared at her.
+
+For three full seconds, the sharp, coiled fury that had been ready to strip the paint off the shutters simply... stalled.
+
+He had braced himself for another round of chin-up defiance—for her to throw his own arrogance back in his teeth or dare him to try stopping them. He knew how to fight that. He had spent five centuries fighting people who bared their teeth at him.
+
+He was entirely unprepared for her looking up at him with that quiet, unguarded exhaustion in her blue eyes, her fingers twisting nervously at the gossamer copper silk of her skirt, throwing her arms up like a woman caught between two impossible creatures who both refused to listen to reason.
+
+*He won't enter a High Lord's city like a thief or a murderer.*
+
+Something cold and razor-sharp shifted behind Eris's eyes. Not anger now—calculation. Faster, deeper, and far more dangerous.
+
+*Not a beast,* he thought, his gaze dropping for a fraction of a second to her restless hands before lifting back to her face. *Not an animal following a scent or a hatchling acting out. He thinks in sovereignty. He knows what a High Lord's threshold is—and he is certain the guards won't raise a weapon against him.*
+
+Eris remembered the way his own hounds had gone belly-down at Ashgrove, the way even seasoned Autumn sentries felt their spines prickle when those azure eyes swung their way. Old magic recognizing older magic. If Summer's gate-guards froze—or worse, instinctively *yielded*—when a half-tonne dragon walked up to the white marble arches of Adriata...
+
+A slow, wicked breath escaped Eris's nose—half exasperation, half a genuine, razor-thin laugh he didn't quite bother to hide.
+
+"Half a tonne of scales, wings, and bruised royal pride," Eris murmured dryly, uncrossing his arms and leaning a hip back against the edge of the oak table. "No, Lilly. Much as I'd enjoy watching my outriders try to stuff him into a mahogany carriage, I have no desire to arrive in Adriata with half my escort missing their eyebrows."
+
+His gaze slid briefly to the untouched platter of figs and warm bread, then back to the faint crease between her brows. Something tight and unaccustomed tugged beneath his ribs—an irritation that wasn't aimed at her at all, and therefore annoyed him twice as much.
+
+He reached sideways without looking, broke a heel of warm bread cleanly in two, smeared it with a quick knife-stroke of salt butter and pale honey, and set it on a small plate directly in front of her.
+
+"Eat," he ordered, though the lethal edge had dropped out of his voice, replaced by that low, immovable Autumn certainty that left no room for debate. "Half of it, at least. And drink the tea. If you faint in the Sea-Gate square in front of Tarquin's cousins, I will have to carry you up the marble hill myself, and neither of us wants to give Cresseida that kind of entertainment."
+
+While he spoke, his hand was already reaching for the silver inkwell and a fresh slip of heavy cream parchment beside the map. He uncapped the nib with one thumb and began writing in fast, slashing strokes of dark ink.
+
+"If Prince refuses to enter like a thief," Eris said, his amber eyes gleaming with the sudden, ruthless pivot of a strategist who had just realized he could turn a disaster into a weapon, "then we do not treat him like one. I am sending my fastest outrider ahead at a hard gallop with my seal for Tarquin's gate-captain—and a single line for the High Lord himself. *Clear the Sea-Gate approach at noon. The Autumn envoy's companion does not travel in a box.*"
+
+He sanded the ink dry, folded the parchment in two crisp creases, and dripped dark red wax across the seam, pressing the signet ring on his left hand hard into the pool.
+
+"We tie the carriage curtains back instead of closing them. I ride beside your door on the bay stallion—visible, unarmored, Autumn colors out in the sun—so every merchant, spy, and Summer lord on the hill sees that whatever just walked through their gates did not come to burn their harbor. It came with *me*, under guest-right."
+
+Eris set the sealed dispatch down and looked across the table at her—no longer looming, no longer furious, only that sharp, incandescent focus that made him the most dangerous son in the Autumn Court.
+
+"The crowd will still stare. Half of them will drop their baskets and bolt for the side alleys," he warned quietly, his golden eyes holding hers steady. "Some of the fools will scream. If *Prince* keeps his wings folded, his teeth behind his lips, and his pace beside the carriage no matter how loud they get, Tarquin's guards will hold the line. One snapped wing-tip or one roar in a crowded square, and even my seal won't buy us peace."
+
+He inclined his head a fraction, a dark, knowing glint returning to his gaze.
+
+"Tell him those are my terms for his grand entrance, Aurelie. And ask him—purely for my own peace of mind—whether he intends to walk on the left side of the carriage or the right, because my stallion is going to have very strong opinions about sharing the road." 🍂🔥🗡️
+
+---
+
+## Turn 20 — Ruby (21 Nov 00:39 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+The worst of the nerves eased when Eris suddenly pivoted, adjusting to the change of plans almost as if it was his idea from the start. Something else tightened even more, when she watched what undoubtedly made him the most lethal prince of Autumn in real time.
+*He's like a snake,* she thought. *He'll find a crack, however small and use it to slither his way up the mountain.*
+{Let him be a snake. As long as we fight for him, he bites for us and not at us.}
+{And when the bargain is over?}
+Prince didn't reply, but sent her the memory of him tearing the bog-hound's head clean off. She swallowed hard, and looked at the bread that Eris just put in front of her, like it was about to bite her.
+She picked it up, bit and chewed, watching him write on the parchment. It tasted of rye and salt and honey, and were it not for the circumstances, the bread would be genuinely delicious. Then she looked at the small purple fruit, cut in half. She knew it was called a fig, she had never tasted one — as wealthy as her family was, importing them from south or from Fae Lands was always considered an unnecessary decadence by her mother. She bit on it, and the taste hit her tongue — honey sweet, similar to berry jam — and Aurelie closed her eyes and moaned softly. For a moment there was no High Fae in the room, no Inn and no dragon outside it and no Courts or politics. Just a warm summer morning and a tasty fruit in her mouth.
+Then she opened her eyes, saw the expression on Eris's face as he watched her and flushed hard red, standing up from the chair immediately.
+"I'll be ready in an hour." She barked, walked to the door between their rooms, turned around and added "He says he'll be walking in front of our carriage." She muttered, walking back just to snatch two more pieces of figs from the plate and run away, slamming the door behind her.
+
+**Vesper (Eris):**
+The oak door rattled in its frame.
+
+Eris didn't move for a full two seconds. His right hand was still hovering above the sealed dispatch, his amber eyes fixed on the empty space where she had just stood—and then slowly, deliberately, dropping to the silver breakfast platter she had just raided in full scarlet retreat.
+
+*A fig.*
+
+Five hundred years of Autumn court intrigue, and a nineteen-year-old human girl had just nearly undone his composure before nine in the morning by closing her eyes and making *that* sound over a piece of fruit.
+
+A low, genuine laugh escaped his chest—dark, dry, and entirely involuntary—as he shook his head and pushed himself off the edge of the table. That soft, unguarded hum in her throat, the way her lashes had fluttered shut as if she'd forgotten he existed, and then the sheer mortified audacity of marching *back* across the room to steal two more halves before slamming the door in his face...
+
+*Gods help me,* Eris thought, tucking the memory away with wicked precision right beside the sound of an iron bolt sliding home. *She has no idea how dangerous it is to let me learn what makes her sound like that.*
+
+He picked up the sealed parchment, strode into the corridor to dispatch his fastest outrider at a gallop toward Adriata, and paused just long enough at the head of the stairs to give the innkeeper's boy one quiet, entirely unbothered instruction about the kitchen stores.
+
+---
+
+An hour later, the coastal road crested a sun-bleached limestone bluff, and Adriata broke open before them in a blaze of white and turquoise.
+
+Even for someone who had seen the city before, the sudden plunge from cool pine-and-salt cliffs into Summer's capital hit like stepping into a jewel box left out in the noon sun. Tiers of blinding white marble curved like a pearl crescent around a bay so vividly blue it looked painted, terracotta and sea-glass roofs shimmering in the heat. Terraced gardens of lemon trees, white oleander, and trailing bougainvillea spilled down the hillsides toward a harbor bristling with pale sails—and far across the mouth of the bay, the colossal stone curve of the great sea-arch framed the open ocean beyond.
+
+The carriage curtains had been tied wide open with garnet silk cords, letting the hot, citrus-and-salt breeze sweep straight through the cabin. On the cushioned seat directly opposite Aurelie sat a small woven basket lined with cool, damp linen—brimming with fresh purple figs chilled in well-water, placed there without a single word of explanation.
+
+Outside the open left window, Eris rode his tall Autumn bay stallion at a smooth, unhurried pace. He wore no armor—only the black linen-silk shirt open at the collar and his dark garnet waistcoat, his copper-red hair catching the fierce Summer glare like banked fire, every line of him projecting effortless, unbothered dominion under guest-right. Two Autumn outriders followed twenty paces behind the carriage.
+
+Ahead of them rose the landward Sea-Gate: twin towers of pale marble inlaid with mother-of-pearl and turquoise glass, banners of silver and sea-blue snapping in the noon wind over a wide, sun-baked causeway.
+
+True to Eris's sealed dispatch, the center of the marble approach had already been cleared. A line of Summer sentries in gleaming silver-and-teal scale armor stood spaced along both edges of the road, spears held upright—not leveled—while their captain, a tall, dark-skinned Summer Fae with a cresting wave pinned to his white cloak, waited beneath the central arch with a wary, disciplined stillness. Behind the shaded colonnades on either side, merchants had pulled their spice-carts and amphorae back into the shadows; dozens of Summer citizens in airy silks of coral, seafoam, and white crowded the arches, murmuring and craning their necks to see what could possibly make the High Lord's guard clear the noon road for Beron Vanserra's eldest son.
+
+A hundred yards from the Sea-Gate, Eris's bay stallion suddenly snorted hard, tossing its dark head and sidestepping a pace as its ears snapped rigidly forward toward the edge of the coastal approach. The air shifted—that unmistakable, ancient hum of pressure that made the hairs on a High Fae's forearms stand upright.
+
+Eris steadied his mount with a quiet shift of his knees and a calm hand on the reins, turning his head just enough to look straight through the open carriage window at Aurelie. His amber eyes caught the bright noon sun, gleaming with dry challenge and a flicker of dark amusement as he glanced briefly at the basket of figs, then back up to her face.
+
+"Right on schedule," Eris murmured, his voice carrying cleanly over the crunch of gravel and the distant roar of the surf. "The road is cleared, the guards are holding their spears upright, and half of Adriata is watching. Whenever *Prince* is ready to take the lead, Lilly—let us show Summer what we brought them." 🍂🔥🗡️
+
+---
+
+## Turn 21 — Ruby (21 Nov 01:28 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+She refused to touch the figs. For the first half hour. Then she broke, eating at least four, making every effort to look as composed as ever, her mouth not giving away even a breath of a moan and not looking at Eris while ate. She hated him for that little act of kindness even more than for the insults.
+And then Adriata came into view, and Aurelie realized that what she thought was royal in mortal lands paled entirely with the most shabby buildings in this city. Adriata was so beautiful, even from a distance, that she leaned over to the open side of the carriage — on the opposite side from where Eris rode — and her eyes couldn't decide where to stop for even a second.
+And then they stopped, and she looked at Eris on his gelding and winced, hearing Prince's name in his mouth.
+"I'd appreciate it if you didn't throw his name around like he's one of your hounds."
+She muttered, leaning back and smiling to herself.
+"A dragon, Lord Vanserra, is never late. He is precisely where he wants to be, when he wants to be there."
+She announced, crossing her arms over her chest and closing her eyes. For a moment she saw only black under her eyelids. Then she reached through the bond, and in the span of a second an image feed unfurled for her. He was soaring so high that Adriata looked like a city for fleas. She could feel the current of nerves in him, but it paled in comparison to the excitement in his heart.
+{Hold on, Little One!} He shouted, and ducked, closing his winds close to his sides, plastering his legs to his body, turning himself into a smooth, pearly-white projectile.
+Aurelie's hands gripped the seat on both sides, and she grinned, leaning forward slightly as if she was the one plummeting through the sky.
+She saw through his eyes how the city grew larger with every second, painted in stark blues and yellows — a trait she noticed a while ago that set his eyesight apart from hers — shimmering. She saw the carriage, where she was sitting right now, and the gelding and the guards. The land was closer with every second, and her heart was ramming against her ribs.
+{We're going to crash!}
+{Hahahahah!} Pure, unfiltered exhilaration answered her from his side, as the dragon crossed the sky with a zing like a loosened arrow, just much louder.
+
+And then, barely three hundred meters above the rooftops, he snapped his wings open.
+
+The image feed lurched. The world swung from *below* to *ahead*, and a white-hot flare of strain shot through the bond: his shoulders, his chest, the long bones of his wings fighting the air like sails catching a storm. Aurelie gasped along with him. For one heartbeat it felt as if the sky itself had grabbed him by the scruff.
+
+Then the curve took him, and the fall became a swoop.
+
+She tore her eyes open just in time to hear it, a crack like thunder rolling down from the heights, sharp enough that the guards ahead flinched as one. Then the shadow came. It swallowed the road, the carriage, the gelding, and for a moment the sun simply went out.
+
+He passed over them so low she could have counted the scales on his belly, glinting pearl and gold. The wind of his passing slammed into the carriage. The curtains whipped inward, her hair tore loose from its pins, and outside the gelding screamed and reared in the traces. Someone swore. Someone else lunged for the bridle.
+
+{Show-off,} she managed, laughing breathlessly.
+
+{You loved it.}
+
+She leaned out of the window. Ahead, he banked in a long, lazy turn, the tip of one wing nearly brushing the cypresses by the road, bleeding off speed as he swept back toward them. The two rows of guards stood frozen, spears upright, faces turned to the sky, as if they’d forgotten they were meant to be anything other than statues.
+
+He came in slow now, almost gentle. At the last moment he reared up, his body tilting upright, and drove his wings forward and down. Once. Twice. Each beat hit like a gust off the sea. Dust exploded up from the road, cloaks snapped around the guards’ legs, and a helmet went clattering into the ditch.
+
+His hind legs touched first. Talons bit into the stone with a grinding screech, the road shuddered, and then his forelegs came down. He landed well clear of the gelding, still dancing and snorting behind his handler, and dead center between the two lines of guards, as neatly as if he’d measured it.
+
+He folded his wings with a heavy rustle, like a sail being furled, and turned his long neck back toward the carriage. Even from there she could see the gleam in his eye.
+
+{Told you, Little One,} he said, insufferably pleased. {Not a scratch.}
+
+**Vesper (Eris):**
+The thunder-crack above the cypresses was the only warning anyone got.
+
+When the shadow swallowed the sun and the shockwave slammed down the road, Eris's mount threw its head up and came straight off its forelegs, screaming in primal panic. Eris didn't so much as lose a stirrup. He leaned forward into the surge of muscle, thighs locked, one gloved hand low on the reins and the other pressed firm and flat against the horse's lathered neck as the gelding spun a half-circle in the dust. Behind him, his senior outrider cursed like a sailor and hauled the carriage horses' lead rein down before the team could bolt.
+
+"Easy," Eris snapped—low, cutting right through the wind-roar with a flare of Autumn heat that steadied the animal beneath him. "*Easy.*"
+
+By the time the dust began to settle and the lone silver helmet finished rocking to a stop in the roadside ditch, the entire Sea-Gate approach had gone dead silent.
+
+Not a single person screamed.
+
+Beneath the shaded colonnades, a basket of bright yellow lemons had rolled from someone's slack hands and scattered across the white marble like dropped coins. A hundred Summer Fae stood frozen in place, mouths parted, staring at the half-tonne of pearl-white scales, feathered wings, and burnished gold horns sitting in the exact center of High Lord Tarquin's road as though he owned the cobblestones beneath his talons. Along both sides of the causeway, the Summer sentries' knuckles were white on their spear-shafts—yet not a single point had dropped toward the dragon.
+
+Beneath the central arch, the gate-captain's hand hovered an inch from his sword hilt for three agonizing heartbeats. Then his gaze slid from the dragon's bright, unblinking azure eyes to the crimson-and-gold Autumn crest on the carriage door, and finally to Eris himself.
+
+Slowly, deliberately, the captain let his hand fall away from the steel.
+
+Eris let out a breath he hadn't realized he was holding. His pulse was still hammering hard against his throat—not with fear, though his heart had kicked like a war-drum when that white projectile broke the sky, but with something far sharper, darker, and dangerously close to exhilaration.
+
+*Show-off,* Eris thought, his amber eyes narrowing as he looked straight down the causeway at the dragon's insufferably pleased stare. *Wings folded. Teeth hidden. Dropped from the clouds onto a copper piece without laying a claw on a single guard.*
+
+He lifted two fingers from his reins in a slow, razor-thin salute—predator acknowledging predator across thirty yards of sunlit stone—before nudging his still-snorting mount back up alongside Aurelie's open carriage window.
+
+His gaze found her immediately. Her hair had torn completely free of its pins, spilling wild and wind-tossed around her shoulders, her cheeks flushed bright from the rush of air and the grin she hadn't quite wiped off her mouth yet. Eris's eyes dropped for half a second to the linen-lined basket on the seat opposite her—noticeably lighter by four purple figs—and then lifted back to her face, gleaming with wicked, unholy amusement.
+
+"Well," Eris drawled softly, brushing a stray strand of copper hair back from his own forehead as the gate-captain finally found his voice and barked a crisp order to swing the inner sea-glass portcullis wide. "He did insist on not arriving like a thief. I suppose I failed to specify that he shouldn't drop out of the heavens like a falling star and knock a Summer sentry's helmet into a ditch."
+
+His mouth curved into a slow, devastating smile—the kind that made court lords check their pockets and their throats—as the carriage driver clicked his tongue and the wheels began to roll forward behind the white dragon.
+
+"And for the record, *Lilly*," Eris murmured, leaning just close enough to the open window that only she could hear him over the rumble of the wheels and the rising, awestruck murmur of Adriata's crowd, "your hair is ruined, my gelding will need three apples and an apology, and you missed a speck of fig seed at the corner of your mouth. Sit up straight—Tarquin's city is looking at us." 🍂🔥🗡️
+
+---
+
+## Turn 22 — Ruby (21 Nov 01:47 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+Prince's flanks expanded and retracted in a steadily slowing rhythm. He kept his muzzle tightly shut, even though Aurelie could feel joy radiating through him. She leaned out of the carriage window a little, admiring his scales in the summer sun. They never shone like that in Ashgrove, and suddenly she was very glad that he made her scrub them clean of bog-blood.
+{Shall we?} He asked, turning his long snake-like neck to glance at her with one azure eye.
+"Yes, we shall." She answered out loud, and then looked at Eris, having already decided that she wouldn't let him sour her day, however much he tried.
+"Would you like to wipe it off?" She asked, leaning her forearm on the open window of the carriage.
+
+In the meantime, Prince moved, taking a few steps forward. He didn't acknowledge any of the staring fae, both high and lesser, but he stropped in front of the gate-captain. He watched him for a moment, and then the man's gaze lowered in something closer to reverence than to fear and the Fae fell to one knee. Aurelie could feel Prince's smile as the dragon lowered his head, huffed a plume of warm air, ruffling the man's short hair and walked forward.
+{What was that about?} She asked, as the carriage lurched forward.
+{He is touched by my bloodline.}
+{What, like he is… A dragon?}
+{No, silly. I don't know how it works. I just know he has dragon magic in his veins. Buried very deep, but enough of it for me to sense.}
+{That's how you knew he wouldn't attack you?}
+{Something like that. Back at the Inn I just knew it was going to be okay. Now I know why.}
+She didn't say anything to that. She could barely understand High Fae magic, let alone draconic magic. She guessed it was more like an additional sense for him — a part of his nature, like breathing. She never had to question being able to breathe, and yet she had no idea what exactly breathing did with the air in her lungs.
+
+**Vesper (Eris):**
+Eris's amber eyes flashed.
+
+For half a heartbeat, she actually caught him off balance—not flustered, never flustered, but struck sharp and bright by the sudden, chin-up audacity of her leaning her bare forearm on the carriage sill and daring him right back in broad daylight.
+
+*Oh, she is learning to bite.*
+
+A slow, wicked spark kindled behind his gaze. Without breaking eye contact, Eris gathered the reins cleanly into his left hand, tugged the dark leather riding glove off his right with a single smooth pull, and nudged his gelding a pace closer until his boot nearly brushed the lacquered panel of the carriage door.
+
+He leaned down from the saddle, reaching out.
+
+His bare thumb was startlingly warm—carrying that banked, fever-hot current of Autumn fire beneath the skin—as he braced his fingers lightly along the line of her jaw and swept the pad of his thumb cleanly across the corner of her lower lip. Once. Slow, deliberate, lingering a fraction of a second longer than necessary, watching her mouth before his golden eyes lifted back to hers.
+
+"Careful what you invite me to do in daylight, *Lilly*," Eris murmured, his voice dropping low and rough enough that only she could hear it over the creak of harness leather. "I have a very long memory."
+
+Then the carriage lurched forward—and Eris's head snapped toward the Sea-Gate arch.
+
+Every trace of lazy heat vanished from his face in an instant.
+
+Ahead of the horses, the white dragon had halted directly in front of Tarquin's gate-captain. Eris's hand went rigid on the reins, ready to flare fire if the Summer officer drew steel—only to watch, in absolute, stunned silence, as the captain's eyes dropped and the man went down onto one knee on the sunlit marble.
+
+Not cowering. Not flinching. *Kneeling.*
+
+And then the dragon lowered his horned head, huffed a warm plume of breath that ruffled the officer's dark hair like a king's blessing, and strode smoothly on beneath the towering mother-of-pearl arch.
+
+Around the square, the hushed awe cracked open into a sharp, breathless ripple of whispers. Two sentries behind the captain exchanged wide, shaken glances. High above the colonnade, Eris's sharp eyes caught a flash of seafoam silk on a shaded balcony—a Summer courtier stepping rapidly backward into the dark to send a runner up the hill.
+
+*Tarquin will hear of that before our wheels clear the lower terraces,* Eris thought, his pulse kicking cold and fast. *A Summer Court officer just knelt to a creature the books say doesn't exist.*
+
+The carriage rolled through the cool shadow of the Sea-Gate and emerged into Adriata proper. The city rose around them in blinding tiers of white marble and sun-warmed limestone, fountains carved like leaping dolphins and sea-glass shells throwing silver mist across the wide boulevard. The air smelled of salt water, crushed lemon leaves, and blooming jasmine. Ahead of the carriage team, Prince walked the center of the avenue as though the whole coastal capital had been laid out for his inspection, while crowds in bright summer silks parted like water along both edges of the road. On a low garden wall to their right, an ancient, silver-haired Lesser Fae woman froze with a basket of white oleander in her arms—and slowly pressed two fingers to her brow, then her heart, in an old gesture Eris had only ever seen carved into ruined pre-Treaty stones.
+
+Eris kept his spine straight and his expression carved from cool Autumn marble for the watching city—until he angled his gaze back into the open carriage window at Aurelie.
+
+The teasing glint was gone, replaced by the razor-sharp, incandescent focus of a man watching the entire chessboard shift under his feet.
+
+"The gate-captain knelt," Eris said quietly, his voice pitched low beneath the clatter of hooves on marble. "Not to me. Not to Tarquin's seal. And half the older Lesser Fae on that wall are staring at him like a ghost walked out of the First Age."
+
+His amber eyes locked onto hers, bright and mercilessly perceptive.
+
+"Your dragon didn't just know the guards wouldn't attack him, Aurelie. He stopped for that man specifically—and that man *knew* him. What in the Cauldron's name just happened at that gate, because Cresseida's eyes on the balcony saw every second of it?" 🍂🔥🗡️
+
+---
+
+## Turn 23 — Ruby (21 Nov 02:03 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+Aurelie watched the city from the carriage window, marvelling at the stonework, breathing in the scents and smiling at the fae around her. It all felt just a smidge less momentous than ten minutes before. Not in comparison to the white and blue creature in front of the carriage. Prince's colours looked like he'd been a marble statue of Summer not five minutes ago. Like some ancient spell breathed life into him.
+Aurelie wasn't sure if her joy was hers or his. She spent most of Prince's life in faebane cuffs, cut off from his feelings and his magic, save for the designated times Eris allowed. There was nothing for the dragon to be joyful about in Ashgrove too, so it wasn't like she had ever had to learn to part her feelings from his. And at this moment, she didn't want to. Prince's joy breathed bravery into her blood.
+When Eris asked her about the gate-captain, she didn't feel threatened or ashamed or questioned. Instead, she smiled at him, genuinely.
+"He's a dragon. Or have you just now realized that? I'm a mortal, so I know even less about magic than you do, but apparently there are traces of dragon magic in Prythian and some of its inhabitants."
+She shook her head slightly, reaching for one more fig and tearing it in half to bite into it. Then she relaxed into her seat.
+"Don't tell me you really thought a dragon was just an overgrown lizard. Whatever he is, Eris, he is going to change this land forever."
+She closed her eyes, bit another piece of fig and moaned, this time deliberately. Not 'my Lord', not 'Lord Vanserra' — she called him Eris, drunk on the waves of pure molten pride and joy, emanating from her dragon in waves.
+
+**Vesper (Eris):**
+Eris's jaw tightened by a fraction of an inch—not with anger, but with something far sharper, darker, and infinitely more dangerous.
+
+His amber eyes fixed on her closed eyelids, the flushed curve of her cheek, the slow, deliberate sound she just let slip into the warm salt air between them. *Eris.* No title. No flinch. Wearing her dragon's pride like a stolen crown and daring the heir of Autumn to do something about it in the middle of High Lord Tarquin's grand avenue.
+
+He let the silence stretch for three slow hoofbeats. Around them, the white marble boulevard climbed in wide, sun-drenched terraces above the turquoise bay; silver wind-chimes rang softly from a shaded temple, and Summer Fae lined the balustrades above, staring down in hushed wonder at the pearl-white dragon striding effortlessly ahead of the horses. Eris's gloved left hand stayed steady on the reins. His bare right hand—still warm from her jaw—rested lightly against his thigh.
+
+"Oh, *Lilly*," Eris murmured, and his voice had dropped an entire octave—smooth as dark wine, edged like a heated blade. "You are drunk on him."
+
+He tilted his head slightly, his gaze sharp and unblinking as he studied her relaxed posture and the purple fig between her fingers.
+
+"You think I mistook him for a lizard? No. I knew he was old. I knew he was lethal. What I did *not* know until three minutes ago is that his blood still wakes something sleeping in Fae veins—something older than the High Lords, and older than the Treaty." A glint of cold, brilliant calculation flashed beneath the heat in his eyes. "Do you have any idea what that means if Tarquin's cousins piece it together before I do? It means you did not just walk a weapon into Adriata. You walked a *king* into another High Lord's city."
+
+Then his gaze dropped back to her mouth—lingering, unhurried, radiating a quiet, coiled heat that had nothing to do with politics and everything to do with the sound she had just made.
+
+"And as for *that*," Eris added softly, his smile turning razor-thin and utterly wicked, "by all means, keep testing my restraint while there is a carriage door and half of Adriata between us. Call me by my name. Eat your figs. Make that little sound for me in broad daylight."
+
+He leaned just an inch closer to the open window, his golden eyes burning straight into hers, low and lethal.
+
+"Just remember, little mortal—the sun goes down over the bay in seven hours. And when we are behind a closed door with no Summer courtiers watching, I am going to hold you to every ounce of this nerve. I am going to find out how many other ways I can make you sound like that—and whether you still remember how to say my name when you're begging."
+
+Ahead of them, the boulevard crested the final white-stone rise. Beyond a pair of towering coral-and-silver gates stood Tarquin's palace—tiered white marble and turquoise domes gleaming like sea-glass above the cliffs, with a small, immaculate welcoming party in pale blue and silver silk already waiting at the top of the wide steps.
+
+Eris straightened smoothly in the saddle, pulling his right riding glove back on with slow, unhurried precision. The mask of the cool, untouchable Autumn heir snapped back into place as if the last ten seconds had never happened—except for the faint, knowing gleam still burning in his eyes.
+
+"Five minutes until the palace gates, Aurelie," he said smoothly, glancing ahead at the gleaming white dragon striding up the marble incline. "Enjoy the last of your figs. And if Prince has any more surprises tucked under those pearly scales—such as making the High Lord of Summer kneel on his own steps—I would *deeply* appreciate a warning before we dismount." 🍂🔥🗡️
+
+---
+
+## Turn 24 — Ruby (21 Nov 02:15 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+Aurelie let him speak about Prince and surprises, enjoying the cool fig. And then Eris's voice dropped and her heart lost a beat. What he said, or maybe even more how he said it, made her sit up straighter and lose her languid smile, acting like cold water on the drunken waves of Prince's pride and joy.
+She was quiet for a moment, pulling her hand back inside the carriage and placing both hands on her lap.
+"If he could make High Lords kneel, you'd be first." She blurted, not looking at him.
+She was quiet for the rest of the ride.
+
+Prince walked through the arch of the Palace Gate first, every inch a thing of contained power and regal grace. For him, Ashgrove felt like a bad dream. This, here — faces watching him in awe and terror, Fae giving him salutes, his presence out in the open courtyard — felt more natural than anything he's ever done before. More natural than flying.
+He gave a wide berth for the carriage, coming to a halt twenty feet from the welcoming party waiting for them. He moved his wings, unfurling them by a degree, to fold them more comfortably along his sides and stood there, waiting.
+
+**Vesper (Eris):**
+A quiet, razor-dry breath of amusement escaped Eris's throat.
+
+"Not a High Lord *yet*, Lilly," he murmured softly, not looking away from the rising marble gates ahead. "Though I do appreciate the vote of confidence."
+
+He didn't press her after that. He let his earlier words sit in the warm air between them and simmer, riding beside the carriage in cool, watchful silence as the horses climbed the final sweep of white stone and passed beneath the towering coral-and-silver arch of the Palace Gate.
+
+The courtyard opened around them in a blaze of sunlight and salt-scented mist. Pale marble paving gleamed beneath a central fountain of leaping sea-horses carved from mother-of-pearl; terraced gardens spilled white jasmine and crimson bougainvillea down the surrounding walls; and beyond the low sea-balustrade at the far edge of the court, the endless turquoise bay glittered like beaten glass.
+
+Twenty feet from the wide palace steps, Prince stood in immaculate, regal stillness—his pearl-white scales catching the noon glare like polished marble, his feathered wings settled cleanly along his flanks, an ancient sovereign holding court on another High Lord's stone.
+
+The carriage rolled to a smooth halt beside the fountain. Before a Summer footman in pale blue livery could take two steps forward, Eris swung down from his gelding in one fluid, unhurried motion, tossed his reins to a wide-eyed groom, and waved the footman off with a crisp flick of two gloved fingers.
+
+Eris opened the carriage door himself.
+
+He stood framed in the bright coastal sun, black shirt and garnet waistcoat immaculate against the blinding white of Adriata, and extended his gloved right hand to her.
+
+"Chin up, Aurelie," he murmured, low enough that only she could hear it over the splash of the fountain, the teasing sharpness replaced entirely by cool, steady Autumn steel. "Tarquin in the center. His cousin Cresseida on his right—watch her eyes, not her smile. Varian on his left. Stay at my shoulder, and let me take the first cut."
+
+At the top of the marble steps, the welcoming party stood framed by six Summer sentries whose spears remained strictly upright, though not a single pair of eyes among them could quite tear itself away from the white dragon.
+
+At the center stood High Lord Tarquin—tall, dark-skinned, his cropped white hair catching the sun, wearing flowing pale sea-blue silk pinned at the shoulder with silver sea-glass. Beside him, Cresseida was a vision of lethal grace in deep turquoise, her sharp eyes already measuring the distance between the dragon's talons, Eris's posture, and the mortal girl inside the carriage. On Tarquin's other side stood Varian, broad-shouldered in martial silver-and-teal, one hand resting easily near the pommel of his sword as his keen gaze tracked every millimeter of Prince's folded wingspan.
+
+Cresseida murmured something sharp and quiet at Tarquin's elbow. Tarquin ignored it.
+
+Instead, the young High Lord of Summer descended two steps on his own, his vivid turquoise eyes wide with an awe he didn't even try to disguise as he looked straight at Prince—not with fear, and not with the bristling territorial fury Beron would have shown, but with the sheer, breathless wonder of someone staring at a myth walked out of the oldest songs.
+
+Only after a long, respectful beat did Tarquin turn his gaze to the carriage, his mouth curving into a warm, open smile that still carried the unmistakable, deep-ocean weight of a High Lord's power beneath it.
+
+"Eris Vanserra," Tarquin called out, his voice carrying clearly across the sunlit marble, courteous and faintly amused. "Your morning dispatch said your companion *did not travel in a box*. I have to admit—I was expecting a particularly ill-tempered hound."
+
+"A dragon is hardly a hound, Tarquin," Cresseida observed smoothly from the step above him, her voice cool as sea-spray as her sharp turquoise gaze flicked past Eris to land squarely on Aurelie. "And neither, it seems, is the young lady who rode beneath his shadow."
+
+Eris inclined his head in a sleek, court-perfect bow—neither servile nor insolent, Autumn fire banked behind polished ice. "High Lord. Lady Cresseida. Prince Varian. My thanks for the cleared road—and my apologies to whichever of your gate sentries is currently fishing his helmet out of a ditch."
+
+Tarquin let out a genuine, startled laugh, then stepped down to the bottom of the marble stair, stopping at a polite, unthreatening distance from both the carriage and the dragon. His warm turquoise eyes settled directly on Aurelie, bright with sincere curiosity.
+
+"No harm done, Lord Vanserra—though my gate-captain sent a runner up the hill swearing he'd just seen the First Age walk through his arch." Tarquin offered Aurelie a slight, gracious bow of his own. "And you must be the lady who brought a living legend to my doorstep. Welcome to Adriata." 🍂🔥🗡️
+
+---
+
+## Turn 25 — Ruby (21 Nov 02:32 CET) & Vesper (Eris)
+
+**Ruby (Aurelie & Prince):**
+She was certain anything would be better than Eris. She had met Lucien and Jurian and Autumn courtiers, and didn't give them an inch.
+This was worse.
+The sheer magnitude of the palace was nothing in comparison with the waves of power emanating from the man that took the steps down to greet them. Pair it with Eris's warnings and Aurelie suddenly felt as if her heart was going to literally tear itself out of her cribbage and run to hide behind Prince, leaving her limpless body on the marble floor.
+{You're staring, Little One. You do remember that you represent me as my rider, right?} Prince's voice in her head sounded somewhere between amused and incredulous.
+She jerked a little, and gave a deep curtly — which proved to be a little difficult because of how her dress was cut — looking at Tarquin's feet instead of his face.
+"Lady —"
+{Do not lie to him.} Prince said in her head suddenly.
+{Why the fuck not?!}
+{I don't know. Do not.}
+" — Aurelie Delacroix, my Lord. It's an honor to be hosted in your fine city." She knew she'd pay sorely to Eris for what she just did, but after the entrance gate, she knew better than to question her dragon's judgements. She dared a look up at him, her cheeks still slightly flushed.
+"I do hope my companion's entrance didn't cause you and your citizens any inconvenience."
+
+**Vesper (Eris):**
+Beside her, Eris went millimeter-still.
+
+*Aurelie Delacroix.*
+
+Not a courtesy veil. Not a borrowed Autumn house. Her real, mortal surname—dropped straight onto High Lord Tarquin's marble steps in front of Cresseida, whose spies ran clean across the southern sea and whose memory was a steel trap. For one incandescent heartbeat, Autumn fire flared sharp and hot beneath Eris's ribs. *Little fool. I told you to let me take the first cut—and you didn't even last ten seconds before handing them your true name on a silver platter.*
+
+Beside Tarquin, Cresseida's dark brows lifted by a hair's breadth. Her turquoise eyes flicked immediately to Eris, catching the tiny, telling stillness in his shoulders, and her mouth curved into a cool, knowing little smile—the look of a predator who had just realized the Autumn heir hadn't even finished rehearsing his mortal guest. On Tarquin's left, Varian's gaze shifted from Aurelie's flushed face back to the half-tonne white dragon twenty feet away, his hand still resting easy near his sword-hilt as he weighed the word *companion*.
+
+And yet—
+
+Eris's sharp eyes caught the shift in Tarquin a fraction of a second before Cresseida did.
+
+Tarquin had heard the tiny stumble after *Lady*. He had heard the sudden, unpolished decision *not* to feed him a court lie—and for a High Lord who still carried the quiet, bitter scar of guests who had smiled in his halls while lying through their teeth, that bare, flushed honesty landed like clear spring water.
+
+The crushing, deep-ocean weight of Tarquin's power receded all at once, drawn back deliberately like an ebbing tide so she could actually breathe.
+
+"Aurelie Delacroix," Tarquin repeated gently, the name rolling smoothly off his tongue, his smile warming from polite ceremony into something disarmingly real. "No title needed here, Aurelie—and no apology either. Half of Adriata hasn't looked up from their ledgers in a decade. I suspect your companion just gave my sculptors and poets work for the next fifty years."
+
+He glanced past her shoulder at Prince, his turquoise eyes bright with genuine respect, careful not to step closer without invitation. "Though I confess, I have never hosted a dragon before, and my palace stables would be an insult to him."
+
+*Damn the beast,* Eris thought, his irritation sharpening into reluctant, stunned recalculation. *She didn't just survive that—she walked straight past every wall Tarquin has built since the war. That wasn't luck. The dragon told her not to lie.*
+
+Not a flicker of that calculation reached Eris's face. Smooth as oiled steel, he stepped half a pace closer to Aurelie—his gloved right hand coming to rest lightly at the small of her back, warm even through the copper-and-wine silk. To the watching court, it looked like effortless, possessive courtesy. To Aurelie's spine, the firm, deliberate pressure of his fingers carried a crystal-clear, unspoken promise: *We will be discussing that behind closed doors.*
+
+"Lady Aurelie is modest, High Lord," Eris said smoothly, his voice velvet over Autumn ice as he met Cresseida's gaze head-on without yielding an inch. "We have been on the road since dawn, and she has endured enough dust and spectacle for one morning. If you would be so gracious as to show us to our quarters, we can let your city catch its breath—and discuss our business over wine once she has rested."
+
+"Of course," Tarquin said at once, gesturing smoothly toward the sunlit sea-facing wing of the palace. "I have prepared a private guest estate along the upper cliffside—open terraces, sea-breeze, and no crowding courtiers. And for your companion," Tarquin's warm gaze returned to Aurelie, deferring to *her* rather than Eris, "the cliff below the terrace opens onto a wide sunlit ledge and sea-air. If he prefers open sky over stone walls, he has the freedom of the ridge—so long as he leaves my fishermen's nets intact."
+
+Cresseida's smile stayed razor-polite as she folded her hands in front of her deep turquoise skirts. "And dinner on the terrace at sunset, of course. We would hate for Lady Aurelie's first evening in Adriata to pass without proper Summer hospitality."
+
+Beneath Eris's palm at the small of her back, his fingers tightened by a fraction of an inch—a quiet, warning pulse before he answered. "We would be delighted, Lady Cresseida." 🍂🔥🗡️

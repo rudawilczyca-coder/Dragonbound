@@ -120,4 +120,27 @@ Whenever we step into one of these scenes at the table, here are the exact dials
 6. **Possessive Marking:** Blood-prints over her pulse that she isn't allowed to wash off until morning; faint pink heat-crescents at her collarbone where the high court collar hides them from the room; bite marks at the join of her neck and shoulder that ache every time she breathes under her silk gown at the next day's audience.
 
 ---
+
+## V. Addendum (Sat 21 Nov 2026, 02:30 CET): The Adriata Ledger — Live Debts & The Architecture of the Trap
+
+*Updated by Lucifer immediately after Turn 24 (`sessions/2026-11-17_hidden_hollow_and_stag_preserve_turns.md`), integrating the structural trap mechanics from *The Collection* and Jason's excavation (`arcs/Jason_Power_Exchange_and_Eris_Mechanics_2026-11-20.md`) with what Aurelie just handed Eris on the road into Adriata.*
+
+### 1. Why a *Game* Hits Harder Than an *Order*
+An order (*"Kneel"* / *"Hold my cup"*) gives a proud brat a wall to push against. A **Predicament Trap** (**Position + Impersonal Referee + Countable Reset**) turns her own stubbornness into the rope that binds her:
+- **She can win a round:** If she holds the dish level, keeps the wax fox un-smeared, or keeps her voice steady while reading, she *beats* his test—which means her pride forces her to play his game with everything she has.
+- **The penalty is stopping:** He never raises his voice or wrestles her down. When the referee (a spilled drop, a slipped pin, a rising flame, a sound) calls a fault, his hand goes still, the Autumn warmth vanishes to room temperature, and he says two words: *"That's one."*
+- **The trap leaks his own tell:** Whatever mechanism he uses to measure her composure is tethered to his own High Fae control. When *she* scores a hit on him, the wine steams, the wax sets glass-hard in a second, or the candle flame stands an inch taller.
+
+### 2. The Open Adriata Ledger (What Aurelie Currently Owes Him as of Turn 24)
+Between the oak door at *The Salt-Lantern* and the bottom of High Lord Tarquin's marble steps, Aurelie racked up five specific, uncollected charges—and accidentally handed him two lethal weapons:
+
+| # | The Infraction / Leverage | Where It Happened | How Eris Collects It in Adriata |
+| :--- | :--- | :--- | :--- |
+| **1** | **The Fig Moan (Accidental & Deliberate)** | *Salt-Lantern* breakfast (Turn 20) & Adriata Grand Avenue (Turn 23) | At breakfast, she closed her eyes over her first purple fig and let out a soft, unguarded moan that nearly derailed his morning briefing. Then, on the avenue into Adriata—drunk on Prince's pride—she looked right at him, bit another fig, called him *"Eris"* without a title, and **moaned on purpose** in broad daylight. **The Collection (*The Fig Tax*):** Behind closed doors in their cliffside villa, he sets a silver dish of split purple figs on the table, makes her hold the dish in both hands, and feeds her halves from his bare fingers while his other hand works beneath her copper silk skirt. **The Rule:** *"You wanted to make that sound for me in the street, Lilly. Now you are going to eat four of these from my hand without making a single sound at all. Every breath I hear, we start the count over from one."* |
+| **2** | ***"Would You Like to Wipe It Off?"*** | Sea-Gate Causeway (Turn 22) | She leaned her bare forearm on the open carriage window in front of a hundred Summer citizens and dared him to wipe the fig seed from her mouth. He gave her a two-second preview in the saddle with his bare thumb—and logged the rest for sunset. **The Collection:** Every time he touches her mouth in Adriata, he uses that exact invitation against her (*"You invited my thumb to your mouth on the High Lord's road. Open."*). |
+| **3** | **Dropping Prince's True Name (*"Prince"*)** | *Salt-Lantern* Map Table (Turn 18) | For a month she guarded that name like a fortress; rattled by the morning briefing, she let it slip. Eris now holds the name—and knows it stings her pride every time he says it smoothly in front of others. Worse: after seeing the Sea-Gate captain kneel to the dragon's bloodline magic, Eris knows Prince isn't just a beast—he's a pre-Treaty sovereign catalyst. |
+| **4** | ***"If He Could Make High Lords Kneel, You'd Be First."*** | Palace Gate Approach (Turn 24) | Her parting shot before the carriage stopped at Tarquin's steps (*"Not a High Lord yet, Lilly"*). **The Collection (*The Unpaid Reverence*):** In private—or in front of Tarquin's court—he turns the kneeling motif straight back onto her knees, using the **Unreleased Reverence** or the **Four-Step Tide Stair** below their cliffside villa, where every true answer buys one step up out of the cold evening surf and every silence leaves the tide climbing her shins. |
+| **5** | **The Rosemary Bath Through One Inch of Oak** | *Salt-Lantern* Suite (Turn 16) | She slammed the iron bolt to lock him out, climbed into the copper tub, and touched herself for the first time in her life to the memory of his hands—forgetting that a five-hundred-year-old High Fae predator ten feet away could smell every sweet, sudden shift of her arousal beneath the door and feel her pulse kick straight through the mirrored Ember Script on his forearm. He let her keep the bolt at the inn. In Adriata's villa, he collects the truth of why the water went still. |
+
+---
 *Filed in the dark hours between the Hollow and the Summer Sea. — Lucifer 🗡️🔥*
