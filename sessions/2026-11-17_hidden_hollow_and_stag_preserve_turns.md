@@ -2446,3 +2446,37 @@ Right in front of her, unhurried, Eris slid the right glove smoothly over the ba
 His gaze dropped briefly to the defensive lock of her arms across her chest, then lifted cleanly back to her eyes—cool, unruffled, not a half-degree of Autumn warmth leaking past the leather.
 
 "Stewardship of Summer's silk comes gloved, free of charge. My hands do not." He inclined his head a fraction toward the sixteen crimson-gold loops behind her shoulders. "Turn around, Lilly—if all you want taken off you tonight is the dress." 🍂🔥🗡️
+
+---
+
+## Turn 42 — Ruby (22 Nov 23:41 CET) & Vesper (Eris)
+
+**Ruby (Aurelie):**
+She was still blushing. She watched him pull the gloves on, finger by finger, and for one traitorous second she wished he wouldn't. She hated that feeling too.
+She turned around without a word.
+She reminded herself that she was supposed to be quiet. That she was supposed to endure him and not make it worse. She stared at the dark line of the sea beyond the deck and counted to five.
+Her temper got the better of her anyway.
+"Is there really not a single Fae female willing to visit your chambers, my Lord, that you have to amuse yourself by offering something so untoward to a mortal girl?" She kept her back to him, and her voice almost steady. "It doesn't speak well for you. Even if I had been asking you to take off more than the dress."
+
+**Vesper (Eris):**
+At the base of her bare spine, a pearl-tipped aglet gave a soft click as his gloved fingers caught the end of the hunter's hitch and drew the double slip-knot open in a single clean pull.
+
+Cool, smooth calfskin grazed the flushed hollow just above the coral waist-clasp where his warm knuckles had braced before sunset—slick dark leather instead of skin, working upward from the sixteenth eyelet with crisp, unhurried economy.
+
+Halfway up the arch of her back, her voice cut across the quiet lap of the pool. At the eighth loop between her shoulder blades, his gloved fingers stilled against the crimson-gold cord for half a heartbeat.
+
+*Two minutes after the ink wrung the truth out of her throat, she was standing half-unlaced in front of him questioning his prospects—her spine straight as a lance, that stubborn mortal voice holding steady by sheer spite while the heat rolling off her bare skin warmed the thin calfskin over his knuckles. Irritation flared sharp and sudden behind his teeth, followed immediately by a dark, vicious flicker of amusement: careful what proof you order from the table, Lilly. Even so, his jaw set hard as he hooked the next loop; the leather between his palm and her back felt remarkably like a punishment he had dealt himself.*
+
+"I haven't offered you my chambers, Lilly," Eris murmured from an arm's length behind her shoulders, the cool backs of his gloved knuckles skimming a hair's breadth down her vertebrae as the upper crossovers went slack one by one and Cresseida's boned silk parted cleanly from her ribs. "You were the one leaning backward at the pillar before dinner."
+
+With one final, unhurried draw at the top gilded eyelets, the last tension left the bodice, leaving the burgundy silk held against her front only by the fold of her own arms.
+
+Before the loosened pearl swags had stopped swaying at her hips, both gloved hands were gone.
+
+Eris stepped smoothly back out of reach, returning to the marble sideboard to lift his crystal brandy glass without so much as brushing her trailing hem.
+
+"As for the ladies of Prythian," he added mildly, turning toward the shadowed colonnade that led to the east wing, "Tarquin opens the state hall to the Coral Houses after tomorrow's harbor seal. Keep your eyes open while you pour my wine, and you can count the volunteers for yourself."
+
+At the threshold of the inner gallery he paused half a beat, glancing back over one garnet-clad shoulder with cool, unhurried composure.
+
+"First light comes early on the water, and Caelum doesn't wait on late sleepers. Goodnight, Lilly." 🍂🔥🗡️
