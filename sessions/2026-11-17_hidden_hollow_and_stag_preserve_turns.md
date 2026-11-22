@@ -2347,3 +2347,62 @@ Unhurriedly, Eris rose to his full height, adjusting one dark calfskin cuff by t
 Varian dropped the shimmering sea-ward with a quiet snap of salt air as Eris turned beneath the gilt-capped coral columns.
 
 Halfway down the lantern-lit citrus stair toward the gorge, Eris passed Lucien coming up from the bridge. Neither brother slowed his stride; neither spent a syllable in the jasmine-scented dark, though Lucien's jaw set hard as flint and Eris didn't turn his head by an inch—continuing down onto the high white limestone causeway at an unhurried, measured walk, his boots carrying quietly across the chasm toward the lit arches of the Salt-Arch Villa two minutes ahead of him. 🍂🔥🗡️
+
+---
+
+## Turn 40 — Ruby (22 Nov 22:57 CET) & Vesper (Caelum & Eris)
+
+**Ruby (Aurelie):**
+Aurelie walked through the gate and stopped in front of Caelum.
+"I'd like to continue my training. Come to my suite at first light. We can use my dragon's den as a training ground."
+She looked at him, probably more coldly than was warranted. She still remembered his retreating back when Eris sent him away before dinner.
+"I'm not going to ask you to help me with the dress. We both know you would have to refuse." She gathered her skirt in one hand. "You might want to retire to your quarters soon, and find something to muffle the sounds with. Or your conscience. Whichever bothers you more."
+Then she walked straight past him. The lamps in the Sun-Gallery were still burning, and she left them that way. In the Great Salon she found a pitcher, poured herself a full glass of water, and drank it in one go.
+She went out onto the deck and stood right at the edge of the sunken pool, looking out at the darkened sea. The place was fit for a princess. Or a queen. For a moment she let herself imagine being hosted here with Prince Julian, or with Lucien, or with anyone at all other than Eris Vanserra.
+And then she remembered what Lucien had told her, and sighed.
+A better king. Not a safe man.
+She made herself a promise. Whatever foul mood Eris carried over that threshold, she would keep her mouth shut and nod at everything he said, just so he would let her go to her room.
+How hard could that be?
+
+**Vesper (Caelum & Eris):**
+In the amber spill of the gate-lamp, Caelum's russet fox ears angled forward half an inch at *first light*—and then, as her voice dropped cold and the blade landed cleanly across his conscience, both ears snapped flat against his skull.
+
+His scarred hands hung empty at his sides, inches from the twin hilts at his belt. Nothing in his weathered face moved. He didn't drop his amber-brown eyes from hers, didn't offer a soft apology for whose silver owned his contract, and didn't ask a nineteen-year-old mortal with Vanserra ink up her arm to feel sorry for the man holding the gate-bolt.
+
+Only when her burgundy hem swept past his boots toward the burning lamps of the Sun-Gallery did he speak—his voice low, rough, and pared down to the work alone.
+
+"First light," Caelum said quietly behind her. "Wear flat soles, Lilly. Wet cavern rock chews through city leather."
+
+He didn't throw the bronze bolt yet. Out beyond the wrought-gold ironwork, his flattened ears had already caught a second, unhurried tread crossing the white limestone span above the surf.
+
+Two minutes later, the heavy bronze bar slid smoothly into its stone socket at the Gate Hall, followed by the soft, final click of Caelum's quarters closing down the outer passage.
+
+* * *
+
+No angry bootfalls stormed through the Sun-Gallery.
+
+Eris crossed the warm golden ring under the oculus at a leisurely walk, unfastening the single ruby frog at the throat of his autumn-garnet coat as he entered the Great Salon. Where the tall limestone colonnade stood wide to the night air and the cantilevered pool deck, he came to an unhurried halt beside the low marble sideboard—ten paces back in the dry, lamplit warmth of the room.
+
+He didn't carry a foul mood over the threshold at all. Worse: he looked entirely at his ease.
+
+Unhooking the small gold stud at his left wrist, Eris drew off one dark calfskin evening glove finger by finger, then the right, laying the pair neatly beside the silver pitcher where beads of condensation were still sliding down the outside of her empty water tumbler. With bare, steady hands, he lifted a cut-crystal stopper, poured himself two fingers of Tarquin's amber coastal brandy, and leaned one shoulder lazily against the fluted coral jamb facing the dark deck.
+
+*Out at the black lip of the infinity pool with thirty-eight meters of empty night behind her heels and the bay wind pressing Cresseida's pomegranate silk flat against the line of her hips, she looked less like a runaway captive than a queen taking the measure of a harbor from her own parapet—until the warm draft off the water carried back berry wine, night-blooming jasmine, and the crisp, unmistakable salt-and-cedar dye of Lucien's Night Court sleeve clinging to her left wrist right beside his own Ember Script. Something dark and scalding turned once beneath Eris's ribs; he drowned it under a slow sip of spiced brandy and kept his boots planted squarely on the dry marble.*
+
+"Leaving the gallery lamps burning, drinking water without being told, and waiting where the light hits the water," Eris observed mildly over the rim of his glass, his voice carrying cleanly across the quiet lap of the pool without rising an octave. "Careful, Lilly. Twenty minutes in the lemon trees with my youngest brother and you are nearly domesticated."
+
+He didn't walk out onto the deck to join her. Resting his bare right forearm loosely across his waist, glass in hand, he looked at the silhouette of her bare shoulders, the gilded scallop shells, and the sixteen crossovers of crimson-gold cord still holding her spine taut above the freshwater pearls.
+
+"Before you settle in to admire the tide, tomorrow has a schedule," Eris continued conversationally, counting the items off as smoothly as harbor freight. "Varian's runner comes to the gate fifteen minutes before dawn ebb for the Drowned Archive. And once the harbor-smiths cool their anvil on the quay, High Lord Tarquin has made a second condition before he puts Summer's seal on recognizing a change of throne in Autumn: ten minutes alone with you in his council loggia, in daylight, without my hand on the door."
+
+A faint, dry curve touched one corner of his mouth.
+
+"He wants to hear from your own mouth that you understand what kind of war your dragon is flying into," Eris said, taking a second unhurried taste of the brandy. "Tell him whatever pleases you behind his coral pillars—provided you remember where the ink on your arm draws the line on side-bargains. Ten minutes of Summer's boy-king checking your wrists for bruises is cheap ink for forty leagues of closed coast."
+
+Setting the crystal tumbler down with a quiet *chink* beside his folded gloves, Eris folded his arms loosely across his open garnet coat and tilted his head a fraction in the warm amber spill of the salon lamps.
+
+"Which leaves only tonight's gate-bill before you try sleeping in sixteen knots you cannot reach," he added pleasantly. "Step back from the pool-edge to the rug, Lilly, and pay what you owe. Out loud—a nod won't clear the ledger."
+
+His golden gaze dropped for half a beat from her windblown chestnut hair to the base of her bare spine, where his flat double slip-knot sat snug above the coral clasp, and lifted cleanly back to her eyes.
+
+"Before my knuckles touched your back at that pillar tonight—when you stood in front of me for three seconds with nothing behind you but warm air—why did your weight shift backward onto your heels?" 🍂🔥🗡️
