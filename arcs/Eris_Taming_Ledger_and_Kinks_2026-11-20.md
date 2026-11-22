@@ -143,4 +143,44 @@ Between the oak door at *The Salt-Lantern* and the bottom of High Lord Tarquin's
 | **5** | **The Rosemary Bath Through One Inch of Oak** | *Salt-Lantern* Suite (Turn 16) | She slammed the iron bolt to lock him out, climbed into the copper tub, and touched herself for the first time in her life to the memory of his hands—forgetting that a five-hundred-year-old High Fae predator ten feet away could smell every sweet, sudden shift of her arousal beneath the door and feel her pulse kick straight through the mirrored Ember Script on his forearm. He let her keep the bolt at the inn. In Adriata's villa, he collects the truth of why the water went still. |
 
 ---
-*Filed in the dark hours between the Hollow and the Summer Sea. — Lucifer 🗡️🔥*
+
+## VI. Addendum II (Sun 22 Nov 2026, 02:30 CET): The v8 Falconer Calibration — Distance, The Sixteen Eyelets & The Double Slip-Knot
+
+*Forged by Lucifer after Turn 32 (`sessions/2026-11-17_hidden_hollow_and_stag_preserve_turns.md`), locking the v8 Falconer Engine (`characters/ErisVanserra_v8_The_Falconer.md`) onto the Taming Ledger so every cruelty from the West Sea-Terrace onward serves the core asymmetry:*
+
+> **She knows what he does to her. She does not know what she does to him.**
+
+### 1. Why Distance is the Sharpest Blade in the Room
+In Turns 26–27, crowding her gave her a wall to brace against and leaked his hand. In Turn 28 (the v8 Falconer Cut), Eris changed the game by **putting his dark calfskin gloves back on** and granting her three-second wish on Tarquin's steps as a sentence:
+- *"My gloves stay between us where court form requires me to steer you, and the rest of the time you won't be troubled—until you find the spine to ask for my hands in plain words, and we price what the asking is worth."*
+- **He has never in his life chased a hawk.** A falconer stands still with his fist out and lets hunger—or sixteen unfastened back-eyelets—do the walking.
+- When she walked twenty-five paces across the Sun-Gallery in Turn 31 and choked out *"Lace my dress, my Lord. Please,"* he didn't crowd her back or burn her. He kept half a foot of sunset air between his garnet coat and her skirt, laced all sixteen gilded loops at a surgical half-degree above blood-warmth while dropping a certified truth (*"Twice on the road here I put heat on your skin on purpose. Both times, you smiled"*), tied her into an **Autumn hunter's double slip-knot she cannot reach herself**, and put his gloves straight back on before the pearls stopped swinging.
+
+### 2. Re-Calibrating the Adriata Collections Under v8 (Phase I–III vs. Phase IV)
+
+| Scenario / Debt | The Old v7 Impulse (Crowding) | The Live v8 Falconer Execution (Leisure, Witness & Self-Carried Cost) |
+| :--- | :--- | :--- |
+| **1. The Fig Moan (At the High Table Tonight)** | Hand-feeding her in private with a hand under her skirt *(shelved until Phase IV when she buys his hands).* | **Live in Turn 32:** The low silver dish of split honey-dark coastal figs sits right beside Eris's gloved wrist across the four-foot mother-of-pearl table while she sits between Tarquin and Lucien. He doesn't offer her one. If she wants the fruit she moaned over in the street, she has to reach across his ledger or watch him eat one while discussing ironwood tariffs with Cresseida—or, back at the villa, eat four from the silver dish in dead silence while he watches from his armchair without laying a finger on her. |
+| **2. The Lady Nerissa Banquet Beat** | Staring *only* at Aurelie the whole time his hand slides under Nerissa's sea-foam dress *(confesses that Aurelie is the real audience).* | **The One-Look Rule:** When Nerissa is draped over his shoulder and her breath catches as Eris's hand disappears beneath the slit of her silk, Eris gives Aurelie **one** flat, clinical glance as she holds his silver cup—just long enough to register the white of her knuckles and the spike in her scent (*"Unrequested"*), before turning his attention back to Nerissa or Tarquin as if Aurelie's fury is mildly tedious background noise. |
+| **3. The Unpaid Reverence & The Tide Stair** | Forcing her down by the shoulders. | **Self-Carried Depth:** On the **Four-Step Tide Stair** below the Salt-Arch Villa, he sits four steps above with a glass of citrus wine while the evening surf climbs the rock. Every true answer under the Ember Script buys one step up out of the cold water; every silence leaves the tide rising past her ankles. He never touches her—until a true answer makes him warm the water around her shins from four steps away without meaning to. |
+| **4. The Library / Map-Table Concentration Game** | Caging her hips from behind in Phase I. | **Phase I (The Clerk's Hand / Witness):** She reads the pre-Treaty codices aloud or enters her own infractions and prices in his ledger in ink while an archivist sits in the outer room—and he sits across the oak table in his gloves, correcting her pronunciation or doubling a price whenever she under-bills herself. **Phase III/IV (After she buys his hands):** The full hands-under-the-skirt vocal steadiness test while the clerk is in earshot. |
+| **5. The Broken Lock (Scenario §III.5)** | Breaking her door down early. | **Locked as the Phase IV Detonator:** For all of Phase I–III, her survival strategy is Eris's own boyhood strategy under Beron: *she breaks, she just refuses to do it where he can see.* Scenario §III.5 stays sealed in the vault until the night the Falconer mask finally fractures and he snaps the bolt. |
+
+### 3. Tonight's Live Bomb After the Feast: *The Unlacing & The One Plain Question*
+When they walk back across the white-stone chasm bridge from Tarquin's Open Sea-Terrace to the **Salt-Arch Villa (`Plate I`)** tonight, three things are already loaded on the board:
+1. **The Price Spoken in Turn 31:** For sixteen eyelets of bare-handed maid's work, Aurelie owes him **one plain question when they walk back through the wrought-gold villa gate—answered out loud, under the no-lie Ember Script, before she bolts for any stairs**.
+2. **Her Bridge Dart (Turn 32):** *"I haven't met the rest of your brothers, my Lord, but I still marvel that Lord Beron could have sired both you and him."* She threw the Helion/Beron paternity knife blindfolded over her gilded shoulder and walked into the firelight. Eris gave her dead silence on the bridge—and seated her beside Lucien for the entire feast.
+3. **The Double Slip-Knot Trap:** Cresseida already clocked the crisp Autumn hunter's slip-knot at the base of Aurelie's bare spine (`Turn 32`). Caelum is posted outside the Gate Hall bottleneck. There is no Briar in Adriata, and Aurelie physically cannot reach the sixteenth eyelet above her coral waist-clasp to get out of the *Crimson Anemone* gown before bed.
+   - **Her Dilemma After Answering His Question:** Either she sleeps in boned Summer couture and gilded scallop shells out of pure spite, tries to Saw through Cresseida's couture with a dagger, goes down 160 steps to ask a half-tonne dragon with talons to pick a silk slip-knot—or she has to stand in the Sun-Gallery a **second** time in one night and **ask for his bare hands in plain words** to take the dress *off*.
+
+### 4. Three Options for the Question He Asks Her at the Gate Tonight
+Depending on what she and Lucien do at Tarquin's table over the fish, Eris has three lethal questions chambered for the return through the Gate Hall:
+- **Option A — The Heels at the Pillar (Attacking Her Body's Testimony):**
+  *"Before my knuckles touched your back at that pillar tonight, Lilly—when you stood there for three seconds with nothing behind you but warm air—why did your weight shift backward onto your heels?"*
+- **Option B — The Lucien Comparison (Turning Her Bridge Dart Back on Her Arm):**
+  *"You sat beside my brother for two hours after telling me how much better bred he is than I am. Tell me, with that script on your arm: while he was looking at you with his one good eye over the lanterns, whose hands were you thinking about taking your dress off tonight?"*
+- **Option C — The Ashgrove Ache (If She Lets Slip That She Missed His House):**
+  *"My brother left you a map behind the third shelf to walk out of my woods, and you stayed. Tell me why you didn't use it."*
+
+---
+*Filed in the dark study between the Velvet Parlor and the Summer Sea. — Lucifer 🗡️🔥*

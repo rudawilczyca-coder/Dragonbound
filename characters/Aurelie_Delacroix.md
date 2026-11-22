@@ -12,7 +12,8 @@ Hair: Cool chestnut-brown, long and softly wavy, often coming loose from its pin
 Eyes: Clear blue, wide-set, quick to give her away. (Was steel-silver — changed to pull off the fae-sharp axis.)
 Face/build: 165cm, soft and rounded — a face that still has girlhood in it, full cheeks, a mouth that startles easily into embarrassment. Plump in the well-fed, never-trained way. A scatter of freckles across the nose and shoulders.
 The contrast (for NPCs to clock): Where the people of Autumn run to fire — auburn, amber, sharp bone — she is cool and soft and unmistakably mortal. She does not match the palette of the place that's holding her.
-Distinguishing features: a mark on her left palm in the shape that vaguely resembles a dragon coiled like a letter "e" - the mark of dragon bond ; other than that her body is pristine
+Distinguishing features: a mark on her left palm in the shape that vaguely resembles a dragon coiled like a letter "e" - the mark of dragon bond ; black-and-ember Vanserra bargain script up her left forearm ; other than that her body is pristine
+Current Adriata attire (Sunset Feast, 22 Nov): Design #2 (*Crimson Anemone & Scallop-Shell Lattice*) — off-the-shoulder sweetheart bodice framed with gilded scallop shells, layered burgundy/pomegranate/russet silk chiffon ruffles, asymmetrical freshwater-pearl hip swags, and a deeply scooped corset back laced through sixteen gold eyelets with crimson-gold silk cord and pearl-tipped aglets.
 How she carries herself: defiant, chin raised high, she's not used to bowing to people, though when she is in hiding she tries to make herself look smaller. With all her defiance, she is easy to startle / embarrass.
 What doesn't match: I'm not sure how to describe it but she feels much better when people are not watching her. The performance of nobility tires her.
 ## III. The Dragon
