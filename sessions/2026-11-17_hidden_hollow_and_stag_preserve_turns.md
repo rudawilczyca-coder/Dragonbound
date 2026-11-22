@@ -2182,3 +2182,63 @@ Only once they had turned the corner onto the lower garden terrace—where potte
 He glanced out over the low sea-wall toward the dark harbor lights below, the easy dinner humor settling into something plainer. "What you stepped into over the fish wasn't your doing, by the way. Before the war with Hybern broke open, Feyre came to Adriata as Tarquin's guest—newly remade out of mortal bone, wearing Rhysand's bargain ink down her arm. Tarquin opened his house to them, and before they left, they crept into his sunken vault behind a glamour and stole the Summer half of the Book of Breathings. Nearly drowned his sentries in the flood-lock on the way out."
 
 Lucien's scarred mouth pulled thin for a beat before he looked back down at her. "Tarquin put blood rubies on their heads—and still sailed his fleet north when the war hit the beaches, and lifted the price afterward. Which tells you most of what you need to know about the man you were talking schoolbenches with tonight, and why Varian grabbed his pommel the second you asked for the cellar keys." 🍂🔥🗡️
+
+---
+
+## Turn 38 — Ruby (22 Nov 22:00 CET) & Vesper (Lucien)
+
+**Ruby (Aurelie):**
+Aurelie walked a few steps in silence with her hand on his arm, turning the story over. She understood Tarquin a little better for it. The weight on the marble steps at noon, the way it had lifted when she gave him her real name, Varian's hand on his sword. None of it had been about her.
+
+"That sounds like everything I've been taught about the Night Court," she said. "Helping themselves to other courts' treasures. Though I believe Lord Tarquin knows that not every mortal, or mortal-born, is a thief."
+
+Her smile came out a little crooked.
+
+"Eris wanted to smuggle my dragon into the city in a baggage coach. My dragon refused. He said he would not enter Adriata like a thief or a murderer." She shook her head. "He didn't know that story. Neither of us did. And somehow he still knew what kind of scar it had left on this city and its High Lord."
+
+For a few paces she was quiet. The bougainvillea brushed her bare shoulder, and somewhere behind them the fountain went on covering their voices. When she spoke again she didn't look at Lucien. She looked out at the night sky, and at the lights of the Salt-Arch Villa hanging over the dark water in the distance.
+
+"Your brother is a monster."
+
+She went on before he could make anything of that.
+
+"I am not delusional, Lucien. I know he is manipulative, and cruel, and calculating. But tell me this one thing." Now she did look at him. "Do you think he would be a better ruler for the Autumn Court than your father is?"
+
+**Vesper (Lucien):**
+A short, startled huff of genuine laughter escaped Lucien at her remark about the Night Court—dry and low under the splash of the fountain.
+
+"Careful," he murmured, the corner of his scarred mouth lifting despite himself. "Technically Velaris signs my travel warrants. Though if Rhysand ever asks whether I defended their sticky fingers in Adriata, I'll have to change the subject."
+
+When she told him about the baggage coach, however, Lucien slowed half a step, his russet eye widening in frank disbelief as he pictured his immaculate eldest brother attempting to roll a twenty-foot winged sovereign past Summer's harbor-guard under oiled canvas.
+
+"A baggage coach," Lucien repeated flatly, shaking his head once. "If Eris had wheeled him through that Sea-Gate behind closed curtains and every First Age ward-stone beneath this cliff had started ringing at noon anyway, Varian's spears wouldn't have stayed upright. You'd all be eating salted hardtack behind an iron grate right now." He glanced out toward the dark reef beyond the cove, real respect in his voice. "Your dragon just saved my brother from his own cleverness. Don't hold your breath waiting for Eris to thank him for it."
+
+They walked a few quiet paces further beneath the trailing crimson bougainvillea until the garden path met the head of the white limestone bridge. Ahead, across the black surge of the chasm, the open arches of the Salt-Arch Villa hung lit in warm amber against the sea-dark.
+
+Then Aurelie called his brother a monster—and turned her head to ask him the one question nobody at a High Table ever put in plain words.
+
+Lucien stopped walking beside the low stone parapet.
+
+The easy, self-deprecating warmth left his face cleanly. For two slow rollers breaking deep in the gorge below their boots, he looked across the dark water toward those steady Sun-Gallery lamps—the faint whirr of his gold mechanical eye contracting once in the quiet, his jaw set hard above his dark collar as three hundred years of Forest House stone and tonight's scrap of oiled sailcloth ground against each other behind his ribs.
+
+"Yes," Lucien said quietly.
+
+He didn't hedge it, and he didn't make it sound clean. The single syllable came out flat as iron.
+
+"Gods help Autumn, yes. Without question."
+
+Turning slightly, Lucien rested one hip near the sea-wall, keeping his arm steady beneath her fingers if she wanted it, though both his russet eye and the dimmed gold lens met her gaze squarely in the lantern-spill.
+
+"You haven't met my father, Aurelie," Lucien told her evenly. "Beron doesn't calculate. Beron burns things because the wine soured before supper, or because a lesser faerie looked one of his sons in the eye without dropping to her knees." Nothing in his voice rose, yet the white scar tissue pulling across his cheek seemed sharper in the pale light. "Under Beron, people vanish into the cellars under the Forest House and nobody is permitted to count what comes back up. And my other brothers are worse—half my father's brain and twice his appetite. If Beron dropped dead tonight without Eris's boot already on the dais, Kallum and the rest would burn twenty border villages to cinders before winter fighting over his chair."
+
+Lucien drew a slow breath of warm salt air, looking briefly back toward the lit villa across the span.
+
+"Up until two hours ago, I'd have sworn to you there wasn't an inch of Eris that didn't run on cold arithmetic," Lucien admitted, a rough, unresolved edge crossing his voice at the memory of his own boyhood maps sitting dry inside Ashgrove's wall. "And I still won't stand on this bridge and tell you he's secretly kind underneath the coat. He isn't. You've lived under his roof—you don't need me lying to you about what his teeth feel like. He is my father's sharpest student."
+
+His gaze came back to hers, clear and unsparing.
+
+"He would be a better High Lord because Eris despises waste," Lucien said starkly. "At Ashgrove, his roads hold, his granaries stay full through hard frosts, and lesser fae like that fox-eared scout at your gate sleep through the night without barring their shutters against their own liege's hounds. He'd keep his word to rulers like Tarquin because broken treaties are bad statecraft, and he'd drag Autumn out of five centuries of rot by the scruff of its neck."
+
+For a beat, Lucien hesitated—watching the sea-wind stir a loose strand of cool chestnut hair across her collarbone, right above the black-and-ember Vanserra script.
+
+"Just don't mistake a better king for a safe man, Aurelie," Lucien said softly. "Beron breaks people because he likes the sound they make. Eris will spend anything in his reach—his brothers, himself, and anyone bound to his arm—if the ledger says that's the price of taking that throne cleanly. Don't let the fact that Autumn needs him talk you into forgetting he'll write you down as a Necessary Expense the day the crown lands." 🍂🔥🗡️
