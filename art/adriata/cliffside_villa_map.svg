@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1200" width="1800" height="1200">
+  <defs>
+    <!-- Background & Sea Gradients -->
+    <linearGradient id="parchment" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbf6ec"/>
+      <stop offset="100%" stop-color="#f1e6d2"/>
+    </linearGradient>
+    <linearGradient id="seaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f5c73"/>
+      <stop offset="55%" stop-color="#1d879e"/>
+      <stop offset="100%" stop-color="#4eb6c4"/>
+    </linearGradient>
+    <linearGradient id="poolGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#66d2de"/>
+      <stop offset="100%" stop-color="#289eb3"/>
+    </linearGradient>
+    <linearGradient id="cliffRock" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cbb99f"/>
+      <stop offset="100%" stop-color="#dfd2bc"/>
+    </linearGradient>
+    <linearGradient id="cavernDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d2a32"/>
+      <stop offset="65%" stop-color="#2c414d"/>
+      <stop offset="100%" stop-color="#3f5b6b"/>
+    </linearGradient>
+    <linearGradient id="marbleFloor" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f4efe4"/>
+    </linearGradient>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#cfe8f3"/>
+      <stop offset="65%" stop-color="#edf5f2"/>
+      <stop offset="100%" stop-color="#f9e8c8"/>
+    </linearGradient>
+    <!-- Cliff Hatch Pattern -->
+    <pattern id="rockHatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#a89578" stroke-width="1" stroke-opacity="0.35"/>
+    </pattern>
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#c9b79c" stroke-width="0.6" stroke-opacity="0.35"/>
+    </pattern>
+    <style>
+      .title { font-family: 'Georgia', 'Times New Roman', serif; fill: #1b2d36; font-weight: bold; }
+      .subtitle { font-family: 'Georgia', serif; fill: #5a6c73; font-style: italic; }
+      .panel-head { font-family: 'Georgia', serif; fill: #144a5c; font-weight: bold; font-size: 18.5px; letter-spacing: 1px; }
+      .room-label { font-family: 'Georgia', serif; fill: #1b2d36; font-weight: bold; font-size: 14px; text-anchor: middle; }
+      .room-sub { font-family: 'Helvetica Neue', Arial, sans-serif; fill: #445760; font-size: 11px; text-anchor: middle; }
+      .room-sub-left { font-family: 'Helvetica Neue', Arial, sans-serif; fill: #2c3e47; font-size: 11px; text-anchor: start; }
+      .room-label-light { font-family: 'Georgia', serif; fill: #ffffff; font-weight: bold; font-size: 14px; text-anchor: middle; }
+      .room-sub-light { font-family: 'Helvetica Neue', Arial, sans-serif; fill: #d9f1f7; font-size: 11px; text-anchor: middle; }
+      .note-text { font-family: 'Helvetica Neue', Arial, sans-serif; fill: #2c3e47; font-size: 12.5px; }
+      .note-bold { font-family: 'Georgia', serif; fill: #144a5c; font-weight: bold; font-size: 12.5px; }
+      .elev-label { font-family: 'Helvetica Neue', Arial, sans-serif; fill: #1b2d36; font-weight: bold; font-size: 11.5px; }
+      .wall { stroke: #2c3b42; stroke-width: 3.5; stroke-linejoin: round; stroke-linecap: round; }
+      .glass { stroke: #1fa3b8; stroke-width: 4; stroke-dasharray: 10 4; fill: none; }
+    </style>
+  </defs>
+
+  <!-- Outer Parchment Sheet -->
+  <rect x="0" y="0" width="1800" height="1200" fill="url(#parchment)"/>
+  <rect x="0" y="0" width="1800" height="1200" fill="url(#grid)"/>
+
+  <!-- Ornate Double Frame -->
+  <rect x="22" y="22" width="1756" height="1156" fill="none" stroke="#144a5c" stroke-width="2.5"/>
+  <rect x="30" y="30" width="1740" height="1140" fill="none" stroke="#c5963e" stroke-width="1.2"/>
+
+  <!-- Header Banner -->
+  <text x="60" y="74" class="title" font-size="30" letter-spacing="2">THE SALT-ARCH VILLA — ADRIATA WESTERN CLIFFSIDE</text>
+  <text x="60" y="99" class="subtitle" font-size="15">Summer Court Guest Wing (Autumn Delegation Quarters) &amp; Prince's Vaulted Sea-Cavern • Dragonbound Architectural Plate</text>
+
+  <!-- Compass Rose (Top Right, well inside inner frame) -->
+  <g transform="translate(1625, 76)">
+    <circle cx="0" cy="0" r="28" fill="#fbf6ec" stroke="#c5963e" stroke-width="1.5"/>
+    <polygon points="0,-24 5,-5 0,-9 -5,-5" fill="#144a5c"/>
+    <polygon points="0,24 5,5 0,9 -5,5" fill="#c5963e"/>
+    <polygon points="24,0 5,5 9,0 5,-5" fill="#c5963e"/>
+    <polygon points="-24,0 -5,5 -9,0 -5,-5" fill="#144a5c"/>
+    <text x="0" y="-32" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="bold" fill="#144a5c">N</text>
+    <text x="-35" y="4" text-anchor="end" font-family="Georgia, serif" font-size="10.5" font-weight="bold" fill="#144a5c">SEA (W)</text>
+    <text x="35" y="4" text-anchor="start" font-family="Georgia, serif" font-size="10.5" font-weight="bold" fill="#5a6c73">PALACE (E)</text>
+  </g>
+
+  <line x1="55" y1="116" x2="1745" y2="116" stroke="#c5963e" stroke-width="1.2"/>
+
+  <!-- ======================================================================= -->
+  <!-- PANEL 1 (TOP LEFT): LEVEL 1 — CANTILEVERED CLIFFSIDE VILLA (+38m)       -->
+  <!-- ======================================================================= -->
+  <text x="60" y="148" class="panel-head">I. MAIN VILLA DECK — CANTILEVERED OVER ADRIATA BAY (ELEV. +38 m)</text>
+  <rect x="55" y="160" width="1025" height="560" rx="6" fill="#fdfaf3" stroke="#144a5c" stroke-width="1.8"/>
+
+  <!-- Open Turquoise Sea on West (Left) Side -->
+  <path d="M 56 161 L 395 161 Q 335 300 355 440 Q 375 580 325 719 L 56 719 Z" fill="url(#seaGrad)"/>
+  <!-- Subtle wave contours -->
+  <path d="M 90 220 Q 130 205 170 220 T 250 220" fill="none" stroke="#a8e6ef" stroke-width="1.2" stroke-opacity="0.45"/>
+  <path d="M 110 380 Q 150 365 190 380 T 270 380" fill="none" stroke="#a8e6ef" stroke-width="1.2" stroke-opacity="0.45"/>
+  <path d="M 85 570 Q 125 555 165 570 T 245 570" fill="none" stroke="#a8e6ef" stroke-width="1.2" stroke-opacity="0.45"/>
+  <text x="140" y="285" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#dff7fa" letter-spacing="3">ADRIATA BAY</text>
+  <text x="140" y="306" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#b9e9f0">(38 m sheer drop to surf below)</text>
+
+  <!-- Sheer Limestone Cliff Mass on East (Right) Side -->
+  <path d="M 770 161 L 1079 161 L 1079 719 L 760 719 Q 795 570 785 440 Q 775 300 770 161 Z" fill="url(#cliffRock)"/>
+  <path d="M 770 161 L 1079 161 L 1079 719 L 760 719 Q 795 570 785 440 Q 775 300 770 161 Z" fill="url(#rockHatch)"/>
+  <text x="985" y="215" class="room-label" font-size="13">SHEER LIMESTONE</text>
+  <text x="985" y="232" class="room-sub">CLIFF FACE (CUT-IN)</text>
+
+  <!-- Palace Causeway & Guarded Gate (East) -->
+  <rect x="875" y="405" width="204" height="70" fill="#efe6d4" stroke="#2c3b42" stroke-width="2.5"/>
+  <line x1="898" y1="405" x2="898" y2="475" stroke="#c5963e" stroke-width="3"/>
+  <line x1="912" y1="405" x2="912" y2="475" stroke="#c5963e" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <text x="995" y="436" class="room-label" font-size="12">PALACE CAUSEWAY</text>
+  <text x="995" y="453" class="room-sub" font-size="10.5">To Summer Palace →</text>
+  <text x="916" y="395" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="bold" fill="#8f651d" text-anchor="start">Wrought-Gold Gate</text>
+
+  <!-- Caelum's Guard Post & Quarters (Cut into cliff beside gate) -->
+  <rect x="755" y="295" width="145" height="110" fill="url(#marbleFloor)" class="wall"/>
+  <text x="828" y="340" class="room-label" font-size="13">CAELUM'S</text>
+  <text x="828" y="357" class="room-label" font-size="13">QUARTERS</text>
+  <text x="828" y="374" class="room-sub">Gate Watch &amp; Armory</text>
+
+  <!-- Service / Wine & Linen Pantry (South of gate, cut in cliff) -->
+  <rect x="755" y="475" width="145" height="95" fill="url(#marbleFloor)" class="wall"/>
+  <text x="828" y="518" class="room-label" font-size="12.5">WARD &amp; LINEN</text>
+  <text x="828" y="534" class="room-label" font-size="12.5">PANTRY</text>
+  <text x="828" y="550" class="room-sub">Tea, Wine, Hound Niche</text>
+
+  <!-- Sun-Gallery & Entry Rotunda (Center-East) -->
+  <rect x="585" y="375" width="170" height="130" fill="url(#marbleFloor)" class="wall"/>
+  <circle cx="615" cy="400" r="6" fill="#c5963e" stroke="#2c3b42" stroke-width="1.5"/>
+  <circle cx="615" cy="480" r="6" fill="#c5963e" stroke="#2c3b42" stroke-width="1.5"/>
+  <circle cx="725" cy="400" r="6" fill="#c5963e" stroke="#2c3b42" stroke-width="1.5"/>
+  <circle cx="725" cy="480" r="6" fill="#c5963e" stroke="#2c3b42" stroke-width="1.5"/>
+  <text x="670" y="434" class="room-label">SUN-GALLERY</text>
+  <text x="670" y="451" class="room-sub">Colonnaded Entry</text>
+  <text x="670" y="466" class="room-sub">(Fluted Marble Pillars)</text>
+
+  <!-- Cantilevered Great Salon (Curved West Wing overhanging the Bay) -->
+  <path d="M 585 335 L 350 335 Q 255 440 350 545 L 585 545 Z" fill="url(#marbleFloor)" class="wall"/>
+  <path d="M 350 335 Q 255 440 350 545" class="glass"/>
+  <!-- Cantilevered Plunge Pool & Sun Deck jutting further west -->
+  <path d="M 340 355 Q 225 440 340 525 L 350 545 Q 255 440 350 335 Z" fill="#f5eedc" stroke="#c5963e" stroke-width="2"/>
+  <path d="M 310 392 Q 258 440 310 488 L 325 478 Q 282 440 325 402 Z" fill="url(#poolGrad)" stroke="#144a5c" stroke-width="1.5"/>
+  <!-- Centered cleanly inside x=340..550 so Private Inner Corridor at x=555 never clips it -->
+  <text x="438" y="424" class="room-label" font-size="15">GREAT SALON</text>
+  <text x="438" y="443" class="room-sub">Cantilevered Sea-Glass Arc</text>
+  <text x="438" y="458" class="room-sub">Low Divans • Dining Table</text>
+  <text x="224" y="441" class="room-sub-light" font-weight="bold">Infinity</text>
+  <text x="224" y="455" class="room-sub-light">Plunge Pool</text>
+
+  <!-- NORTH WING: ERIS'S SUITE -->
+  <path d="M 410 185 L 755 185 L 755 335 L 410 335 Q 355 260 410 185 Z" fill="#fdf4ec" class="wall"/>
+  <path d="M 410 185 Q 355 260 410 335" class="glass"/>
+  <line x1="625" y1="185" x2="625" y2="305" stroke="#2c3b42" stroke-width="2.5"/>
+  <text x="515" y="245" class="room-label" fill="#7a2618">ERIS'S MASTER SUITE</text>
+  <text x="515" y="263" class="room-sub">Curved Sea-Glass Wall • Balcony</text>
+  <text x="515" y="278" class="room-sub">Hearth-Brazier &amp; Lounge</text>
+  <text x="690" y="245" class="room-label" font-size="12.5">WAR STUDY</text>
+  <text x="690" y="262" class="room-sub">Locked Map Desk</text>
+  <text x="690" y="277" class="room-sub">Ward-Sealed Door</text>
+
+  <!-- SOUTH WING: AURELIE'S SUITE -->
+  <path d="M 410 545 L 755 545 L 755 695 L 410 695 Q 355 620 410 545 Z" fill="#f0f8fa" class="wall"/>
+  <path d="M 410 545 Q 355 620 410 695" class="glass"/>
+  <line x1="625" y1="545" x2="625" y2="695" stroke="#2c3b42" stroke-width="2.5"/>
+  <rect x="645" y="560" width="92" height="55" rx="12" fill="url(#poolGrad)" stroke="#144a5c" stroke-width="1.8"/>
+  <text x="691" y="591" class="room-sub-light" font-weight="bold">Sunken Bath</text>
+  <!-- Spiral Stair Down to Prince's Cavern -->
+  <circle cx="691" cy="655" r="26" fill="#e8dcc4" stroke="#8f651d" stroke-width="2.5"/>
+  <path d="M 691 655 L 691 629 M 691 655 L 714 642 M 691 655 L 714 668 M 691 655 L 691 681 M 691 655 L 668 668 M 691 655 L 668 642" stroke="#8f651d" stroke-width="1.4"/>
+  <circle cx="691" cy="655" r="5" fill="#8f651d"/>
+  <text x="502" y="608" class="room-label" fill="#144a5c">AURELIE'S SUITE</text>
+  <text x="502" y="626" class="room-sub">Sea-Silk Canopy • Balcony</text>
+  <text x="502" y="641" class="room-sub">Direct Private Access to Prince ↓</text>
+  <!-- Clean left-aligned callout well clear of x=755 wall -->
+  <text x="775" y="650" class="note-bold" font-size="11.5">← SPIRAL STAIR</text>
+  <text x="775" y="666" class="room-sub-left">Cut inside cliff rock</text>
+  <text x="775" y="681" class="room-sub-left">to Prince's Cavern</text>
+
+  <!-- Internal Connecting Passage (Between Eris & Aurelie behind Salon) -->
+  <rect x="555" y="335" width="30" height="210" fill="#f7efe0" stroke="#c5963e" stroke-width="1.8" stroke-dasharray="5 3"/>
+  <text x="570" y="440" transform="rotate(-90 570 440)" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="bold" fill="#8f651d" text-anchor="middle">PRIVATE INNER CORRIDOR</text>
+
+  <!-- Door Openings -->
+  <rect x="751" y="425" width="8" height="30" fill="#fdfaf3"/>
+  <rect x="581" y="425" width="8" height="30" fill="#fdfaf3"/>
+  <rect x="560" y="331" width="20" height="8" fill="#f7efe0"/>
+  <rect x="560" y="541" width="20" height="8" fill="#f7efe0"/>
+  <rect x="751" y="340" width="8" height="24" fill="#fdfaf3"/>
+  <rect x="621" y="618" width="8" height="24" fill="#f0f8fa"/>
+
+  <!-- Scale Bar (Panel 1, centered under ticks) -->
+  <g transform="translate(85, 685)">
+    <line x1="0" y1="0" x2="120" y2="0" stroke="#dff7fa" stroke-width="2.5"/>
+    <line x1="0" y1="-5" x2="0" y2="5" stroke="#dff7fa" stroke-width="2"/>
+    <line x1="60" y1="-4" x2="60" y2="4" stroke="#dff7fa" stroke-width="1.5"/>
+    <line x1="120" y1="-5" x2="120" y2="5" stroke="#dff7fa" stroke-width="2"/>
+    <text x="0" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#dff7fa">0</text>
+    <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#dff7fa">10 m</text>
+    <text x="120" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#dff7fa">20 m</text>
+  </g>
+
+  <!-- ======================================================================= -->
+  <!-- PANEL 2 (BOTTOM LEFT): LEVEL 0 — PRINCE'S VAULTED SEA-CAVERN (+6m)      -->
+  <!-- ======================================================================= -->
+  <text x="60" y="756" class="panel-head">II. LOWER LEVEL — PRINCE'S VAULTED SEA-CAVERN (DIRECTLY BELOW VILLA, ELEV. +6 m)</text>
+  <rect x="55" y="768" width="1025" height="375" rx="6" fill="#fdfaf3" stroke="#144a5c" stroke-width="1.8"/>
+
+  <!-- Open Sea on West -->
+  <path d="M 56 769 L 330 769 Q 295 950 325 1142 L 56 1142 Z" fill="url(#seaGrad)"/>
+  <text x="165" y="942" font-family="Georgia, serif" font-size="15" font-style="italic" fill="#dff7fa" text-anchor="middle" letter-spacing="2">OPEN FLIGHT</text>
+  <text x="165" y="962" font-family="Georgia, serif" font-size="15" font-style="italic" fill="#dff7fa" text-anchor="middle" letter-spacing="2">CORRIDOR</text>
+  <text x="165" y="983" font-family="Arial, sans-serif" font-size="11" fill="#c8f1f7" text-anchor="middle">(Launch straight over the bay;</text>
+  <text x="165" y="998" font-family="Arial, sans-serif" font-size="11" fill="#c8f1f7" text-anchor="middle">clear of palace rooftops)</text>
+  <!-- Flight Launch Arrow -->
+  <path d="M 308 912 L 222 912" stroke="#f2d084" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <polygon points="214,912 228,905 228,919" fill="#f2d084"/>
+
+  <!-- Cliff Rock Surrounding Cavern -->
+  <path d="M 330 769 L 1079 769 L 1079 1142 L 325 1142 Q 295 950 330 769 Z" fill="url(#cliffRock)"/>
+  <path d="M 330 769 L 1079 769 L 1079 1142 L 325 1142 Q 295 950 330 769 Z" fill="url(#rockHatch)"/>
+
+  <!-- Vaulted Cavern Chamber -->
+  <path d="M 315 840 Q 385 794 560 790 Q 795 786 925 840 Q 1005 885 995 980 Q 985 1078 850 1112 Q 625 1130 435 1110 Q 345 1094 315 1045 Z" fill="url(#cavernDark)" stroke="#1b2d36" stroke-width="3.5"/>
+
+  <!-- Dotted Footprint of Villa Cantilever Above (x=345..665, cleanly clear of right-side Aerie text & pool) -->
+  <path d="M 355 832 Q 282 952 355 1076 L 662 1076 L 662 832 Z" fill="none" stroke="#f2d084" stroke-width="1.8" stroke-dasharray="7 5" stroke-opacity="0.8"/>
+  <text x="508" y="821" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#f2d084" text-anchor="middle">┄ Villa Cantilever Overhead (+32 m) ┄</text>
+
+  <!-- Sun-Warmed Basking Shelf (High-contrast dark limestone ledge) -->
+  <path d="M 322 866 L 465 858 Q 492 952 458 1046 L 322 1028 Z" fill="#3e535e" fill-opacity="0.85" stroke="#e6cfa0" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <text x="400" y="942" class="room-label-light" font-size="13">LAUNCH LEDGE</text>
+  <text x="400" y="960" class="room-sub-light">Sun-Warmed Limestone</text>
+  <text x="400" y="975" class="room-sub-light">22 m Wide Sea-Arch</text>
+
+  <!-- Tidal Salt-Pool inside Cavern (fits cleanly inside footprint without crossing dashed lines) -->
+  <ellipse cx="570" cy="1018" rx="78" ry="40" fill="url(#poolGrad)" fill-opacity="0.82" stroke="#9eeaf5" stroke-width="1.8"/>
+  <text x="570" y="1015" class="room-label-light" font-size="12">TIDAL SALT-POOL</text>
+  <text x="570" y="1031" class="room-sub-light" font-size="10.5">Sea-fed • Turquoise</text>
+
+  <!-- Prince's Main Resting Vault (centered cleanly in x=675..985, zero overlap with dashed line!) -->
+  <text x="828" y="912" class="room-label-light" font-size="16">PRINCE'S VAULTED AERIE</text>
+  <text x="828" y="933" class="room-sub-light">36 m Deep × 24 m Wide × 16 m Vaulted</text>
+  <text x="828" y="950" class="room-sub-light">Dry Sea-Sand Bed • Cool Limestone Recess</text>
+  <text x="828" y="967" class="room-sub-light">Sheltered from Palace Sightlines</text>
+
+  <!-- Private Stone Landing & Spiral Stair Arrival (South-East of Cavern) -->
+  <rect x="810" y="1030" width="145" height="58" rx="5" fill="#efe4ce" stroke="#c5963e" stroke-width="2"/>
+  <circle cx="924" cy="1059" r="21" fill="#dfd0b2" stroke="#8f651d" stroke-width="2"/>
+  <path d="M 924 1059 L 924 1038 M 924 1059 L 942 1049 M 924 1059 L 942 1069 M 924 1059 L 924 1080 M 924 1059 L 906 1069 M 924 1059 L 906 1049" stroke="#8f651d" stroke-width="1.3"/>
+  <circle cx="924" cy="1059" r="4" fill="#8f651d"/>
+  <text x="856" y="1055" font-family="Georgia, serif" font-size="11.5" font-weight="bold" fill="#1b2d36" text-anchor="middle">STAIR</text>
+  <text x="856" y="1070" font-family="Arial, sans-serif" font-size="10.5" fill="#2c3e47" text-anchor="middle">from Aurelie</text>
+
+  <!-- ======================================================================= -->
+  <!-- PANEL 3 (RIGHT): CLIFFSIDE CROSS-SECTION (ELEVATION CUTAWAY)            -->
+  <!-- ======================================================================= -->
+  <text x="1110" y="148" class="panel-head">III. CLIFFSIDE ELEVATION CUTAWAY (W → E)</text>
+  <rect x="1105" y="160" width="640" height="665" rx="6" fill="url(#skyGrad)" stroke="#144a5c" stroke-width="1.8"/>
+
+  <!-- Sun Glow -->
+  <circle cx="1295" cy="210" r="30" fill="#ffe7a8" fill-opacity="0.78"/>
+  <circle cx="1295" cy="210" r="46" fill="#ffe7a8" fill-opacity="0.28"/>
+
+  <!-- Turquoise Ocean at Bottom of Section -->
+  <rect x="1106" y="715" width="638" height="109" fill="url(#seaGrad)"/>
+  <path d="M 1106 715 Q 1160 706 1215 715 T 1325 715 T 1435 715 T 1545 715" fill="none" stroke="#e6fbff" stroke-width="2.2"/>
+  <text x="1225" y="768" font-family="Georgia, serif" font-size="15" font-style="italic" fill="#e4f9fc">ADRIATA BAY (0 m)</text>
+
+  <!-- Sheer Limestone Cliff Cross-Section -->
+  <path d="M 1744 245 L 1540 245 L 1525 360 L 1465 385 L 1465 505 L 1495 545 L 1460 580 L 1460 715 L 1410 824 L 1744 824 Z" fill="url(#cliffRock)" stroke="#5c4e3d" stroke-width="2.5"/>
+  <path d="M 1744 245 L 1540 245 L 1525 360 L 1465 385 L 1465 505 L 1495 545 L 1460 580 L 1460 715 L 1410 824 L 1744 824 Z" fill="url(#rockHatch)"/>
+
+  <!-- Summer Palace Western Terrace crowning the cliff (+55m, padded from right border) -->
+  <rect x="1548" y="210" width="182" height="35" fill="#ffffff" stroke="#2c3b42" stroke-width="2"/>
+  <path d="M 1568 210 L 1568 182 M 1602 210 L 1602 182 M 1638 210 L 1638 182 M 1674 210 L 1674 182 M 1708 210 L 1708 182" stroke="#c5963e" stroke-width="3"/>
+  <path d="M 1558 182 Q 1638 156 1720 182 Z" fill="#1d879e" stroke="#c5963e" stroke-width="1.8"/>
+  <text x="1639" y="232" class="elev-label" text-anchor="middle">SUMMER PALACE (+55 m)</text>
+
+  <!-- Private Cliff Causeway Descending from Palace to Villa -->
+  <path d="M 1550 245 L 1532 395 L 1502 395" fill="none" stroke="#c5963e" stroke-width="4" stroke-dasharray="6 3"/>
+  <!-- High-contrast label clearly to the right of the dashed causeway -->
+  <rect x="1554" y="292" width="130" height="36" rx="4" fill="#fbf6ec" fill-opacity="0.92" stroke="#c5963e" stroke-width="1"/>
+  <text x="1619" y="307" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="bold" fill="#144a5c" text-anchor="middle">Guarded Cliff</text>
+  <text x="1619" y="321" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="bold" fill="#144a5c" text-anchor="middle">Causeway</text>
+
+  <!-- PRINCE'S VAULTED SEA-CAVERN CUTAWAY (+6m to +22m) - drawn BEFORE stair shaft -->
+  <path d="M 1455 680 L 1455 595 Q 1525 562 1625 574 Q 1715 588 1710 665 L 1710 680 Z" fill="url(#cavernDark)" stroke="#1b2d36" stroke-width="3"/>
+  <rect x="1430" y="676" width="280" height="12" fill="#b8a68a" stroke="#2c3b42" stroke-width="2"/>
+  <text x="1618" y="626" class="room-label-light" font-size="13">PRINCE'S CAVERN</text>
+  <text x="1618" y="644" class="room-sub-light">Vaulted Aerie (+6 m)</text>
+
+  <!-- Internal Cliff-Cut Spiral Stair Shaft (drawn cleanly left of cavern text!) -->
+  <rect x="1498" y="468" width="24" height="208" fill="#e8dcc4" stroke="#8f651d" stroke-width="2"/>
+  <path d="M 1498 486 L 1522 498 M 1498 508 L 1522 520 M 1498 530 L 1522 542 M 1498 552 L 1522 564 M 1498 574 L 1522 586 M 1498 596 L 1522 608 M 1498 618 L 1522 630 M 1498 640 L 1522 652" stroke="#8f651d" stroke-width="1.5"/>
+  <rect x="1538" y="496" width="144" height="38" rx="4" fill="#fbf6ec" fill-opacity="0.94" stroke="#8f651d" stroke-width="1"/>
+  <text x="1610" y="512" class="note-bold" font-size="11" text-anchor="middle">Private Rock-Cut</text>
+  <text x="1610" y="526" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#2c3e47" text-anchor="middle">Spiral Stair Shaft</text>
+
+  <!-- CANTILEVERED VILLA (Tony Stark Malibu Cutaway Profile, +38m) -->
+  <polygon points="1265,468 1470,468 1470,515 1378,485" fill="#d6cbb7" stroke="#2c3b42" stroke-width="2"/>
+  <rect x="1245" y="452" width="265" height="16" fill="#ffffff" stroke="#2c3b42" stroke-width="2.5"/>
+  <rect x="1255" y="382" width="255" height="14" fill="#ffffff" stroke="#2c3b42" stroke-width="2.5"/>
+  <!-- Sea-Glass Salon Interior -->
+  <rect x="1275" y="396" width="225" height="56" fill="#eef8fa" stroke="#1fa3b8" stroke-width="2.5"/>
+  <!-- Cantilevered Plunge Pool Edge -->
+  <rect x="1245" y="446" width="32" height="8" fill="url(#poolGrad)" stroke="#144a5c" stroke-width="1.5"/>
+  <!-- Fluted Gold Columns inside Salon (unobstructed!) -->
+  <line x1="1318" y1="396" x2="1318" y2="452" stroke="#c5963e" stroke-width="2.5"/>
+  <line x1="1378" y1="396" x2="1378" y2="452" stroke="#c5963e" stroke-width="2.5"/>
+  <line x1="1438" y1="396" x2="1438" y2="452" stroke="#c5963e" stroke-width="2.5"/>
+  <!-- Villa Label positioned cleanly ABOVE roof slab on open sky -->
+  <rect x="1282" y="350" width="204" height="24" rx="4" fill="#ffffff" fill-opacity="0.92" stroke="#144a5c" stroke-width="1.2"/>
+  <text x="1384" y="366" class="room-label" font-size="12.5">SALT-ARCH VILLA (+38 m)</text>
+  <!-- Cantilevered Deck Callout cleanly left of pool edge with short leader -->
+  <text x="1174" y="415" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="bold" fill="#144a5c" text-anchor="middle">Cantilevered</text>
+  <text x="1174" y="429" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="bold" fill="#144a5c" text-anchor="middle">Sea-Glass Deck</text>
+  <line x1="1218" y1="425" x2="1244" y2="444" stroke="#144a5c" stroke-width="1.4"/>
+
+  <!-- Flight Launch Arc out over water (label cleanly BELOW the arc) -->
+  <path d="M 1435 655 Q 1340 645 1235 612" fill="none" stroke="#c5963e" stroke-width="2.8" stroke-dasharray="7 4"/>
+  <polygon points="1225,609 1242,606 1238,620" fill="#c5963e"/>
+  <text x="1332" y="672" class="note-bold" font-size="11.5" text-anchor="middle">Dragon Launch Arc</text>
+
+  <!-- Elevation Reference Lines -->
+  <line x1="1120" y1="245" x2="1150" y2="245" stroke="#144a5c" stroke-width="1.5"/>
+  <text x="1156" y="249" class="elev-label">+55 m Palace</text>
+  <line x1="1120" y1="460" x2="1150" y2="460" stroke="#144a5c" stroke-width="1.5"/>
+  <text x="1156" y="464" class="elev-label">+38 m Villa</text>
+  <line x1="1120" y1="682" x2="1150" y2="682" stroke="#144a5c" stroke-width="1.5"/>
+  <text x="1156" y="686" class="elev-label">+6 m Cavern</text>
+
+  <!-- ======================================================================= -->
+  <!-- PANEL 4 (BOTTOM RIGHT): LEGEND & TACTICAL / RP NOTES                    -->
+  <!-- ======================================================================= -->
+  <text x="1110" y="860" class="panel-head">IV. LEGEND &amp; ARCHITECTURAL NOTES</text>
+  <rect x="1105" y="872" width="640" height="271" rx="6" fill="#fdfaf3" stroke="#144a5c" stroke-width="1.8"/>
+
+  <!-- Legend Symbols (2x2 compact grid so notes have generous breathing room) -->
+  <line x1="1128" y1="902" x2="1174" y2="902" class="wall"/>
+  <text x="1184" y="906" class="note-text">Marble / Cliff Load Wall</text>
+
+  <line x1="1425" y1="902" x2="1471" y2="902" class="glass"/>
+  <text x="1481" y="906" class="note-text">Sea-Glass &amp; Open Arches</text>
+
+  <rect x="1128" y="926" width="46" height="14" rx="2" fill="url(#poolGrad)" stroke="#144a5c" stroke-width="1.2"/>
+  <text x="1184" y="937" class="note-text">Plunge / Sunken / Tidal Pool</text>
+
+  <!-- Spoked Spiral Stair Wheel Symbol matching Panels I & II -->
+  <g transform="translate(1448, 933)">
+    <circle cx="0" cy="0" r="11" fill="#e8dcc4" stroke="#8f651d" stroke-width="1.8"/>
+    <path d="M 0 -11 L 0 11 M -9.5 -5.5 L 9.5 5.5 M -9.5 5.5 L 9.5 -5.5" stroke="#8f651d" stroke-width="1.1"/>
+    <circle cx="0" cy="0" r="2.5" fill="#8f651d"/>
+  </g>
+  <text x="1481" y="937" class="note-text">Spiral Stair (Aurelie ↔ Cavern)</text>
+
+  <line x1="1125" y1="960" x2="1725" y2="960" stroke="#c5963e" stroke-width="1.1"/>
+
+  <!-- Key Tactical / Scene Notes (using inline tspans for exact spacing!) -->
+  <text x="1128" y="988" class="note-text"><tspan class="note-bold">• Single Palace Bottleneck:</tspan> Only one guarded cliff-bridge links the villa to Tarquin's</text>
+  <text x="1140" y="1006" class="note-text">palace. Caelum holds the gate; unannounced visitors cannot slip in unseen.</text>
+
+  <text x="1128" y="1038" class="note-text"><tspan class="note-bold">• Private Inner Corridor:</tspan> Connects Eris's and Aurelie's wings behind the salon —</text>
+  <text x="1140" y="1056" class="note-text">no crossing the glass deck after dark, and lockable from inside.</text>
+
+  <text x="1128" y="1088" class="note-text"><tspan class="note-bold">• Prince's Sightline Cover:</tspan> 32 m of solid cliff rock plus crashing surf below the</text>
+  <text x="1140" y="1106" class="note-text">villa floor mask Prince's movements from Summer Court balconies.</text>
+</svg>
