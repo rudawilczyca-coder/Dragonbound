@@ -1928,3 +1928,63 @@ And Cresseida—never one to let a second slip grow cold in the same course—fo
 At the head of the table, Tarquin set his goblet down with a quiet, decisive chime against the mother-of-pearl, his warm gaze steady on Aurelie—addressing both the young woman in the chair at his left and the ancient ears out on the reef.
 
 "Ismena's captains hold no charter inside Summer's tide-markers, Aurelie," Tarquin said evenly, drawing a clean line in the water without glancing toward Eris for permission. "Nor will they be granted anchorage in Adriata while you and your companion are under my roof. Though Cresseida raises a fair question for both of you: if Ismena's envoys come knocking at the neutral ports to claim what sailed out of Hightower, whose word answers for you in Prythian?" 🍂🔥🗡️
+
+---
+
+## Turn 34 — Ruby (22 Nov 20:05 CET) & Vesper (Eris, Tarquin, Cresseida & Lucien)
+
+**Ruby (Aurelie & Prince):**
+Unlaced, to ask for my hands.
+Every word of it was true, and that was the worst part. The blush hit her before she could do anything about it, hot from her collarbones to her hairline. Aurelie lifted her goblet and took three long swallows of the berry wine, exactly as Lucien had told her not to. It was sweet enough to blame.
+"You were right, Lord Lucien," she murmured, setting it down. "It goes straight to the face."
+After that she kept her mouth shut and her ears open. She listened to Tarquin explain how the tide-shapers had coaxed living coral up out of the shoals, and for a while she forgot to be afraid of him. She listened to Cresseida and Eris trade hulls and tariffs like two people fencing with ledgers. She ate her bread and cheese. She did not look at the silver dish sitting on the center line of the table, though the smell of honey reached her every time the wind turned.
+Then Cresseida said Hightower, and Ismena, and a white shadow, and the bread turned to ash in her mouth.
+{It's okay,} Prince said. {He has just told you he will not let them land. Listen to what he is asking.}
+Whose word answers for you in Prythian?
+She wasn't stupid. She knew why they had ridden four days to this table. Eris needed Tarquin to see a future High Lord of Autumn, and whatever she thought of him, she was not going to pull that out from under him with her aunt's ships sitting off the coast.
+So Aurelie reached across the table for a fig. She used her left arm, and she took her time, and the slit sleeve fell open so the lantern light ran the whole length of the ember script from her elbow to her wrist.
+"I am under Lord Eris Vanserra's protection, High Lord, for as long as I am part of his household," she said. "However difficult I make that for him at times. He gave me and my companion shelter, and an education in your lands. In return, I am his to command." She turned the fig over in her fingers. "His word answers for me."
+She bit into the fig. It was, infuriatingly, the best thing she had tasted all day.
+Then she turned to Lucien, because she couldn't bear to see what was on the face across the table.
+"Do you plan to stay in Adriata long? I know we weren't very forthcoming with you about my companion's existence, last time. But if you'd like to meet him, I'm sure he wouldn't be opposed."
+
+**Vesper (Eris, Tarquin, Cresseida & Lucien):**
+Earlier, when she had drained half her goblet in three defiant swallows with the flush blazing clean to her hairline, Lucien had only let a faint, rueful crease touch his scarred cheek—*"Fair warning rarely survives this family, Lady Aurelie"*—and quietly nudged her chilled water tumbler half an inch closer to her plate without making a show of it.
+
+Now, as her left arm reached unhurriedly across the sea-glass lanterns and the slit burgundy chiffon parted from elbow to wrist, the conversation along the mother-of-pearl board stilled until only the surf booming seventeen meters below the marble rail filled the pause.
+
+Every High Fae at the table knew what an active bargain mark sounded like when its bearer tried to bend a syllable past the ink. Hers didn't catch or dim by a hair. The black-and-ember Vanserra script caught the turquoise brazier-fire like inlaid bronze while her voice rang clear and unforced across the shell—placing herself and an ancient sovereign of the sky squarely under *Lord Eris Vanserra's* name rather than Autumn's crown, sliding a clean boundary stone right into the middle of the oath, and lifting a split coastal fig off the exact center line where he had left it.
+
+Directly opposite, Eris didn't stir from the carved coral back of his chair, two dark-gloved fingers resting weightless against the stem of his chilled wine.
+
+*Beneath the rim of the table, his gloved left hand closed slow and tight around his own knee until the supple calfskin pulled taut across his knuckles. Three swallows deep in sweet berry wine with his last dart still burning pink above her gilded shells, nineteen years old with her aunt's bounty-carracks sitting four days off the shoals, and nobody had coached her on a word of it—yet she had read the entire board, handed him sovereign standing over his father's head at a High Lord's table, tucked her own expiration date cleanly inside the clause, and sunk her teeth into the fig off his line.*
+
+*A sharp, despised heat kicked low in his gut at the sound of* his to command *leaving her mouth right before dark fig-syrup glossed her lower lip; colder and far less welcome was the half-second behind it, recognizing the exact breed of pride that took the weight upright at table and never let the room see a fracture. And then—before she even swallowed—she turned her bare shoulder straight on him without once meeting his eyes and offered his dragon to his youngest brother.*
+
+Across from Lucien, Cresseida's cool aquamarine gaze lingered for half a heartbeat on that surgical qualifier—*for as long as I am part of his household*—her silver-braided head tilting a fraction in quiet, calculating appreciation before she lifted her glass.
+
+At the head of the board, Tarquin inclined his head gravely to Aurelie, accepting both the legal shield and the composure with which she had set it down. "Then Summer's harbor-masters have their answer," Tarquin said evenly, glancing once from Aurelie's marked forearm across to Eris. "My cousin Caspian brings the southern patrol squadron in on the morning tide from shadowing those three carracks. Word goes back to the shoals at dawn: Lady Aurelie and her companion stand under Lord Eris Vanserra's word, and Adriata's waters recognize his banner."
+
+"Summer has Autumn's thanks for the courtesy, High Lord," Eris said smoothly, inclining his head a measured inch—claiming the mantle as effortlessly as if it had been drafted in his study.
+
+Beside Aurelie, Lucien had gone very quiet while the lantern light ran the length of her arm—something sober and watchful behind his single russet eye at hearing *I am his to command* spoken aloud by a nineteen-year-old mortal. The instant she turned away from Eris and spoke straight to him, however, that tightness eased into genuine, slightly crooked warmth.
+
+"A few days under High Lord Tarquin's roof, if his cellar holds out," Lucien answered, resting one Night-clad forearm lightly along the white-oak edge without crowding her elbow, holding her gaze steadily so she had an easy anchor away from the far side of the lanterns. "Jurian's port-clerks spotted Queen Ismena's silver towers nosing north past the ferry lanes last week, and I had river-tariff dispatches due for Adriata and Helion's border anyway. Strange how often diplomacy runs up the exact same coast road."
+
+A wry, almost boyish glint broke through the diplomat's weariness as he glanced past the turquoise braziers toward the dark water beyond the arch. "And yes—considering Varian's sentries haven't spoken about anything else since noon, I'd be a fool to pass up an introduction. Assuming your companion doesn't hold my surname against me on principle."
+
+Lucien's gaze flicked half an inch across the sea-glass lanterns toward his eldest brother—plainly braced for the Autumn lock to snap shut.
+
+Instead, as two Summer stewards glided out from the buttery pass to set platters of char-grilled gilt-head bream baked in lemon leaves and samphire down the center of the board, Eris didn't bristle by a thread. Leaning back at complete leisure in his coral chair—right beside the silver dish where one stem was now missing from the side nearest her wrist—he regarded Lucien with mild fraternal amusement.
+
+"Caelum keeps a gatehouse on the causeway, brother, not a garrison," Eris remarked pleasantly over the soft crackle of crisped sea-salt and herbs. "Walk over before the morning tide turns, if Lady Aurelie's companion has the patience for two Vanserras in one week."
+
+Only then did Eris's golden gaze slide half an inch from Lucien to the flushed curve of Aurelie's cheek and the crimson-gold hunter's knot gleaming low on her bare spine where she sat angled stubbornly away from him.
+
+"Do send a runner ahead before you cross the bridge, though, Lucien," Eris added mildly, lifting his silver fish-knife as if offering a harmless household courtesy. "The rock-stair down to the sea-cavern sits off the south gallery—and Lady Aurelie took a great fancy to dropping the inside bronze bar behind herself this afternoon."
+
+Cresseida hid a slow, delighted curve of her mouth behind the rim of her sea-glass goblet. Beside Aurelie, Lucien's scarred brow climbed a fraction—a flash of dry, unmistakable approval warming his russet eye as he turned back to her under the clink of the serving platters.
+
+"I'll make sure to knock loud enough to carry through oak, then," Lucien murmured for her ears, reaching for the dish of charred lemons to dress her plate before his own, then glancing sidewise at her with real curiosity. "How large is he, truly? Varian's gate-guards swore his wingspan cleared both carriage lanes on the grand boulevard, and infantrymen always add ten feet by sundown."
+
+Across the four feet of mother-of-pearl, Eris didn't wait to see whether she turned around to look at him—already angling his garnet-clad shoulder smoothly toward Tarquin as he laid the first fillet cleanly onto his plate. 🍂🔥🗡️
