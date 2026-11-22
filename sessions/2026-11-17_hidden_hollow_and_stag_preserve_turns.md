@@ -1988,3 +1988,73 @@ Cresseida hid a slow, delighted curve of her mouth behind the rim of her sea-gla
 "I'll make sure to knock loud enough to carry through oak, then," Lucien murmured for her ears, reaching for the dish of charred lemons to dress her plate before his own, then glancing sidewise at her with real curiosity. "How large is he, truly? Varian's gate-guards swore his wingspan cleared both carriage lanes on the grand boulevard, and infantrymen always add ten feet by sundown."
 
 Across the four feet of mother-of-pearl, Eris didn't wait to see whether she turned around to look at him—already angling his garnet-clad shoulder smoothly toward Tarquin as he laid the first fillet cleanly onto his plate. 🍂🔥🗡️
+
+---
+
+## Turn 35 — Ruby (22 Nov 20:35 CET) & Vesper (Eris, Tarquin, Cresseida, Varian & Lucien)
+
+**Ruby (Aurelie & Prince):**
+Aurelie let herself smile, just for a moment, when she saw how it landed. Then she let Eris speak.
+
+This was what the dinners at Ashgrove had been for. Nobody had given her the words, but she had understood the lesson well enough: she was to stand under his name, openly, so that the other High Lords would see he had the strength to take his father's throne and keep it. She had done that. She assumed it was all that would be asked of her tonight, and she stopped following every word of the conversation quite so closely.
+
+She pretended not to hear the remark about the bronze bar.
+
+When the fish came she waited until Eris had laid the first fillet on his plate, and then served herself. Her nerves were letting go, one knot at a time. It wasn't as hard as he had warned her it would be. Cresseida was dangerous, and Aurelie had already marked her as someone she never wanted for an enemy. But the others were mild, even kind. She was starting to suspect that between the two brothers, Lucien had never been the exception among his kind. Eris was.
+
+"He's about the size of a horse," she told Lucien, and couldn't keep the pride out of her voice. "Though with his wings spread he looks far more formidable than any warhorse could. Your infantrymen weren't adding much. It's over twenty feet from tip to tip." She shook her head a little. "He was much smaller when he hatched. And to be honest, neither of us knows how much growing he still has to do."
+
+She was talking to Lucien, but she knew every ear at the table was listening.
+
+So she turned to Tarquin.
+
+"That is partly why we're here, High Lord. We were hoping for access to your libraries, and to any ancient artifacts you might hold that have to do with dragons. My companion is the only one of his kind that we know of. Under Lord Eris's roof we have already learned that dragons are as much a myth in Prythian as they are in the mortal lands." She set down her fork. "Even so, he and I still hope to find out what became of his kin. And whether there is a place where they still live, however well hidden it might be."
+
+**Vesper (Eris, Tarquin, Cresseida, Varian & Lucien):**
+At her elbow, Lucien paused mid-reach for his wine, his scarred brow lifting as the unmistakable warmth in her voice carried over the hiss of the sea-glass lanterns.
+
+"Wait—that was him *still growing*?" Lucien asked, genuine marvel breaking into a low, rueful laugh as his gold eye whirred a fraction wider. Even two paces behind the High Lord's chair, Varian's gaze snapped involuntarily back toward the white surf breaking along the outer reef, a garrison commander silently revising every parapet clearance in Adriata's harbor upward by half. "My apologies to Varian's gate-watch, then. Give him another winter and you won't need a carriage road—you'll need a dry-dock."
+
+Then Aurelie set down her silver fork, turned squarely to the head of the board, and asked the High Lord of Summer for his libraries and his ancient artifacts.
+
+The warm, easy salt breeze did not change, yet the air around the mother-of-pearl table altered in a single beat.
+
+Two paces behind Tarquin's coral chair, Varian went rigid—his fingers closing hard around his sword-pommel as his silver-browed gaze cut straight to the back of his cousin's head. Beside Aurelie, Lucien's easy smile vanished; his eyelids dropped for a fraction of a second in a quiet, unmistakable wince at the exact scar she had just stepped onto without knowing it existed. Across the lanterns, Cresseida's goblet stopped an inch shy of her mouth, all lingering amusement draining out of her aquamarine eyes until they looked very much like deep winter shoals.
+
+Directly opposite Aurelie, Eris didn't pause in separating a clean white flake of char-grilled bream from the bone with the edge of his silver knife.
+
+*She had waited until his fillet touched porcelain before lifting her own spoon—drilled clean into Ashgrove's cadence without even noticing she was keeping time—and then let two civil smiles from Lucien and Tarquin convince her the water had no teeth left in it. Less than a minute off the leash, and she had just informed three foreign royals and Rhysand's envoy that Autumn's vaults were empty, that his apex weapon was an unweaned hatchling still growing into its bones, and that its rider was actively hunting a sanctuary to spirit it home to—all while asking High Lord Tarquin, with another court's bargain ink gleaming up her bare arm, for the keys to his artifact rooms.*
+
+*His gloved fingers stayed loose and unhurried on the silver haft. Better she hear how gentle High Lords price their cellars from Summer's mouth than his.*
+
+"You ask plainly, Lady Aurelie," Cresseida said into the quiet, setting her sea-glass goblet down without a chime and folding her ringed hands before her plate. "The last mortal-born guest who dined at this table with another court's mark on her skin and took an interest in Adriata's older artifacts preferred not to mention it over the fish. Four of Varian's water-sentries nearly drowned in their own mail before morning."
+
+Beside Aurelie, Lucien stared flatly at the bevel of his glass and did not offer a word in Night's defense.
+
+At the head of the board, Tarquin raised two brown fingers half an inch off the inlaid shell.
+
+Cresseida fell silent at once, though she didn't take her eyes off Aurelie. Tarquin's own gaze rested steadily on Aurelie's face—the easy, sunlit warmth of five minutes ago gone, replaced by the quiet, fathoms-deep weight she had felt on the marble steps at noon as he measured her clear blue eyes and the open reef behind her.
+
+"Lady Aurelie did not creep down my stairs behind a glamour, Cresseida," Tarquin said evenly. "She set down her fork and asked across my bread with every ear at this table open."
+
+Slowly, Tarquin leaned forward an inch against the white-oak rim, addressing both the young woman at his left and the unseen listener beyond the sea-arch.
+
+"My upper palace libraries are open to you after breakfast tomorrow for as long as you care to read, Aurelie," Tarquin told her honestly. "Sea-charts, post-Treaty chronicles, coastal bestiaries—though I suspect my scribes painted dragons with the same guesswork Lord Eris's did. Below the palace tide-line, however, sits what we call the Drowned Archive. The First Age tide-shapers carved those vaults into the living reef long before the Wall was raised. Salt water floods the upper locks at high tide, and older ward-stones keep out anyone who doesn't belong."
+
+Tarquin's turquoise eyes flicked once toward the dark surf beyond the balustrade, then back to hers.
+
+"When your companion flew in over the outer harbor at noon, every First Age ward-stone beneath this cliff answered him like a struck bell," Tarquin said, giving plain truth for plain truth. "For three months, my southern deep-water crews have been losing nets and hulls along the trench beyond the continental shelf—not to Queen Ismena's carracks, and not to sea-wyrms, but to unnatural cold currents rising out of rock that hasn't woken since the old wars. None of my scholars can read the oldest reliefs down in those vaults."
+
+"If we unseal the tide-stair at tomorrow's low water," Cresseida picked up smoothly across the lanterns, businesslike as a harbor banker now that the terms were on the shell, "Summer asks two things in return. First: that you and your companion examine those pre-Treaty reliefs—whether he walks the lower ledge himself or looks through your eyes—and tell High Lord Tarquin plainly if whatever is stirring in our southern trench belongs to his blood."
+
+Her cool aquamarine gaze slid from Aurelie's face toward the dark sea-arch, and back again.
+
+"And second: before the inner ward-locks come off, one small token for Summer's ward-smiths. Not blood, and nothing cut—a single shed feather or cast scale from your companion's molt, freely given, so Adriata's harbor-wards know his signature from whatever else moves across our water."
+
+Across the four feet of mother-of-pearl, Eris lifted his sea-glass goblet, took one unhurried sip of chilled citrus wine, and set the crystal back down beside the silver dish of figs.
+
+"High Lord Tarquin names his terms more politely than my father's house," Eris observed mildly, resting one dark-gloved wrist along the edge of the shell as his amber eyes settled directly onto Aurelie across the lantern-flame—cool, unblinking, and openly entertained. "At Ashgrove, Lady Aurelie only had to catalogue dusty shelves for her reading privileges. Under Summer's roof, it took less than one course of bream to put a deep-trench survey and a piece of her companion's coat on the table."
+
+He inclined his head half an inch toward Tarquin without looking away from her.
+
+"Autumn has no objection to the lower stair, High Lord—once our harbor-clauses have ink on them in the morning, and provided I walk down behind them myself. As for the feather..." One corner of Eris's mouth curved by a hair, leaving her squarely in the chair she had chosen. "Lady Aurelie opened this particular negotiation on her own initiative. Let us hear what her companion makes of Princess Cresseida's ward-smiths." 🍂🔥🗡️
