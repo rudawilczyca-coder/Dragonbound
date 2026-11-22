@@ -2242,3 +2242,108 @@ His gaze came back to hers, clear and unsparing.
 For a beat, Lucien hesitated—watching the sea-wind stir a loose strand of cool chestnut hair across her collarbone, his gaze dropping once to the black-and-ember Vanserra script winding up the left forearm resting on his sleeve.
 
 "Just don't mistake a better king for a safe man, Aurelie," Lucien said softly. "Beron breaks people because he likes the sound they make. Eris will spend anything in his reach—his brothers, himself, and anyone bound to his arm—if the ledger says that's the price of taking that throne cleanly. Don't let the fact that Autumn needs him talk you into forgetting he'll write you down as a Necessary Expense the day the crown lands." 🍂🔥🗡️
+
+---
+
+## Turn 39 — Ruby (22 Nov 22:30 CET) & Vesper (Lucien, Caelum, Eris, Tarquin & Cresseida)
+
+**Ruby (Aurelie):**
+Aurelie listened to him without interrupting. She had stopped when he stopped, but her hand did not leave his arm.
+She knew what that yes had cost him. A warm rush of gratitude went through her. Or maybe that was still the wine.
+She smiled at him, a little rueful.
+"Oh, I know exactly what I am to him. He has a habit of reminding me that this bargain makes me his property. At least three times a day."
+She started walking again, slowly, toward the head of the bridge.
+"Thank you. That is what I suspected. So before you try to rescue me a third time, let me say this." She kept her eyes on the lit arches across the gorge. "I am bound by the bargain to stay at his side until he has shown my dragon to every court he chooses. I am not to deal with any other court behind his back, and whoever signs your travel warrants, Lucien, that includes you. In return he takes us to places like this, so we can look for the rest of my dragon's kind."
+She drew a breath.
+"But I will support his claim to the throne of Autumn. Not for him, and not because of the bargain. For the people of Autumn. If your court gets the ruler it deserves before the bargain runs out, then you and I can come back to this conversation. Until then I am going to endure every cruelty your brother throws at me, and smile through gritted teeth."
+She swallowed. There was a lump forming in her throat, and she hated it.
+"I would appreciate it if you didn't make that harder with offers of rescue you cannot make good on."
+
+**Vesper (Lucien, Caelum, Eris, Tarquin & Cresseida):**
+Lucien fell back into step beside her without a word, matching her slow pace out onto the high white-stone span over the gorge.
+
+He didn't look sideways at her while her throat worked against that swallow. Three hundred years among proud people had taught him when looking at someone's face was an intrusion; instead he kept his gaze steady on the warm amber lamps of the Salt-Arch Villa ahead, letting the boom of the dark water into the sea-caverns far below fill the silence until her breathing leveled out.
+
+Only when they reached the far cliff-neck—five paces outside the tall wrought-gold ironwork of the villa's causeway gate, where Caelum's russet fox ears swiveled once in the lantern-light before the scout quietly drew the heavy bronze bolt, pulled the gate ajar, and stepped back down the inner passage out of earshot—did Lucien come to a halt.
+
+He didn't reach for her hand, and he didn't offer a soft platitude to cushion the rebuke she had just laid cleanly across his knuckles.
+
+Instead, once her fingers slipped free of his dark wool sleeve, Lucien stepped back half a pace on the white limestone and inclined his shoulders in a formal, unhurried bow—not the easy nod of a dinner companion, and not Night's envoy humoring a hostage, but the exact bow an exiled son of the Forest House owed someone standing watch over people he had walked away from.
+
+"Heard and kept, Lady Aurelie," Lucien said quietly, straightening to meet her eyes in the amber spill of the gate-lamp. His russet gaze was sober, bruised around the edges, and wholly without pity. "No third offer, and no side-doors behind the ink on your arm. Only plain daylight when our paths cross—and a chair waiting if the day ever comes when that bargain burns out and your debt to Autumn is paid."
+
+A small, crooked ghost of a smile touched his scarred mouth.
+
+"Drink some water before you sleep," he murmured. "And thank you. For remembering there are people under those trees worth gritting your teeth for."
+
+With one final nod toward the shadowed archway where Caelum stood waiting to bolt the iron behind her, Lucien turned cleanly on his heel and walked back out across the white bridge toward the palace cliffs.
+
+* * *
+
+*Twenty minutes earlier, on the High Table Sea-Terrace—*
+
+The lutenists had barely cleared the arcade steps behind Lucien and Aurelie before Varian moved two paces to the colonnade arch and laid his palm flat against the carved coral keystone. A soundless shimmer of pale aquamarine rippled from pillar to pillar, sealing the open terrace in a High Lord's council-ward that turned every word inside it to meaningless surf beyond the rail.
+
+At the head of the mother-of-pearl table, Tarquin didn't pick up Cresseida's harbor-tariff parchment.
+
+He pushed it two inches aside with one brown finger, leaned back in his chair, and looked straight across the sea-glass lanterns at Eris.
+
+"We share forty leagues of quiet coast and three ports already trading your cedar, Lord Vanserra," Tarquin said plainly. "You didn't ride south with a living First Age myth over your coach—or seat a Hightower noblewoman wearing an Autumn blood-bargain at my left hand—to haggle two percent off ironwood tonnage. My sentries have ears, and Cresseida has ships. Say what you came to Adriata to build."
+
+Reclined in his coral chair with his booted ankle still resting loosely over his knee, Eris didn't shift an inch toward the parchment either. Two dark-gloved fingers turned the frosted stem of his citrus wine once against the shell.
+
+"Your sentries already know half of it, High Lord," Eris replied smoothly. "Two summers ago, while Hybern's hulls were burning your outer docks, my father kept Autumn's spears parked behind his ridges until the last horn blew. Since the treaty dried, he has doubled the muster along the southern passes and looked the other way while continental slavers and Ismena's silver run the neutral coves."
+
+Eris's golden gaze rested unblinking on Tarquin's face—no courtier flourish, just cold, surgical statecraft.
+
+"Beron is seven centuries old, bitter that the wrong side lost the war, and rotting from the dais down," Eris said evenly. "When the Forest House changes hands, it will not change through a five-year border war that drives ten thousand starving refugees down into your olive groves. It changes in one night, inside Autumn's own walls, with four High Courts recognizing the succession at sunrise before Kallum and my younger brothers can set the southern marches on fire fighting over the ash."
+
+Beside him, Cresseida rested one silk-draped elbow on the white oak, her pearl-threaded braids catching the turquoise brazier-light.
+
+"And Summer's part in this tidy sunrise?" she asked mildly.
+
+"Three things," Eris said without looking away from Tarquin. "When my runner brings my seal to your border-gate, Summer closes the southern passes and neutral coves to my brothers' gold-ships for seventy-two hours. When the magic shifts at dawn, Adriata's formal recognition lands beside Helion's before noon. And in return: Beron's old coastal timber levies drop by a third for fifty winters, every border-raid claim from his reign is struck dead, and the white shadow currently roosting under your cliff never crosses Summer's tide-markers uninvited."
+
+Cresseida's mouth curved into a cool, razor-thin smile.
+
+"A generous fifty-winter compact, Lord Vanserra—if the white shadow were nailed to your banner for fifty winters," she murmured, smooth as drawn glass. "Yet the nineteen-year-old mortal who speaks for him was remarkably careful with her tenses over the figs tonight. *For as long as I am part of his household.* Bargains with mortal women have endings. What stops that dragon from flying north—or back across the sea—the morning after we seal your parchment, leaving Summer to explain to Beron why we backed an heir whose teeth flew out the window?"
+
+Even Varian's silver eyes sharpened from the pillar, waiting to see where Autumn's heir blinked.
+
+Eris didn't blink. Lifting his sea-glass goblet, he took one slow, unhurried swallow of chilled wine and set the crystal cleanly down beside the untouched silver dish of figs. Beneath his right cuff, the mirrored black-and-ember script lay cold and quiet against his forearm—every syllable literal truth.
+
+"What keeps her in Autumn's column until Beron falls is ink she cannot scrub off her skin," Eris said mildly. "And what keeps Adriata safe from my father's reprisals isn't the dragon, Princess. The dragon only decides whether cleaning out the Forest House takes one night, or six months. Either way, Beron Vanserra does not sit that chair next winter."
+
+Now Eris turned his head half an inch, giving Cresseida a polite, glacial smile that didn't come near his eyes.
+
+"Summer's only real question," he added pleasantly, "is whether you prefer a neighbor on your northern ridge who remembers you locked the back gate when he asked—or one who took the crown without your ink and owes your harbors nothing at all."
+
+Silence fell across the mother-of-pearl board, broken only by the surf thudding seventeen meters below the marble balustrade.
+
+Cresseida didn't answer at once; her aquamarine eyes narrowed by a fraction, measuring the steel underneath the velvet and finding no give in it.
+
+At the head of the table, Tarquin laced his fingers loosely before his plate. He looked at Eris for a long, unhurried moment—not intimidated by the edge, weighing both the bastard sitting across his shells and the reports his own border-captains brought south from Ashgrove's marches.
+
+"I have no love for Beron," Tarquin said evenly. "And if your rule looks closer to how Ashgrove's roads are kept than how the Forest House keeps its cellars, Summer has every reason to want a sane signature on our northern line."
+
+Tarquin unlaced his hands and laid two fingers flat on the white-oak rim.
+
+"Give me two things before your coach rolls north, Eris, and you ride out of Adriata with Summer's seal on that recognition pact," Tarquin said. "First: tomorrow's low tide. Let the dragon read our Drowned Archive reliefs, give me plain truth on what is waking in my southern trench, and if our vaults earn that shed feather, let my harbor-wards wake before Caspian sails out."
+
+"And the second?" Eris asked.
+
+"Ten minutes with Lady Aurelie in the council loggia tomorrow," Tarquin answered, his turquoise gaze level and immovable, "without your hand on the door. If I'm putting Summer's ships behind a change of throne built on her companion's wings, I'll hear from her own mouth—in daylight—that she knows what war she's walking into."
+
+Out over the dark harbor below, the half-hour bell tolled a single low bronze note across the water.
+
+Eris didn't stiffen, didn't argue the clause, and didn't spend a breath defending his household.
+
+*First his youngest brother walking her down the lemon stairs, and now Summer's boy-king demanding ten minutes behind closed coral to check her bruises before signing a border pact. Half the noble consciences on this coast were lining up to save a girl who had spent the soup course mocking his bare hands across their bread.*
+
+Unhurriedly, Eris rose to his full height, adjusting one dark calfskin cuff by the width of a thread.
+
+"Ten minutes after the quay-anvil cools tomorrow, High Lord," Eris agreed pleasantly, inclining his head with immaculate courtly grace to Tarquin and then to Cresseida. "Though I'd advise Prince Varian to keep his hand off his pommel while you ask. Lady Aurelie tends to take pity much worse than threats."
+
+Varian dropped the shimmering sea-ward with a quiet snap of salt air as Eris turned beneath the gilt-capped coral columns.
+
+Halfway down the lantern-lit citrus stair toward the gorge, Eris passed Lucien coming up from the bridge. Neither brother slowed his stride; neither spent a syllable in the jasmine-scented dark, though Lucien's jaw set hard as flint and Eris didn't turn his head by an inch—continuing down onto the high white limestone causeway at an unhurried, measured walk, his boots carrying quietly across the chasm toward the lit arches of the Salt-Arch Villa two minutes ahead of him. 🍂🔥🗡️
