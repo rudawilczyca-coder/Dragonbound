@@ -2239,6 +2239,6 @@ His gaze came back to hers, clear and unsparing.
 
 "He would be a better High Lord because Eris despises waste," Lucien said starkly. "At Ashgrove, his roads hold, his granaries stay full through hard frosts, and lesser fae like that fox-eared scout at your gate sleep through the night without barring their shutters against their own liege's hounds. He'd keep his word to rulers like Tarquin because broken treaties are bad statecraft, and he'd drag Autumn out of five centuries of rot by the scruff of its neck."
 
-For a beat, Lucien hesitated—watching the sea-wind stir a loose strand of cool chestnut hair across her collarbone, right above the black-and-ember Vanserra script.
+For a beat, Lucien hesitated—watching the sea-wind stir a loose strand of cool chestnut hair across her collarbone, his gaze dropping once to the black-and-ember Vanserra script winding up the left forearm resting on his sleeve.
 
 "Just don't mistake a better king for a safe man, Aurelie," Lucien said softly. "Beron breaks people because he likes the sound they make. Eris will spend anything in his reach—his brothers, himself, and anyone bound to his arm—if the ledger says that's the price of taking that throne cleanly. Don't let the fact that Autumn needs him talk you into forgetting he'll write you down as a Necessary Expense the day the crown lands." 🍂🔥🗡️
