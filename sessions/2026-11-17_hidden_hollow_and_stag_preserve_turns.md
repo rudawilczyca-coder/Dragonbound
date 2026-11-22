@@ -2058,3 +2058,63 @@ Across the four feet of mother-of-pearl, Eris lifted his sea-glass goblet, took 
 He inclined his head half an inch toward Tarquin without looking away from her.
 
 "Autumn has no objection to the lower stair, High Lord—once our harbor-clauses have ink on them in the morning, and provided I walk down behind them myself. As for the feather..." One corner of Eris's mouth curved by a hair, leaving her squarely in the chair she had chosen. "Lady Aurelie opened this particular negotiation on her own initiative. Let us hear what her companion makes of Princess Cresseida's ward-smiths." 🍂🔥🗡️
+
+---
+
+## Turn 36 — Ruby (22 Nov 21:16 CET) & Vesper (Eris, Tarquin, Cresseida, Varian & Lucien)
+
+**Ruby (Aurelie & Prince):**
+She knew the moment the table changed that she had stepped on something. She didn't know what. Nobody had told her about another mortal-born guest, or drowning sentries, and from the look on Lucien's face he wasn't going to explain it over the fish. So much for the water having no teeth.
+Autumn has no objection to the lower stair.
+It did not go unnoticed. Eris wasn't High Lord of anything yet, and already he spoke for his whole court as easily as he breathed. And then he handed the question straight back to her, with that entertained look, and left her alone with it.
+Aurelie listened to the price. She felt Prince's attention sharpen and turn toward the table, and for a while she stayed quiet and let him think.
+{We cannot give away a piece of me at every court,} he said at last, and she realized with some surprise that he was unsettled by the idea of leaving a part of himself behind. {It's not as if I'm molting feathers left and right.} A pause. {Ask them what they need a piece of my body for. Because I'm fairly certain it's not only so their wards can tell me from a fishing boat.}
+{What about the inscriptions?}
+{That I can do. I would like to go myself, provided they can determine that I'll fit down there without endangering the structural integrity of the passages.}
+{You do realize that if they wanted to kill you, that would be the best place to lure you?}
+Prince was quiet at that, but she knew he had considered it. For some reason he wanted to see the place with his own eyes, and she couldn't blame him.
+She folded her hands in her lap, where nobody could see them shake, and looked at Tarquin.
+"My companion will gladly look at your reliefs, High Lord. He would like to walk down himself, if your people can tell us whether the passages will hold him." She took a breath. "As for the token, he isn't refusing. But he asks what exactly your ward-smiths need a piece of him for. He doesn't believe it is only so the harbor-wards can recognize him."
+
+**Vesper (Eris, Tarquin, Cresseida, Varian & Lucien):**
+For the space of three slow breakers below the sea-arch, Aurelie sat with her hands tucked out of sight beneath the white-oak rim, listening to a voice nobody else at the table could hear. Nobody interrupted her—not even Cresseida.
+
+When Aurelie lifted her chin and laid her companion's answer directly in front of Tarquin rather than his cousin, Cresseida's silver-threaded brows rose by a fraction—not in offense, for once, so much as genuine, cold-eyed reassessment aimed past the marble rail at the dark reef.
+
+"Your companion has a sharper nose for harbor-craft than our chroniclers gave his kind credit for, Lady Aurelie," Cresseida murmured.
+
+At the head of the board, Tarquin turned his head and gave his cousin one quiet, level look.
+
+Cresseida didn't flinch or dress it up; she only inclined her braided head half an inch, conceding the parry.
+
+Tarquin turned back to Aurelie, resting one brown palm flat beside his goblet.
+
+"First, the stone," Tarquin said, nodding once over his shoulder to Varian.
+
+The Prince of Summer answered immediately from behind the High Lord's chair, crisp as a siege engineer reading off measurements. "The interior palace stair is cut six feet wide through cliff-limestone—built for Fae on foot, not a twenty-foot wingspan. He won't fit down the shaft." Varian's silver eyes shifted past the braziers toward the dark bay. "The Drowned Archive itself sits on the outer reef-shelf. At dead low water, the seaward flood-arch clears twenty-four feet across by eighteen high, carved straight out of First Age basalt to take storm-breakers. Your companion can glide onto the outer sill from the open water without putting a roof between his wings and the bay, while those on foot come down the dry stair to the inner grate. He holds the seaward exit for the two hours before the tide turns."
+
+Across the sea-glass lanterns, Eris laid his silver fish-knife neatly across the rim of his plate.
+
+*Hands hidden under the tablecloth where nobody could watch them tremble, three High Fae royals measuring her breath, and between the girl's spine and the wyrm's nose they had smelled the iron hook inside Cresseida's velvet on the first pass—without once glancing across the shell to see if he would pull them out of it. A sharp, unwelcome jolt of calculation moved behind his ribs and was locked straight back down.*
+
+"And second," Tarquin continued evenly, meeting Aurelie's blue eyes without looking away from the harder half of her question, "your companion is right. Recognition is the smallest part of it."
+
+Beside Aurelie, Lucien's scarred fingers stilled against the base of his wineglass, his single russet eye narrowing slightly as he realized what Tarquin was about to put on the board in front of another court's heir.
+
+"Two years ago, Hybern's armada broke straight through Adriata's outer sea-wards because the First Age keystones under our harbor have slept at half-strength since the Treaty," Tarquin said plainly. "And our inner vault-wards took a second wound shortly before that. When your companion crossed our outer mole at noon and every dormant stone beneath this palace answered him, my chief ward-smith came up the steps three at a time. Set into the central harbor keystone, a single shed feather or cast scale of living First Age magic wouldn't merely mark his passage—it would wake the old sea-wall across the entire bay of Adriata. Neither Queen Ismena's carracks nor another fleet from across the water could force my harbor gates again."
+
+"A worthwhile prize for one loose feather," Eris remarked smoothly into the hush that followed, two dark-gloved fingers resting idle against the frosted stem of his wine as his golden gaze cut cleanly to Cresseida. "Though Princess Cresseida's smiths forgot to mention the other half of First Age ward-craft. Anchor a harbor-stone on living molt without burning the marrow-thread dead first, and you haven't only built a shield—you've built a compass needle that points straight to the creature that dropped it from three courts away."
+
+Cresseida's mouth curved by a hair, neither confirming nor insulted at being caught by an equal. "Autumn's smiths are thorough, Lord Vanserra."
+
+"Then Summer's will be just as thorough," Tarquin said decisively, cutting clean across both of them before the steel could bare further. He looked from Aurelie across to Eris, and once toward the dark surf beyond the arch. "No tracking-thread, and no blind payment. Walk the Drowned Archive at morning ebb first. Let your companion read the reliefs for himself and give me his honest word on what is waking in our southern trench. If our vaults hold nothing of use to his search for his kin, you owe Summer's smiths no token at all. And if they do—and he chooses to leave a shed scale or feather behind—my smiths will burn the sympathetic thread out in salt-fire on the quay anvil with both of you watching before it ever touches our stone."
+
+Silent-footed Summer stewards stepped out from the colonnade at Varian's quiet gesture, lifting away the silver fish platters and setting pale, frosted crystal bowls of blood-orange sorbet and roasted sea-almonds along the mother-of-pearl as the ninth bell tolled low and bronze across the harbor below.
+
+Across the lanterns, Eris didn't touch his silver spoon. Leaning back at complete leisure in his coral chair, he looked straight across the four feet of shell into Aurelie's eyes—every line of his face calm, courtly, and coldly amused.
+
+"Look first, pay after, and burn the tracking-thread out on the anvil," Eris said mildly. "Remember the terms, Lilly. High Lord Tarquin is the only ruler on this map who opens a vault before collecting the toll."
+
+At Aurelie's left, Lucien waited until Eris turned his head back toward Cresseida's harbor-clause parchment, then leaned half an inch closer as he set a small dish of salted almonds within her reach—his voice pitched low beneath the chime of the ninth bell and the surf.
+
+"Dead low water is an hour past dawn along these cliffs," Lucien murmured quietly to her, a brief, steady warmth in his russet eye—along with a silent promise for the missing piece of palace history she had stepped on earlier. "If you and your companion still want company before the tide-locks open, name the hour and I'll walk across your causeway early. There are one or two old puddles in Adriata someone ought to warn you about before you go downstairs." 🍂🔥🗡️
