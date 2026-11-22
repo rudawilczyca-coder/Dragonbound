@@ -2118,3 +2118,81 @@ Across the lanterns, Eris didn't touch his silver spoon. Leaning back at complet
 At Aurelie's left, Lucien waited until Eris turned his head back toward Cresseida's harbor-clause parchment, then leaned half an inch closer as he set a small dish of salted almonds within her reach—his voice pitched low beneath the chime of the ninth bell and the surf.
 
 "Dead low water is an hour past dawn along these cliffs," Lucien murmured quietly to her, a brief, steady warmth in his russet eye—along with a silent promise for the missing piece of palace history she had stepped on earlier. "If you and your companion still want company before the tide-locks open, name the hour and I'll walk across your causeway early. There are one or two old puddles in Adriata someone ought to warn you about before you go downstairs." 🍂🔥🗡️
+
+---
+
+## Turn 37 — Ruby (22 Nov 21:38 CET) & Vesper (Eris, Tarquin, Cresseida, Lucien & Caelum)
+
+**Ruby (Aurelie & Prince):**
+{Tell High Lord Tarquin that if I happen to molt a feather or shed a scale while we are here, it is his to use. As long as one of us can inspect the burning.} Then, quieter, and not for the High Lord's ears: {We have one leash on us already. I do not wish to make another.}
+
+Aurelie repeated the first part to Tarquin, word for word.
+
+She knew why Prince had agreed. Tarquin had given him the truth when a smaller answer would have done. And protecting a city from a foreign fleet was something her dragon could stand behind. Had the feather been meant for a weapon, he would have refused. A wall around people who had already been broken into once, he could admire.
+
+Then she turned to Lucien and smiled.
+
+"Thank you for the offer. Though I would hate to cut your sleep short."
+
+After that the evening loosened, the way a corset does when the first knot gives. The sorbet was the colour of the sunset they had missed and so cold it made her teeth ache. Someone kept filling her goblet. The talk moved on to tides and tariffs and a harbor festival she didn't catch the name of, and for long stretches nobody asked her anything at all.
+
+The night was warm. She hadn't expected that. In Autumn the dark came with a bite, and here the wind off the bay felt like bathwater on her bare shoulders.
+
+Lucien told her about the summer he was nine, a pony that wasn't his, and a cook who chased him the length of the kitchen gardens with a ladle. He did the cook's voice. Aurelie laughed, properly, out loud, with her hand over her mouth a moment too late, and couldn't remember the last time she had done that at a table.
+
+Later Tarquin talked about his city. Not the palace, but the fishing quarter below it, and how he meant to see the day when a lesser faerie's child and a High Fae's child sat the same schoolroom bench. She listened with her chin in her hand and thought of Briar, and Tomas, and Una, and liked him more than was probably wise.
+
+By the time the next bell rolled up from the harbor, her cheeks were hot and the lanterns had gone soft at the edges.
+
+"I think I should retire, High Lord, before your wine makes a fool of me," she said, bright-eyed, and rose before anyone across the table could offer. Only then did she look at Eris. "I'm sure you and the High Lord of Summer still have matters to discuss, my Lord. Ones better suited to a more private audience."
+
+She turned to her left.
+
+"Perhaps you would be so kind as to walk me back, Lord Lucien?"
+
+**Vesper (Eris, Tarquin, Cresseida, Lucien & Caelum):**
+Tarquin had sealed her companion's terms earlier with one grave, sunlit nod—*"One of you at the anvil, and salt-fire before stone; tell him he has my word"*—and when Aurelie rose bright-eyed at the stroke of the tenth bell, the High Lord of Summer came smoothly to his feet at the head of the board, affording a nineteen-year-old mortal the exact courtesy he would have shown a High Lady.
+
+"Your wine hasn't come close, Aurelie," Tarquin said warmly, real liking in his turquoise eyes after an hour of watching her listen without courtier's flattery. "Rest well. Varian will send a tide-runner to your gate a quarter-hour before morning ebb."
+
+Beside her, Lucien was already on his feet, napkins laid aside, though his single russet eye cut half a beat across the sea-glass lanterns toward his brother's chair.
+
+Across the mother-of-pearl, Cresseida didn't look at Aurelie at all. Her cool aquamarine gaze slid sideways to Eris, waiting to watch the leash snap.
+
+Eris didn't rise an inch.
+
+Reclined at complete leisure against the carved coral back of his chair, one booted ankle resting loosely across his knee and two dark-gloved fingers idle on the frosted stem of his glass, he let the quiet stretch just long enough for every eye at the board to register his stillness.
+
+*Three goblets of sweet Summer press, a stolen-pony story out of the Forest House kitchen gardens, and she had laughed out loud across four feet of shell—clean and unguarded, her hand flying to her mouth a beat too late, a sound she had never once made under his roof—before standing up flushed and bright-eyed to test whether Autumn's heir would fetch after her across Tarquin's marble if she put her hand on his brother's sleeve. Something ugly and scalding coiled behind his breastbone as she angled her bare shoulder toward Lucien; he gave it nothing, not even the expenditure of standing.*
+
+One corner of Eris's mouth curved by a polite hair.
+
+"By all means, little brother," Eris said mildly over the rim of his wine. "See that three goblets of Summer's berry press don't take her over the bridge rail. Caelum has the lantern at the causeway gate."
+
+Only then did his amber eyes lift lazily through the turquoise brazier-light to meet Aurelie's—cool, courtly, and unblinking.
+
+"Do leave the Sun-Gallery lamps burning, Lilly," Eris added pleasantly. "High Lord Tarquin and I won't be half an hour over the harbor clauses—and it would be a pity to tear Cresseida's silk trying to reach those knots in the dark before we settle tonight's accounts."
+
+Without waiting for an answer, Eris reached out with his gloved left hand and drew Cresseida's harbor parchment two inches closer across the shell toward Tarquin.
+
+Beside Aurelie, a muscle ticked once in Lucien's scarred jaw at *reach those knots in the dark*—and across the board, Cresseida's lashes lowered a fraction in silent, surgical comprehension—before Lucien inclined his head cleanly to Tarquin and offered Aurelie his right arm, crooked steady in dark Night-tailored wool.
+
+"Come on, then," Lucien said lightly, pitching his voice warm enough to carry them clear of the board without friction. "Before Varian volunteers to test my balance on the steps too."
+
+They left the turquoise-and-gold heat of the fire-bowls behind, passing beneath the gilt-capped coral columns of the South Colonnade where night-blooming jasmine hung thick on the warm salt breeze, and stepped out onto the high white-stone bridge spanning the gorge toward the Salt-Arch Villa.
+
+Far below the pale balustrade, dark water boomed hollow into the sea-caverns cut under the promontory rock, where Prince's vast presence waited above the surge. Overhead, unfamiliar southern constellations burned white and low over the open bay.
+
+Halfway across the span, once the wind funneling up the chasm drowned the terrace music behind them, Lucien slowed his stride to match her slippers on the limestone.
+
+"Past the second arch, the gorge wind covers us from terrace ears," Lucien told her quietly, the easy dinner humor settling into something plainer. "What you stepped into over the fish wasn't your doing. Before the war with Hybern broke open, Feyre came to Adriata as Tarquin's guest—newly remade out of mortal bone, wearing Rhysand's bargain ink down her arm. Tarquin opened his house to them, and before they left, they crept into his sunken vault behind a glamour and stole the Summer half of the Book of Breathings. Nearly drowned his sentries in the flood-lock on the way out."
+
+Lucien looked out for a moment over the dark harbor lights below, his scarred mouth pulling thin. "Tarquin put blood rubies on their heads—and still sailed his fleet north when the war hit the beaches, and lifted the price afterward. Which tells you most of what you need to know about the man you were talking schoolbenches with tonight, and why Varian grabbed his pommel the second you asked for the cellar keys."
+
+Ahead, the white bridge met the sheer cliff-neck of the villa. Just inside the tall wrought-gold ironwork of the causeway gate, a single amber wall-lantern burned steady under the Gate Hall arch. Caelum stood watch beside the limestone pillar with an unstrung ash bow near his boot—his russet-furred fox ears swiveling once at their footsteps before he drew the heavy bronze bolt, pushed the gate a quiet foot ajar, and stepped tactfully back down the inner passage out of earshot.
+
+Five paces shy of the ironwork, Lucien stopped, leaving space for her hand to slip free of his sleeve whenever she chose. In the warm amber spill of the gate lantern, both his russet eye and the dimmed gold aperture of his mechanical eye lingered for a beat on the wine-flush still warming her cheeks, the uncovered black-and-ember Vanserra script winding up her left arm, and the gilded scallop shells framing her shoulders.
+
+"You held your own back there better than half the seasoned envoys I've watched sweat at High Tables, Aurelie," Lucien said quietly—dropping the title once, out here where only the surf could hear. Then his gaze flicked past the wrought-gold bars toward the lit arches of the Sun-Gallery, his jaw tightening by a fraction before he schooled it flat.
+
+"I heard what my brother said about your laces and his accounts," he murmured, low and steady. "You already told me on this bridge that you know when a man is offering more than he can give—and with a twenty-foot dragon sleeping under your floorboards, I won't insult your pride twice in one night by offering to kick Autumn's gate in." A faint, crooked shadow of his earlier grin touched his scarred mouth, though his russet eye stayed serious on hers. "Still. My rooms are above the citrus court just past the first terrace behind us, and the guards on this span know my face. Drink two glasses of plain water before Eris walks back through that gate—and if morning ebb starts feeling crowded tomorrow, send word and I'll be on the palace steps before dawn." 🍂🔥🗡️
