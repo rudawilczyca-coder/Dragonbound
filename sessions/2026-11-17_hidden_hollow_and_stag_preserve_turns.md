@@ -1834,3 +1834,97 @@ Lucien stood holding the chair steady for her, close enough that if she chose to
 Directly across the mother-of-pearl table, Eris didn't even glance at them. Resting two dark-gloved fingers lightly against the stem of his chilled citrus wine—right beside a low silver dish of split, honey-dark coastal figs set within easy reach of *his* wrist—he turned his profile smoothly toward Cresseida.
 
 "Now then, Princess," Eris murmured pleasantly, as if the mortal girl across the lanterns and the brother standing at her shoulder were furniture already accounted for. "Tell me whether your harbor-masters still tax eastern ironwood by the hull or the ton." 🍂🔥🗡️
+
+---
+
+## Turn 33 — Ruby (22 Nov 19:36 CET) & Vesper (Eris, Tarquin, Cresseida & Lucien)
+
+**Ruby (Aurelie & Prince):**
+He had taken her own words from the bridge and laid them on the High Lord's table like a dish. Aurelie felt the heat climb her neck. She had handed him that herself.
+
+Fine. She had other things to hand out.
+
+{Thank him for the fish,} Prince said, calm as the tide. {Tell him I chose not to trouble his table with my presence. But they may assume that everything said here reaches my ears, and I will gladly answer through you.}
+
+She curtsied to Tarquin, the shell held level, and this time she looked at his face.
+
+"Thank you, High Lord. My companion thanks you for the bonito as well. He chose not to trouble your table with his presence tonight, but he asks you to assume that everything said here reaches his ears. He'll be glad to answer through me." She let that settle, then smiled. "And since you're kind enough to offer, it pleases me to sit here."
+
+She took the chair Lucien held.
+
+"Lilly is what Lord Eris's household calls me," she added, lightly, to Tarquin. "You already have my real name."
+
+She did not look across the table to see how that landed.
+
+Lucien's question was still waiting for her, and so was that searching russet eye. The guilt came back, sharper now that he was close enough to touch.
+
+"I read every page, Lord Lucien," she said quietly. "The illustrations were beautiful. But I told you then that I don't break promises once I've made them." She hesitated, then went on. "You should know someone had been at your book long before me, though. There was a note inside the cover, in a much neater hand than yours. Something about the autumn damp. And the oilcloth it was wrapped in wasn't yours."
+
+She gave him a moment with that, and then she held out her empty goblet to him. Not to the cupbearer.
+
+"Would you pour for me? I've had a long day."
+
+It was only when she sat that she realized she was starving. She hadn't eaten since the carriage. There was a dish of figs across the table, right beside a dark-gloved wrist, and she would rather have chewed the tablecloth. She reached for the bread, then for a wedge of pale cheese and a handful of green grapes, and tried not to eat like a stablehand.
+
+"Your city is magnificent, High Lord," she said when she could speak again, and meant it. "I grew up thinking Hightower was grand. I didn't know anyone could build something like this palace, right over the sea."
+
+Across the table they were still talking about ironwood. Aurelie waited for a breath in it, and turned to Cresseida with her sweetest smile.
+
+"And your seamstress deserves every bit of her pride, Princess. I can't take credit for the lacing, though. It turns out Lord Eris is very skilled at maid's work."
+
+**Vesper (Eris, Tarquin, Cresseida & Lucien):**
+Two paces behind the High Lord's chair, Varian's fingers shifted half an inch on his sword-pommel—his gaze lifting involuntarily past the turquoise braziers toward the black water beyond the sea-arch, where white surf broke dimly over the outer reef. A warrior knew how to guard a room; guarding an open terrace against an ancient sovereign listening through a nineteen-year-old girl's mind was another problem altogether.
+
+Tarquin did not bristle at the absent dragon's terms. If anything, the unhurried dignity of the message—and the clean, feather-light stroke with which Aurelie set *Lilly* down on his board and left it there—warmed his bright turquoise eyes into open respect.
+
+"Then Aurelie it remains under this roof," Tarquin said evenly, inclining his silver-white head once toward the dark horizon beyond the balustrade before taking his seat at the head of the table. "And your companion has the courtesy of our air. Nothing spoken at my board tonight is meant for closed shutters."
+
+Beside Aurelie's chair, however, Lucien had gone stone-still.
+
+For two full breaths after she murmured about the neater script inside the Dawn Court cover and the oiled sailcloth that wasn't his, even the hair-fine whirr of his gold mechanical eye stopped clicking. His scarred mouth parted by a fraction—three centuries of believing he had hidden those prism-diagrams and his boyhood bolt-hole behind dusty tithe-ledgers on his own, colliding head-on with whose razor-slanted copperplate ran the accounts at Ashgrove, and who had wrapped contraband bindings against the damp and left the culvert unsealed.
+
+Lucien's single russet eye rose slowly from Aurelie's profile straight across the four feet of inlaid shell and sea-glass lanterns to his eldest brother.
+
+Directly opposite, Eris didn't turn his head by the width of a thread from Cresseida's remarks on coastal timber hulls, two dark-gloved fingers resting weightless against the frosted stem of his glass.
+
+*Four feet of mother-of-pearl might as well have been a brass speaking-horn on a High Fae terrace. Not a tendon shifted inside Eris's calfskin glove, even as something cold and venomous bit straight behind his breastbone—three hundred years of letting his youngest brother hate him cleanly, and a nineteen-year-old mortal in crimson ruffles had just pulled a forgotten rag of oiled sailcloth out of his library wall and passed it across the candles like table salt.*
+
+When Aurelie held her empty goblet out to Lucien rather than the waiting Summer cupbearer, Lucien blinked once, dragging his gaze back down from Eris's unreadable profile. His throat worked quietly above his dark Night-tailored collar. Waving the servant back with two scarred fingers, he lifted the fluted crystal carafe himself and poured pale, chilled summer-berry wine into her goblet before taking the chair at her left.
+
+"My handwriting improved after twenty, for the record," Lucien murmured under the splash of the wall-runnels as he set the pitcher down—reaching for his easy warmth, though his voice sat rougher than usual and his gold eye flicked once, involuntarily, toward the uncovered black-and-ember script winding up the arm she extended toward the breadbasket. "Drink that slowly, Lady Aurelie. Summer presses it sweet, and you've earned a clear head."
+
+At the head of the board, watching her bypass the spiced dishes for bread, pale coastal cheese, and green grapes, Tarquin answered her wonder at Adriata with genuine warmth—gesturing down toward the glowing sea-arches beneath the cliff to explain how the First Age tide-shapers had coaxed living coral up out of the shoals rather than hauling dead granite down from the hills.
+
+Across from Lucien, Cresseida's cool aquamarine gaze sharpened by a fraction on a single word: *Hightower*.
+
+Before the Princess of Summer could thread that needle, Aurelie turned her sweetest smile across the sea-glass lanterns and laid Eris Vanserra's bare hands right in the middle of the table.
+
+*It turns out Lord Eris is very skilled at maid's work.*
+
+At Aurelie's elbow, Lucien nearly inhaled his first swallow of citrus wine—catching it behind a closed fist just fast enough to turn a choke into a low cough, his russet eye darting between Aurelie's serene smile and the crisp Autumn hunter's slip-knot visible whenever her bare back shifted against the carved white oak. By the pillar, Varian's silver brows climbed clean toward his hairline; even Tarquin had to press two knuckles briefly to his mouth to hide a flash of white teeth behind a High Lord's courtesy.
+
+Cresseida didn't hide her delight at all. Her pearl-threaded braids gleamed in the turquoise brazier-fire as her mouth curved into a slow, feline smile, angling her head toward the Autumn heir beside her. "Hidden talents in the Forest House, Lord Vanserra?"
+
+Eris finally turned his head.
+
+There was no snap of temper in his garnet-clad shoulders, no flare of heat in the salt breeze, not a trace of the stiff-necked fury an lesser Autumn lord would have shown at being likened to a tirewoman before three royals and an estranged brother.
+
+*Across four feet of lantern-lit shell, watching her sit chin-high with green grape-gloss bright on her lower lip and sweet poison on her tongue—starving enough to clear half a trencher of bread and cheese rather than glance two inches toward his wrist, yet bold enough to swing his own cord back at his face across a High Lord's table—a sharp, despised heat kicked low behind his ribs before he iced it shut.*
+
+Instead, Eris looked straight across the sea-glass lanterns into Aurelie's clear blue eyes, a lazy, unhurried curve touching one corner of his mouth—courtier velvet smooth enough to make Cresseida's smile pause.
+
+"Only when a lady walks the length of the villa unlaced to ask for my hands, Princess," Eris murmured pleasantly, inclining his head half an inch toward Cresseida without taking his golden gaze off Aurelie. Beneath his right cuff, the mirrored Ember Script lay quiet as cold gold against his skin—every syllable literal fact. "Though my household ties knots to hold rather than flatter. Sixteen loops have a way of proving much harder to slip out of at midnight than they were to ask for at sundown."
+
+Around the mother-of-pearl board, the double edge landed in two registers at once—making Cresseida's eyes gleam at the riposte while Lucien's scarred hand went flat and motionless against the table edge beside Aurelie's plate.
+
+Without rising an inch from his carved coral chair, Eris reached two dark-gloved fingers to the low silver dish beside his wrist, lifted a single split, honey-dark coastal fig by its stem, and bit unhurriedly into the sweet crimson flesh while holding Aurelie's eyes for one beat longer. Then, with the back of two gloved knuckles, he slid the silver dish smoothly across the inlaid shell until it rested dead on the center line between their places—out of Lucien's reach, close enough for the honeyed scent to carry across her plate on the sea wind, and squarely where only her bare, ember-marked left arm could reach out to take one.
+
+He didn't offer it aloud, and he didn't linger to see whether she touched it. Lifting his sea-glass goblet, he leaned back at complete leisure.
+
+And Cresseida—never one to let a second slip grow cold in the same course—folded her hands lightly over her sea-green samite skirts, turning that cool aquamarine gaze back to Aurelie with silky precision.
+
+"A useful craft on a windy coast, Lady Aurelie," Cresseida observed smoothly, glancing once toward the dark water beyond the rail where the unseen dragon listened, and back to Aurelie's freckled shoulders. "Especially so far from Hightower. My harbor-masters logged three tall-masted carracks flying Queen Ismena's silver tower off the southern neutral shoals four days ago—paying Continental gold to every fishing smack between here and Hybern for word of a highborn runaway. Or," Cresseida added delicately, "a white shadow wide enough to eclipse a mainsail."
+
+At the head of the table, Tarquin set his goblet down with a quiet, decisive chime against the mother-of-pearl, his warm gaze steady on Aurelie—addressing both the young woman in the chair at his left and the ancient ears out on the reef.
+
+"Ismena's captains hold no charter inside Summer's tide-markers, Aurelie," Tarquin said evenly, drawing a clean line in the water without glancing toward Eris for permission. "Nor will they be granted anchorage in Adriata while you and your companion are under my roof. Though Cresseida raises a fair question for both of you: if Ismena's envoys come knocking at the neutral ports to claim what sailed out of Hightower, whose word answers for you in Prythian?" 🍂🔥🗡️
