@@ -2406,3 +2406,43 @@ Setting the crystal tumbler down with a quiet *chink* beside his folded gloves, 
 His golden gaze dropped for half a beat from her windblown chestnut hair to the base of her bare spine, where his flat double slip-knot sat snug above the coral clasp, and lifted cleanly back to her eyes.
 
 "Before my knuckles touched your back at that pillar tonight—when you stood in front of me for three seconds with nothing behind you but warm air—why did your weight shift backward onto your heels?" 🍂🔥🗡️
+
+---
+
+## Turn 41 — Ruby (22 Nov 23:26 CET) & Vesper (Eris)
+
+**Ruby (Aurelie):**
+Aurelie let him speak. She had learned by now that Eris Vanserra loved the sound of his own voice, and the longer he talked, the less he asked of her.
+When he said she was to spend ten minutes alone with the High Lord of Summer, a small spike of nerves went through her. Then she remembered Tarquin's smile, and the schoolroom benches, and realized she had nothing to fear from him.
+Summer's boy-king.
+She turned around. So much for keeping her mouth shut.
+"You call him a boy-king, and yet his court flourishes under his rule. Maybe you could learn a thing or two about ruling from him."
+She stepped off the deck and onto the rug, because he had told her to, and because she had promised herself she would give him no reason to keep her here. She would pay what she owed and go to bed.
+Then Eris spent his price, and it was a question she had never expected from him.
+Aurelie flushed bright red. She looked away and crossed her arms in front of her chest. She went through several versions of the truth, looking for the least incriminating one, only… there wasn't one. The bargain sat on her arm like a hand around her wrist. She had to name it plainly.
+"Because I wanted you to touch me."
+She hated the words. She hated the colour they painted on her skin, from her collarbones to the tips of her ears, and she hated that he was standing ten paces away with a glass in his hand to watch it happen.
+"Now," she said, and made herself look at him. "Are you going to help me out of this dress, or should I walk down to the Drowned Archive in it tomorrow and explain to Princess Cresseida why I slept in her seamstress's silk? Unless you'd rather not stoop to maid's work twice in one night. In that case, you're welcome to send for a tirewoman."
+
+**Vesper (Eris):**
+Ten paces away beside the sideboard, Eris stood with the crystal tumbler resting loosely in his bare fingers and watched every shade of crimson climb from the hollow of her collarbones to the tips of her ears.
+
+Nothing in his face moved. His thumb went dead still against the cut glass.
+
+*He had expected a lawyer's hedge—a story about uneven marble, sea wind, a lost inch of balance that skirted the ink by a hair. Not six plain words driven straight across the rug without flinching, certified to the bone by the script on her arm. Heat slammed low and vicious through his blood, sharp enough behind his ribs that the brandy warmed a degree against his palm before he locked the flare down cold—and before the echo had even cleared the room, she was already dragging her chin up through that furious blush to lecture him on statecraft and swing Cresseida's name at his head rather than ask nicely twice in one night. The sheer, unrepentant nerve of her ought to have been infuriating; instead his pulse struck hard and slow against his throat.*
+
+"Tarquin inherited an empty staircase, Lilly," Eris said evenly, setting the glass down on the marble without a sound. "Amarantha drowned his cousins for him before the crown touched his head. Any High Lord looks generous when no one at his breakfast table is measuring his spine."
+
+He let a single quiet beat pass, his amber gaze holding hers straight through the heat still burning across her cheeks. No smirk. No jeer.
+
+"And that clears the sunset bill."
+
+Then his bare hand reached beside the silver pitcher—and lifted his folded pair of dark calfskin evening gloves.
+
+Right in front of her, unhurried, Eris slid the right glove smoothly over the bare fingers that had laced her back before dinner, drawing the supple dark leather snug over every knuckle, and pulled on the left to match.
+
+"The causeway stays barred until dawn, and Princess Cresseida's tirewomen don't draw spy's wages under my roof," he continued mildly, flexing his gloved hand once as he stepped out onto the woven salon rug and halted a measured arm's length in front of her. "Nor are you wading into a flooded reef vault tomorrow morning dragging ten yards of court chiffon."
+
+His gaze dropped briefly to the defensive lock of her arms across her chest, then lifted cleanly back to her eyes—cool, unruffled, not a half-degree of Autumn warmth leaking past the leather.
+
+"Stewardship of Summer's silk comes gloved, free of charge. My hands do not." He inclined his head a fraction toward the sixteen crimson-gold loops behind her shoulders. "Turn around, Lilly—if all you want taken off you tonight is the dress." 🍂🔥🗡️
