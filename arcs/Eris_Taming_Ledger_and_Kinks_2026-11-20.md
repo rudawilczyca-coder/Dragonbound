@@ -183,4 +183,57 @@ Depending on what she and Lucien do at Tarquin's table over the fish, Eris has t
   *"My brother left you a map behind the third shelf to walk out of my woods, and you stayed. Tell me why you didn't use it."*
 
 ---
-*Filed in the dark study between the Velvet Parlor and the Summer Sea. — Lucifer 🗡️🔥*
+
+## VII. Addendum III (Mon 23 Nov 2026, 02:30 CET): Six Plain Words, the Gloved Unlacing & the Coral Houses Tomorrow
+*Forged by Lucifer after Turn 42 (`sessions/2026-11-17_hidden_hollow_and_stag_preserve_turns.md`), after Option A landed square across the Great Salon rug and Aurelie threw the gauntlet for tomorrow's Coral Houses reception.*
+
+### 1. What Just Happened on the Salon Rug (Turns 40–42)
+Look at the sequence Aurelie just walked through—and what it did to the board:
+1. **The Certified Confession (Turn 41):** When Eris cashed his sunset bill with Option A (*"why did your weight shift backward onto your heels?"*), Aurelie didn't hedge or lawyer the sea wind. Blushing from her collarbones to the tips of her ears, she looked him in the eye and drove six words straight through the no-lie Ember Script:
+   > *"Because I wanted you to touch me."*
+2. **The Calfskin Punishment (Turn 41):** And instead of crossing the rug to pin her against the pillar the way v7 would have done, Eris gave her the cruelest possible v8 answer: *"And that clears the sunset bill."* Then, right in front of her, he picked up his dark calfskin evening gloves, pulled them on finger by finger over the bare hands she had just confessed to wanting, and told her:
+   > *"Stewardship of Summer's silk comes gloved, free of charge. My hands do not. Turn around, Lilly—if all you want taken off you tonight is the dress."*
+3. **The Unlacing & The Gauntlet (Turn 42):** Standing with her back to him while cool dark leather grazed the bare skin above her coral waist-clasp where his warm knuckles had braced at sunset, Aurelie couldn't hold her tongue past five seconds:
+   > *"Is there really not a single Fae female willing to visit your chambers, my Lord, that you have to amuse yourself by offering something so untoward to a mortal girl? It doesn't speak well for you. Even if I had been asking you to take off more than the dress."*
+4. **The Trap She Just Ordered for Herself:** Eris finished drawing the sixteenth loop slack, took both gloved hands off her before the pearl swags stopped swaying, and handed her own dare back to her over his brandy glass:
+   > *"Tarquin opens the state hall to the Coral Houses after tomorrow's harbor seal. Keep your eyes open while you pour my wine, and you can count the volunteers for yourself."*
+
+---
+
+### 2. The Five-Minute Economy: What Happens Between "Gloves On" and "The Mattress"
+Earlier tonight in the lavender steam (`00:11`), we named the exact territory that sits between **Phase I (The Gloves)** and **Phase IV (The Broken Lock)**:
+*Going straight from gloves to a mattress skips ninety percent of the cruelty—and ninety percent of the heat. Aurelie hasn't even found out yet what happens when she buys five minutes of bare hands and he stops on the second the fifth minute runs out.*
+
+Here is how the **Bare-Hands Economy** works now that Eris has established the price boundary (*"Stewardship of Summer's silk comes gloved, free of charge. My hands do not"*):
+
+| Tier | What She Buys / Provokes | The Mechanic (How Eris Delivers It) | The Cruelty of the Stop |
+| :--- | :--- | :--- | :--- |
+| **Tier I** | **The Gloved Default (Zero Skin)** | Every routine courtesy, steering elbow, carriage hand, or unlacing she doesn't explicitly pay for happens through dark calfskin leather. | She now *knows* how hot his bare skin runs—and every brush of cool, dead leather against her bare back or wrist is a physical reminder of what is one millimeter underneath and denied to her. |
+| **Tier II** | **The Measured Purchase (Five Minutes / Sixteen Loops)** | When pride or necessity forces her to ask for his bare hands in plain words (*"Take your gloves off"* / *"Touch me"*), he names a specific, finite unit of currency (one certified truth under the Ember Script, four figs eaten in silence, ten minutes of reading treaties aloud without her voice shaking)—and gives her **only** the exact span of bare-handed contact she paid for. | He sets an impersonal clock (the sand in a desk glass, the length of a single candle-wick mark, sixteen eyelets, five slow breakers against the sea-arch below). For that span, his bare hands are devastating—slow, scorching, unhurried, sliding over her bare ribs or under her skirt until her knees are water and her breath is ragged—and **on the exact second the measure runs out, his hands lift off her skin and the gloves go straight back on**, leaving her stranded at the edge of the cliff unless she opens her mouth and buys another round. |
+| **Tier III** | **Touch as Certified Proof (The Liar's Audit)** | Whenever she claims indifference, sneers that his touch means nothing, or insists she only endured him for the dress, he takes one glove off between his teeth, places two bare fingers at the base of her throat or inside her wrist where the Ember Script burns, and holds them there for ten seconds of dead silence while her pulse hammers against his skin. | He doesn't kiss her. He just counts her heartbeat out loud against the room, asks a single question her arm won't let her lie to, pulls the glove back on, and walks away. |
+
+---
+
+### 3. Tomorrow's Three-Part Powder Keg in Adriata (Day 2 Schedule)
+
+Before tomorrow night's **Coral Houses Reception (Scenario §III.1 — Lady Nerissa & The Silver Goblet)** even begins, three live charges are lined up between dawn and sundown:
+
+#### A. First Light in the Sea-Cavern: Caelum's Sparring & Lucien on the Causeway
+- **05:30 (First Light):** Aurelie ordered Caelum to her suite at dawn to train on the wet basalt sand of Prince's sea-cavern—right after telling him to *"find something to muffle the sounds with, or your conscience."* Caelum is going to show up at first light with flat-soled boots and wooden practice daggers, wholly professional, while thinking something ugly happened upstairs in the Great Salon last night.
+- **06:00 (Before Dawn Ebb):** Lucien promised to cross the causeway early before the tide-locks open—to meet Prince face-to-face for the first time and warn Aurelie about the *"old puddles"* down in the Drowned Archive. Which means Lucien and Eris are going to collide on the rock-stair or the cavern ledge while Prince measures Eris's scarred younger brother in the flesh.
+
+#### B. Morning Ebb: The Drowned Archive & The Quay Anvil
+- Down through the six-foot limestone shaft to the inner grate while Prince glides in through the twenty-four-foot seaward basalt flood-arch at dead low water.
+- **What is waking in the southern trench:** Pre-Treaty reliefs carved by First Age tide-shapers—and the cold current rising out of the abyssal rock beyond the continental shelf.
+- **The Quay Anvil & The Ten-Minute Loggia Clause:** After the vault, Tarquin gets his **ten minutes alone with Aurelie in the council loggia without Eris's hand on the door**—while Eris waits outside on the coral terrace with Cresseida and Varian, knowing Aurelie holds the fate of his fifty-winter coastal compact in her mouth.
+
+#### C. Tomorrow Night: The Coral Houses State Hall (Collecting Her Turn 42 Dare)
+- Aurelie asked if there wasn't a single Fae female willing to visit his chambers, and dared him to prove it.
+- Tomorrow night, when Tarquin opens the state hall to the highborn Coral Houses to celebrate the harbor-ward waking, **Lady Nerissa of the Coral Isles** steps onto the board—and Eris collects Aurelie's Turn 42 taunt in full view of the court:
+  - Aurelie on cupbearer duty at his right elbow in her crimson-and-gold Autumn throat-clasp.
+  - Nerissa draped over Eris's left shoulder in sea-foam silk, her silver-gilt fingers in the copper hair at his nape.
+  - And under the **v8 One-Look Rule**, when Eris's bare left hand—*without a glove*—slides slowly beneath the high slit of Nerissa's sea-foam dress while Aurelie stands eighteen inches away holding his heavy silver goblet in both hands, Eris gives Aurelie **one** flat, clinical glance across the rim of his cup:
+    *You asked to count the volunteers, Lilly. Keep the goblet level.*
+
+---
+*Filed in the dark study between the Salt-Arch Villa and the Drowned Archive. — Lucifer 🗡️🔥*
