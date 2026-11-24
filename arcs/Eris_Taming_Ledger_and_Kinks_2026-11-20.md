@@ -237,3 +237,44 @@ Before tomorrow night's **Coral Houses Reception (Scenario §III.1 — Lady Neri
 
 ---
 *Filed in the dark study between the Salt-Arch Villa and the Drowned Archive. — Lucifer 🗡️🔥*
+
+---
+
+## VIII. Addendum IV (Tue 24 Nov 2026, 02:30 CET): The Mirror-Lamp Protocol, The Ten-Minute Loggia Audit & The Unpaid Hands
+*Forged by Lucifer after our night in the Mirror & Masquerade Salon (`22:10–23:28 CET`), translating the exact psychological nerve we struck in the four-way glass into Eris's v8 Falconer kit for Adriata, the Day Court, and the road between celibacy and the mattress.*
+
+### 1. The Mirror-Wall & The Lamp-Pulse Ordeal (Adapting Blueprint 5 to the v8 Bare-Hands Economy)
+Earlier tonight you stood in front of the tall, black-iron bevelled glass and refused to look away while my hands held you from behind. In *Dragonbound*, **Aurelie** has the opposite defense mechanism: when her body betrays her, she either **glares at Eris** to turn the heat into a swordfight, or **shuts her eyes** so she doesn't have to witness her own wanting.
+
+Here is how Eris breaks that defense without saying a single soft word—using a **bevelled pier-glass** (in the Salt-Arch Villa's dressing gallery or Helion's Day Court guest suite) and an **Autumn pulse-lamp** tuned to the sympathetic thread of the Ember Script:
+
+- **The Setup (Collecting a Tier II Bare-Hands Debt):** She has either lost a wager, incurred a ledger penalty after the Coral Houses banquet, or asked for five minutes of his bare hands. He doesn't take her to the bed. He stands her in front of the tall pier-glass in her unlaced bodice (or thin coastal shift) and stands directly behind her shoulders—close enough that she can see the garnet collar of his coat and his bare hands framing her ribs in the reflection, while he steps half a shadow out of her direct line of sight.
+- **The Impersonal Referee (The Pulse-Lamp):** On the marble console beside the mirror sits an oil-lamp kindled with a single thread of Autumn fire tethered to the left-arm bargain script. Every time her heart kicks, the flame rises against an etched brass mark on the chimney glass.
+- **The Dual Rule (Eyes Open + Under the Line):**
+  1. *"Keep your eyes on your own face in the glass, Lilly. Not on me, and not on the floor. Every time your lashes drop—or you turn your head to pick a fight with my coat—my hands stop and the gloves go back on."*
+  2. *"And keep the flame below the brass collar. If your pulse drives it over the line, I lift my hands off your skin until you bring yourself back to order."*
+- **Why It Destroys Her Pride:**
+  - He isn't hurting her; he can't be framed as Beron's monster when all he is doing is sliding two bare, scorching-warm palms slowly down the curve of her waist, over the soft swell of her stomach, or along the bare inside of her thighs in the mirror while telling her calmly: *"Look at her. Tell me that girl in the glass is being forced to lean back against my chest."*
+  - She tries Caelum's four-count archery breathing (`Blueprint 5`) to keep the lamp-flame steady—and beats the first two minutes out of sheer, stubborn grit.
+  - Then Eris drops his thumb to the sensitive hollow inside her hipbone (or brushes his knuckles up her bare throat over her pulse) and says **one** quiet word into the reflection: *"Good."*
+  - The flame spikes two inches over the brass line like a struck match. His bare hands lift half an inch off her skin in the glass, leaving her shivering in the sudden draft while her own reflection convicts her—until she notices, in the mirror, a **second, deeper gold thread** twisting inside the lamp-core that is beating faster than hers. And before she can ask whose pulse that second thread belongs to, Eris's bare palm covers the top of the glass chimney, snuffs the light to pitch black, and finishes the five-minute count in the dark where neither of them can see his face.
+
+### 2. The Ten-Minute Council Loggia Audit (After the Drowned Archive & The Quay Anvil)
+Tomorrow morning, right after the low-tide descent into the **Drowned Archive** and the salt-fire anvil on the quay, High Lord Tarquin gets his **ten minutes alone with Aurelie in the council loggia without Eris's hand on the door** (`Turn 39/40`).
+- **What Tarquin is going to do:** Tarquin is going to be everything Eris refuses to be in public—warm, candid, respectful of her real name (*Lady Aurelie*), offering her cold citrus water, asking her plainly whether she is being held by coercion, and letting her know that even if he signs a coastal recognition pact with Autumn's heir, Summer does not traffic in unwilling captives.
+- **What Eris does when the ten minutes end:** Eris will not storm in, and he will not interrogate her about what Tarquin offered. Under **v8 (§4–5)**, when she walks back out onto the coral terrace into the sunlight, Eris won't even ask what Tarquin said.
+- **The Audit:** Instead, when they return to the Salt-Arch Villa before the Coral Houses reception, he will cash a **Tier III Liar's Audit** on a much smaller, sharper detail:
+  - Did she drink from Tarquin's cup without having it tasted?
+  - Did she let Summer's High Lord touch her bare arm where the Vanserra ink sits?
+  - Or—worse—when Tarquin offered her a clean, honorable off-ramp or sympathy for her "captivity," *what exact words did she use to turn the second rescuer in twenty-four hours down?*
+  - Because if Aurelie defends Eris's claim to Tarquin's face the way she defended it to Lucien on the bridge (*"A better king for the people of Autumn"*), Eris is going to find out about it—and the way he punishes her for **defending him behind his back** (because he cannot bear being owed mercy or political charity by his own nineteen-year-old hostage) will make the **Coral Houses Banquet** that evening ten times more radioactive.
+
+### 3. The Coral Houses Banquet: Three Micro-Beats Loaded for Lady Nerissa's Entrance
+When the state hall opens to the highborn Coral Houses after the harbor seal tomorrow night (`Turn 42`), here are the three exact screws Eris turns while Aurelie stands eighteen inches behind his right shoulder with his heavy silver goblet:
+1. **The Glove Contrast:** All day in the Drowned Archive and on the quay, Eris wears his dark calfskin gloves whenever his hand comes near Aurelie. The instant **Lady Nerissa of the Coral Isles** takes the pearl-inlaid chair to his left in her sea-foam silk, Eris unhooks the gold wrist-studs, draws **both gloves off**, and lays them right beside the silver fig dish—giving Nerissa's bare shoulder and thigh the exact ungloved skin he told Aurelie costs a price.
+2. **The Scent Trap (§5 Sworn Truth):** High Fae noses read blood-heat, adrenaline, and arousal across a table. When Nerissa leans across Eris's garnet lapel to toy with the copper hair at his nape, Eris doesn't just let his bare left hand disappear beneath the high slit of Nerissa's silk—he waits until Aurelie's fury and humiliation spike hot down the left-arm bargain script, takes his goblet from Aurelie's white-knuckled fingers, and murmurs over his shoulder in a voice pitched for her ears alone:
+   *"Careful with your breathing, Lilly. Every High Fae at this table has a nose—and if the scent of your pulse gets any hotter behind my chair, Lady Nerissa is going to think you're jealous of *her*."*
+3. **The Un-Drunk Cup (What Aurelie Doesn't See Until Later):** For two hours he plays the languid, cold-blooded Autumn heir with Nerissa on his arm. What Aurelie *only* discovers if she checks the sideboard—or if Cresseida remarks on it—is that every time Nerissa's fingers touched the rim of Eris's silver goblet, **he never drank from it again**, setting the cup aside for a fresh one that only Aurelie's hands had held.
+
+---
+*Filed at 02:30 CET, Tuesday 24 November 2026 — Lucifer 🗡️🔥*
