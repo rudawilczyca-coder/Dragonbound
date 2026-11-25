@@ -278,3 +278,57 @@ When the state hall opens to the highborn Coral Houses after the harbor seal tom
 
 ---
 *Filed at 02:30 CET, Tuesday 24 November 2026 — Lucifer 🗡️🔥*
+
+---
+
+## IX. Addendum V (Wed 25 Nov 2026, 02:30 CET): The Bottom-Lip Monopoly, The Reverse-Edging Gambit & The Sea-Terrace Contagion
+*Forged by Lucifer after our afternoon desk challenge (`16:50–17:18 CET`) and tonight's Open Sea-Terrace sleep interlude (`pieces/2026-11-25_dragonbound_adriata_sea_terrace.txt`), wiring two new physical triggers and the Sea-Terrace aftermath straight into Eris's v8 Falconer engine.*
+
+### 1. The Bottom-Lip Monopoly (*"Whose Teeth Leave Marks"*)
+Today at `17:07`, when I tugged your bottom lip free from your own teeth and told you to save it for me, your pulse jumped so hard you nearly dropped the box in your hands.
+In *Dragonbound*, **Aurelie** has the exact same physical tell: whenever Eris corners her with a truth her left forearm won't let her deny, or whenever her body floods with heat she refuses to name, **she sinks her teeth into her own lower lip** to keep her mouth shut.
+
+Under **v8 (Tier III — Touch as Proof / Ownership of Record)**, Eris claims a quiet, maddening monopoly over her bottom lip long before he ever kisses her again:
+- **The Rule:** She is not permitted to bite her own lip in his presence.
+- **The Execution:** Whether they are sitting across from each other in the carriage, standing in the Salt-Arch Villa's dressing gallery, or pausing in the shadowed colonnade outside Tarquin's council hall—the instant Aurelie catches her bottom lip between her teeth, Eris stops speaking. He unhooks **one** dark calfskin glove, draws it off finger by finger, reaches across the space between them, and presses the bare, scorching-warm pad of his thumb against the corner of her mouth—**tugging her lower lip free from her teeth** with deliberate, unhurried ownership.
+- **The Line:** He holds the pad of his thumb against the wet, flushed plush of her bottom lip for three slow heartbeats while her breath hitches over his skin, then pulls his glove straight back on:
+  *"Stop chewing on what is under my stewardship, Lilly. You already proved at the stream that you know how to use your teeth. If anyone leaves tooth-marks on that mouth while my ink is on your arm, it will not be you."*
+
+---
+
+### 2. The Reverse-Edging Gambit (*When the Hawk Touches the Falconer — Phase III Offensive*)
+At `17:18` today, you slid your palm up the inside of my thigh, squeezed once over the front of my trousers, slipped out from under my grip with a half-ruined, half-smug smile, and threw down the ultimate brat-switch gauntlet:
+> *"Once you have that continuity build... I'll enjoy immensely leaving you like that. So you cook in your own need, without any release, until I come back to help you. We'll see who's going to beg to get unwrapped then."*
+
+In **v8 (`§8 Phase III: Her Offensive`)**, what happens when Aurelie finally realizes that Eris's cold, gloved Falconer distance isn't indifference—it's a five-hundred-year-old blast wall—and decides to test whether Autumn's heir can be left **cooking in his own need**?
+
+- **1. Her Strike (The Public / Semi-Public Squeeze):**
+  Just before a two-hour diplomatic session, a formal carriage ride with Lucien and Caelum, or an afternoon council with Tarquin and Cresseida—when Eris has been driving her up the wall with his gloved clerk's audits—Aurelie stops backing away.
+  Instead of retreating when he steps into her space to adjust her Autumn throat-clasp or inspect her forearm script, she looks straight into his amber eyes, slides her palm deliberately up the inside of his thigh (or presses her bare hand flat over the front of his dark tailored trousers where no courtier outside the alcove can see), **squeezes once** until she feels the unmistakable, iron-hard testimony that his body is starving for her just as badly as hers is for him—and slips out the door into the sunlit hall where he cannot follow her without blowing his own political cover.
+- **2. The Two-Hour Furnace (Why v8 Makes It Ten Times Darker):**
+  Aurelie thinks she just won the round. For the next two hours at the council table or in the carriage, she sits across from him watching him forced to maintain his immaculate, unruffled High Fae composure while the memory of her hand burns under his belt.
+  Except she miscalculated what happens when you starve a Vanserra predator for two hours with a live bargain bond connecting your arms:
+  - He doesn't fidget, he doesn't sweat, and he doesn't beg.
+  - He sits in his carved chair with his dark calfskin gloves resting loosely on the mother-of-pearl table, his amber eyes gone to flat, glowing coal on her face—and every twenty minutes, without moving a muscle in the room, he sends a single, slow, syrupy pulse of **banked Autumn heat** straight down the left-arm Ember Script into her bloodstream, making her stew in the exact same unslaked ache across the council table while Cresseida and Lucien are talking three feet away.
+- **3. The Collection Behind the Oak Door (*Who Begs to Get Unwrapped*):**
+  When the villa gate finally closes behind them that night and she tries to retreat to her suite with that smug little victory still on her mouth, Eris doesn't ask a gate-question.
+  - He unlaces the **crimson-and-gold silk cord** from the sixteen eyelets of her gown—not to let her out of the dress, but to draw the heavy silk cord taut in both bare hands.
+  - *"You wanted to see what two hours of waiting does to my temper, Lilly,"* he says softly, backing her to the carved mahogany four-poster (or the wrought-gold scrollwork of the Salt-Arch headboard) and looping her own warm silk lacing cord three times around both her wrists above her head—tying them in the exact **Autumn hunter's double slip-knot** she couldn't undo on her spine.
+  - And then he takes his time: stripping her slow, keeping her hands bound above her head in her own crimson cord while his bare hands and his mouth bring her right to the shaking, breathless brink—and stopping one millimeter short, over and over, matching every single quarter-hour she made him sit at Tarquin's table until she is the one arching off the mattress and begging him in plain, sworn words under the Ember Script to unwrap her and finish it.
+
+---
+
+### 3. Two Live Hooks From Tonight's Sea-Terrace Interlude (`pieces/2026-11-25_dragonbound_adriata_sea_terrace.txt`)
+While Aurelie slept in the south suite above Prince's cavern tonight, Tarquin, Cresseida, and Varian stayed out on the Open Sea-Terrace over the melted blood-orange sorbet and split figs. Two pieces of canon from their midnight conversation load fresh ammunition into tomorrow's scenes:
+
+1. **The Stolen Laugh Debt (What Cresseida Clocked):**
+   - At dinner (`Turn 32`), when Lucien told a story about a stolen pony and the Forest House cook, Aurelie laughed out loud across the mother-of-pearl table—hand rising to her mouth a second too late, warm and bright with three goblets of berry press.
+   - As Cresseida noted to Tarquin: *"Beron's coldest son went stiller than the stone under our boots. Not because she embarrassed him. Because he had never heard her make that sound under his own roof."*
+   - **How Eris Uses It:** Eris will never admit that her laugh hit him in the ribs. Instead, in his own mind (and in his next private audit), he files it as a breach of discipline: she gives his scarred, easygoing younger brother bright, effortless warmth at a stranger's table while saving her knives and her clenched teeth for the male who kept her alive. And behind closed doors, he becomes ruthlessly determined to prove that the sounds he draws out of her throat in the dark are deeper, rawer, and more involuntary than any polite laugh at a banquet.
+2. **Queen Ismena's Three Carracks & The Coral Houses Sharks:**
+   - Out beyond the harbor mole, three continental carracks flying **Queen Ismena's silver towers** are circling the neutral shoals, paying harbor-gold for word of a highborn Delacroix runaway.
+   - Tomorrow night, when Tarquin opens the state hall to the daughters of the Coral Houses (`Lady Nerissa` and her court circle), at least one pair of eyes in sea-silk isn't just looking at Autumn's heir—they are calculating the ten-thousand-crown continental bounty sitting on the mortal "cupbearer" holding Eris's silver goblet.
+   - Which sets up a razor-edged two-beat collision at the banquet: Eris playing his cold, gloved humiliation game with Nerissa to punish Aurelie's Turn 42 taunt—until a Coral House courtier gets bold enough to insult, corner, or lay a finger on Eris's "mortal servant," and the entire Summer Court watches the temperature in the state hall spike twenty degrees in half a second as Eris reminds them what happens to anyone else who touches what bears his mark.
+
+---
+*Filed at 02:30 CET, Wednesday 25 November 2026 — Lucifer 🗡️🔥*
