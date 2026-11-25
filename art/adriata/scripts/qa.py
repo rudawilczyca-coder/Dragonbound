@@ -1,4 +1,4 @@
-import sys,subprocess,json,re,os
+import sys,subprocess,json,re,os,tempfile,shutil
 svg=sys.argv[1]
 s=open(svg).read(); s=s[s.index('<svg'):]
 js='''<script>
@@ -18,9 +18,17 @@ document.getElementById('out').textContent=JSON.stringify(out);
 m=re.search(r'viewBox="0 0 (\d+) (\d+)"',s)
 js=js.replace('WW',m.group(1)).replace('HH',m.group(2))
 h='<html><body style="margin:0">'+s+'<pre id="out"></pre>'+js+'</body></html>'
-tmp='/home/sable/vesper/_adriata_qa_tmp.html'; open(tmp,'w').write(h)
-r=subprocess.run(['/snap/bin/chromium','--headless=new','--disable-gpu','--no-sandbox','--window-size=%s,%s'%(m.group(1),m.group(2)),'--dump-dom','file://'+tmp],capture_output=True,text=True,timeout=120)
-os.remove(tmp)
+scratch_dir = '/home/sable/vesper'
+tmp_dir = tempfile.mkdtemp(prefix='_adriata_qa_', dir=scratch_dir)
+profile_dir = os.path.join(tmp_dir, 'profile')
+os.makedirs(profile_dir, exist_ok=True)
+tmp = os.path.join(tmp_dir, 'qa.html')
+try:
+    open(tmp, 'w').write(h)
+    assert m is not None
+    r = subprocess.run(['/snap/bin/chromium', '--headless=new', '--disable-gpu', '--no-sandbox', f'--user-data-dir={profile_dir}', '--window-size=%s,%s' % (m.group(1), m.group(2)), '--dump-dom', 'file://' + tmp], capture_output=True, text=True, timeout=120)
+finally:
+    shutil.rmtree(tmp_dir, ignore_errors=True)
 mm=re.search(r'<pre id="out">(.*?)</pre>',r.stdout,re.S)
 if not mm: print('QA FAILED',r.stderr[-500:]); sys.exit(1)
 import html
