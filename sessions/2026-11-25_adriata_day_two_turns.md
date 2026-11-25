@@ -420,3 +420,77 @@ Varian himself took two measured sideways steps toward the counterweight wheel�
 Right beside the raised bronze grate, the **Dormant Vault Ward-Stone** answered the dragon's shadow: deep inside the blackened cleft Hybern's engines had torn two winters past, that bruised, stuttering pulse of silver-blue light began to beat faster, straining against dead stone like a trapped lung.
 
 "The ledge is clear, Lady Aurelie," Varian said quietly, holding his ground four paces off with the salt wind lifting his dark-silver hair. "Let him look."
+
+## T51 — Ruby (26 Nov 00:00 CET)
+
+Aurelie kept her hand on his flank and her mouth shut, as she had been told.
+
+Prince stopped at the foot of the steps with the water swirling around his legs. The stone stood on the dry ledge above him, no taller than her chest, and he had to bow his great horned head almost to the limestone to reach it. He did it slowly. He touched his muzzle to the cracked rock as gently as she had ever seen him do anything, and closed his eyes.
+
+Then he began to hum.
+
+It was not the song he had sung to the walls. That had been a tide, wide and rolling. This was a single note, low and searching, like a hand feeling along a wall in the dark for a door. It rose a little. Fell. Rose again.
+
+And found it.
+
+The frantic silver-blue pulse inside the cleft stopped stuttering. It steadied, and slowed, and began to beat in time with him.
+
+The black went first. All down the flank of the stone the scorch lifted away in flakes as fine as ash, and it didn't fall. It rose. It drifted up past Prince's horns in a slow bright cloud, each fleck turning from soot to silver as it climbed, and winked out one by one under the vaulting like stars at dawn. Where it had been, the reef-rock showed dark and wet and whole, as if it had only just been lifted out of the sea.
+
+The split beneath was older and deeper, and it fought him. Aurelie felt that through the bond, even with the wall between them: a wrongness in the stone that was not of this world at all. His note dropped lower. The two edges of the wound crept toward each other, a hair at a time, and met.
+
+They did not quite close. A thin seam remained, running from the crown of the stone to its base. But it was filled now with light, bright and steady as a vein of silver in a mountain.
+
+The light didn't stay in the stone. It ran out along the carved channels and into the bronze of the grate, which rang softly, like a struck glass. It poured down both walls of the vault, and this time the glyphs did not flicker. They burned. Every wing on the north wall was edged in silver. The pools on the floor lit turquoise from beneath, one after another, all the way to the arch, until the whole hall glowed like the inside of a shell held up to the sun.
+
+And far away, through forty meters of cliff, something answered. One note, deep as a harbor bell, from somewhere under the bay.
+
+Then it faded, and there was only the sea.
+
+Prince lifted his head. She felt the wall between them come down, and behind it he was hollow. Emptied out, like a cup that had been poured onto the ground.
+
+{Tell the prince,} he said, and even his voice in her head was thin. {I ask his High Lord to accept this in place of the truth. This, and my promise: nothing that wakes in his trench is hostile to his court. I will not tell him more.}
+
+His legs folded. He went down into the shallow water with a long sigh, his wings sliding open and slack on the surface like dropped sails.
+
+"He asks High Lord Tarquin to accept the stone in place of the truth," Aurelie said quickly, to Varian, the words tumbling over each other. "That, and his promise that nothing waking in your trench is hostile to Summer. He won't say more than that."
+
+She didn't wait to see how he took it.
+
+She turned and waded to Prince's head, and ran her hand down the long line of his neck, over the blue stripe and the damp feathers of his mane. Then she knelt in the water in her ruined silk, lifted his heavy jaw, and settled it in her lap.
+
+## T51 — Vesper (Eris, Varian & Maren)
+
+For three full heartbeats after the glow sank back into the turquoise pools, nobody on the threshold drew breath.
+
+Against the eastern limestone wall, old Maren sank to both knees beside the healed plinth. Her sea-glass lantern clinked down forgotten onto the dry stone; she held both weathered, silver-dusted palms an inch off the steady vein of living silver running crown-to-base down the reef-rock, tears cutting clean tracks through the salt on her cheeks.
+
+"My Prince," the old ward-smith whispered, her voice breaking on the echo of that single, fathomless bell-note that had rolled back through forty meters of cliff from beneath the harbor mouth. "Did you feel it under your boots? That wasn't only the vault lock. The outer mole answered him."
+
+Varian stood motionless beside the counterweight wheel, one brown hand braced on the singing bronze frame as if testing the pulse in the cliff himself. Every trace of the guarded captain vanished as he looked down from the bright silver seam in the ancient stone to the twenty-four-foot dragon lying slack-winged in the shallow ebb—poured completely hollow to mend another house's ruin—and to the soaked human girl kneeling in the brine with that massive horned jaw cradled across her knees.
+
+Without raising his voice, Varian turned half his shoulder toward the Tide-Lock behind him.
+
+"Corso. Sheathe your spear and run the shaft to the Council Loggia," Varian ordered quietly. "Tell High Lord Tarquin the First Age vault-stone is whole and the bay-wall answered it—and tell the harbor-steward to bring two baskets of live bream from the palace weirs down to the upper lock-door. Neither of you comes back down the last flight with iron in your hands."
+
+Boots turned and raced upward through the limestone chimney, fading swiftly overhead.
+
+Down on the lower tread, Eris hadn't looked at the glowing walls once after Prince's legs folded.
+
+The instant those great white-and-ice-blue pinions went slack across the water like dropped canvas, Eris's jaw set hard enough to cut glass. A downed dragon inside another court's stone cellar—with forty meters of rock overhead and the bay tide waiting outside the arch—turned every survival calculation in his blood white-hot.
+
+He stepped down off the limestone into the shallow pool without a splash, walking unhurriedly past Prince's limp shoulder until he stood two paces to seaward of Aurelie's bowed back—planting himself squarely in the open gap between the threshold stair and Prince's unguarded neck.
+
+Working one-handed in dark calfskin gloves, Eris flicked open the bronze frogs at his collar, shrugged cleanly out of his heavy charcoal-and-garnet coastal coat, and settled its dry, wool-lined shoulders gently over Aurelie's salt-chilled back—burying Tarquin's sheer blue mantle completely beneath Vanserra weight and cedar-warmth without jostling her arms where she held Prince's jaw.
+
+At the same time, standing in his dark shirtsleeves and waistcoat ankle-deep in the brine, Eris pressed the quiet, banked furnace under his ribs straight down through the soles of his boots into the ribbed basalt floor. No steam betrayed it to the ledge, yet all around Aurelie's soaked knees and beneath the broad, slack span of Prince's pale belly and drenched wing-feathers, the freezing reef-water warmed steadily to the heat of sun-baked stone—halting the chill before the sea could drink another drop of the dragon's strength.
+
+"Of all the reckless, magnificent idiocy," Eris murmured down to the crown of her wet hair, pitched so low under the boom of the outer surf that neither Varian nor the weeping smith ten feet back could catch a word. There was zero mockery in it—only a tight, low-burning fierceness behind his amber eyes as they measured the thin rise and fall of Prince's pale ribs. "Tarquin asked for one cast feather on an anvil, and he pours himself empty welding the bones of Summer's cliff back together so the pair of you can lock a door in his face."
+
+His gaze cut once toward the blinding blue square of the Seaward Flood-Arch thirty feet west, where the first inch of turning tide was just beginning to cream white across the dry lip of the Outer Basalt Sill, then dropped back to her profile.
+
+"Dead low water just turned, Lilly. We have ninety minutes before the bay comes over that sill faster than a horse can run, and he doesn't fit up the stair behind us," Eris told her quietly, steady and practical as steel. "Keep him warm and let him breathe. Nobody from Summer steps off that dry rock until his legs are under him."
+
+Back on the threshold ledge, Varian remained faithfully where he stood above the top step, hands empty at his sides as he spoke softly across the water to Aurelie's bowed shoulders:
+
+"Only my cousin can answer for Summer's crown, Lady Aurelie—he will be at the grate himself inside five minutes," Varian said, genuine respect roughening his quiet baritone as he looked at the exhausted dragon resting in her lap. "Fresh catch from the weirs is on its way down the shaft if it will help him mend his strength before the tide rises."

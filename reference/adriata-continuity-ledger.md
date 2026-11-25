@@ -108,3 +108,22 @@ Setting: evening of arrival day, Summer Court, Adriata. Dinner on Tarquin's Open
 - **Open thread for Caelum:** he heard "find something to muffle the sounds with, or your conscience." He may give one dry line of reply, or none. He won't explain his contract.
 - **Possible cameos:** Eris watching from a gallery above the cavern mouth (gloved). Or a tide-runner arriving early.
 - **Not yet happened, keep it open:** Lucien meeting Prince (invited T34). Upper libraries "after breakfast" (Tarquin T35), but the ebb comes before breakfast.
+
+---
+
+## 6. Adriata Day 2 Morning — Played Live Through T51 (25–26 Nov 2026)
+- **Dawn Cavern Drill (T43–T45):** Wet-stone survival footing, triangle stance, thumb-seam collar break, and 40° pivot with Caelum in Prince's tidal cavern den. Aurelie slipped into the pool (tucked chin, scraped left palm pink); Caelum stopped short of touching her when Prince's tail-blade rose. Gate-bell brought Varian's runner 20 minutes before dead low water.
+- **Courtyard & Mantle Clash (T46–T47):** Aurelie wore Tarquin's gift gown (white → turquoise → deep blue, hip-knotted) + sheer blue cape pinned with the pearl over her **right shoulder** as a mantle (left arm & Vanserra ink bare). Defied Eris's order to leave the cape (*"Territorial prick"*); Eris allowed the "pennant" until noon and ordered her into Ashgrove silk behind his chair tonight.
+- **The Drowned Archive & The Song in the Stone (`plate05_drowned_archive`, T47–T49):**
+  - **Cartography:** **Neon Jason (`gemini-4-neon`)** is now the permanent cartographer.
+  - The First Age carvings are **pitch-marks** (a song), not writing. Prince hummed them awake from the 24×18 ft Seaward Sill, flooding the bond with First Age memory: dragons and Fae once side-by-side (**zero** coiled palm-marks on any hand — Aurelie & Prince's `'e'` bond has no precedent), then war/fire on blood-red beaches, the surviving flight rising toward a light, and dragons laying their eggs deep in the freezing southern trench (*"I remember that cold. I slept in it."*).
+  - Aurelie & Prince swore not to tell a living soul about the sleeping trench eggs. When Aurelie collapsed weeping in the pool, Eris stepped into the brine to screen her from Varian with his coat and warmed the water, earning her *"I don't need your pity."*
+- **Mending the Vault Plinth (T50–T51):**
+  - Approaching the fractured **Dormant Vault Ward-Stone**, Prince bowed his muzzle to the rock and sang a single searching note: lifted off the blackened Hybern siege-scorch into rising silver motes and drew the deeper alien rift (Amren/Book of Breathings breach) together into a steady silver *kintsugi* seam, burning silver light across every wing relief and ringing a single fathomless harbor-bell note from under Adriata Bay before collapsing hollow into the pool.
+  - Aurelie knelt in her ruined silk cradling his jaw in her lap; Eris draped his dry charcoal-and-garnet coat over her shoulders and heated the basalt under Prince; Varian cleared all spears, sent for fresh bream from the weirs, and summoned Tarquin down the shaft.
+- **LOCKED PLAN FOR NEXT SESSION — Prince's 10-Minute Loggia Masterstroke (Ruby, 26 Nov 00:11):**
+  - Having mended the inner stone, Prince now knows a piece of his body (cast feather or scale on an anvil) is **not** how First Age ward-stones work — it takes **living sound and dragon magic**, and his molt wouldn't fix the main harbor keystone anyway.
+  - **During the 10-minute private audience with Tarquin:** Aurelie will relay that Prince gives **neither feather nor scale** (skipping the Salt-Fire Anvil). Instead—alongside his word that nothing waking in the southern trench is hostile to Summer—Prince offers **his direct promise to return to Adriata once he is older and strong enough, and mend the entire network of First Age stones** so they stand as strong as they were in the First Age.
+  - **Why this changes the board:**
+    1. Leaves Tarquin's inner vault secured today while his outer harbor remains vulnerable in the short term—giving Tarquin a direct, personal promise **outside of Eris** that makes Summer deeply invested in seeing **Prince survive to adulthood**.
+    2. For Prince, sealing the Archive and promising to repair Adriata's ward-stones later directly protects the sleeping dragon eggs in the southern trench—giving Prince a personal stake in keeping Adriata/Summer from being dragged into war.
