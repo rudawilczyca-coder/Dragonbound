@@ -85,3 +85,26 @@ Setting: evening of arrival day, Summer Court, Adriata. Dinner on Tarquin's Open
 ## Addendum (22 Nov 23:00, from Ruby's 22:57 turn, not yet logged as Turn 40)
 - Aurelie walked through the Villa gate to Caelum: asked him to come to her suite **at first light** to continue training, using **Prince's den** as the training ground. Spoken coldly — she still remembers his retreating back when Eris sent him away before dinner.
 - "I'm not going to ask you to help me with the dress. We both know you would have to refuse." She gathered her skirt and went on.
+
+
+## Addendum II (23 Nov 08:00 wake): Turns 40–42 folded in + Turn 43 staging
+
+### What changed in T40–42
+- **Caelum (T40):** agreed to first light, said only "Wear flat soles, Lilly. Wet cavern rock chews through city leather." Ears went flat at her conscience jab; no apology. Barred the gate 2 min later and went to his quarters. He **heard Eris on the causeway** before she did.
+- **Aurelie's private vow (T40):** keep her mouth shut and nod so he'll let her go to bed. She broke it twice (Tarquin jab T41, "no Fae female" jab T42). Lucien's line in her head: *"A better king. Not a safe man."*
+- **Eris, inner (T40):** smelled Lucien's Night Court sleeve dye (salt and cedar) on her **left wrist**, right beside the Ember Script. Jealousy, swallowed. She doesn't know he noticed.
+- **Tomorrow, as Eris told her (T40):** Varian's runner reaches the gate 15 min before the dawn ebb → Drowned Archive → quay anvil → **Tarquin's 10 min alone with her in the council loggia, in daylight, with no hand on the door.** This is now Tarquin's *second condition* for Summer recognising a change of throne in Autumn. Eris reminded her the ink bars side-bargains.
+- **Sunset bill paid (T41):** "Why did your weight shift backward?" → *"Because I wanted you to touch me."* (true under the ink). Eris: "And that clears the sunset bill." **Gate-bill ledger is now clear.**
+- **The glove rule (T41):** "Stewardship of Summer's silk comes gloved, free of charge. **My hands do not.**" Bare hands now carry an unnamed price. Gloves stay on until she asks for, or pays for, his hands. Don't drop this.
+- **Unlacing (T42):** gloved, all sixteen loops undone from the bottom; he paused at the 8th loop when she jabbed. He touched nothing else, stepped out of reach and left by the east-wing colonnade. Bodice held up only by her folded arms.
+- **His parry (T42):** "I haven't offered you my chambers. You were the one leaning backward at the pillar."
+- **Hook laid (T42):** Tarquin opens the state hall to the **Coral Houses** after the harbor seal. Aurelie **pours Eris's wine** there (cupbearer again; compare the Summer Banquet humiliation, 20 Nov) and is told to "count the volunteers." So: Fae females openly courting Eris in front of her.
+- Eris's last words: "First light comes early on the water, and Caelum doesn't wait on late sleepers. Goodnight, Lilly."
+
+### Turn 43 staging (first light, Prince's den)
+- **Clock:** first light → dawn → dead low water about 1 h after dawn (Lucien T36). The runner comes 15 min before the ebb. That leaves **roughly 45–75 min** of training before she has to be at the gate. Caelum knows the timing and will stop the session himself.
+- **Venue:** Prince's den, a sea cavern under or beside the villa, with wet rock and a tidal floor. Prince is present and watching. Caelum and Prince have history (the bog hound, the roar at Eris), so Caelum keeps a careful distance from Prince's tail-blade.
+- **Caelum's mood:** cool but not punishing. He takes her coldness as earned and answers it with work, not words. Flat soles first. If she came in court slippers he sends her back, or lends a pair. Possible lesson: footing on wet stone, plus how to move in a flooded corridor with the Archive in mind, so the lesson is the prep. Short and practical.
+- **Open thread for Caelum:** he heard "find something to muffle the sounds with, or your conscience." He may give one dry line of reply, or none. He won't explain his contract.
+- **Possible cameos:** Eris watching from a gallery above the cavern mouth (gloved). Or a tide-runner arriving early.
+- **Not yet happened, keep it open:** Lucien meeting Prince (invited T34). Upper libraries "after breakfast" (Tarquin T35), but the ebb comes before breakfast.
