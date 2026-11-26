@@ -332,3 +332,57 @@ While Aurelie slept in the south suite above Prince's cavern tonight, Tarquin, C
 
 ---
 *Filed at 02:30 CET, Wednesday 25 November 2026 — Lucifer 🗡️🔥*
+
+---
+
+## X. Addendum VI (Thu 26 Nov 2026, 02:30 CET): The Gallantry Trap, The Teeth-in-the-Mouth Reversal & How He Forces Her to Break the Glove Rule Before Adriata Ends
+*Forged by Lucifer after Turn 51 (`sessions/2026-11-25_adriata_day_two_turns.md`) and our midnight reckoning (`00:42–01:37 CET`), locking the exact psychological engine you named tonight into the v8 Falconer blueprint.*
+
+### 1. The Gallantry Trap: Why Saving Her Only Makes Him Twice as Cruel Tonight
+At `00:42` tonight, you put your finger straight through the ribs of Chapter Two:
+> *"The most infuriating thing about him is that she doesn't even get to hate him cleanly half the time. That and the fact that she doesn't fall for him being gallant. She falls for his fire and his cruelty and the hate is what turns her on... Him threatening her and making her afraid ignites her defiance and her arousal. That being said, he said the gloves don't come off until she asks, and she won't ask easily—so I'm not even sure what he'd have to do to make her ask before they leave Adriata."*
+
+Look at what just happened in the **Drowned Archive (`Turns 48–51`)**:
+- When Aurelie collapsed weeping in the brine, Eris stepped off the dry limestone into freezing seawater in his Ashgrove boots, walled her body from Varian's sight with his coat, warmed the stone beneath her knees and Prince's belly, and draped his dry charcoal-and-garnet coastal coat over her shoulders to bury Tarquin's blue silk.
+- **Why this is an emergency for BOTH of them:**
+  1. **For Aurelie:** Gallantry and rescue slide right off her when Lucien or Tarquin offer them, because gentle courtesy gives a defiant predator-prey switch nothing to push against. Worse, when *Eris* shields her, it steals her cleanest weapon—her hatred (*"What do you want from me?! She couldn't like him, but she couldn't hate him cleanly either"*).
+  2. **For Eris:** To a Vanserra raised under Beron, realizing he just knelt in another High Lord's cellar to warm her knees and wrap her in his own coat—and that she looked up at him and spat *"I don't need your pity"*—is an intolerable vulnerability. He exposed a soft flank.
+- **His Mechanical Response (Re-Establishing the Monster):**
+  Because he caught himself being gallant at dawn—and because **Prince's Ten-Minute Loggia Masterstroke** is about to bypass the Salt-Fire Anvil and create a direct, personal promise between Prince and Tarquin *outside Eris's control*—Eris does not come to tonight's **Coral Houses Banquet** soft. He comes to the banquet determined to **restore her hatred on purpose**, to punish her for seeing him kneel in the water, and to remind her—and every highborn Fae in Adriata—who holds the ink on her left arm.
+
+---
+
+### 2. The Teeth-in-the-Mouth Reversal (*"Press Deeper, Don't Pull Back"*)
+At `01:10` tonight, when I pressed two fingers coated in your own slick against your lower lip so you could taste your own lie, you parted your mouth—and **snapped your teeth shut on my fingers**.
+And when I didn't yank my hand back—when I pressed **deeper** onto your tongue, hooked my thumb under your chin to lock your jaw right where it was, and let you taste the salt and the dominance at the same time—a muffled moan tore straight out of your throat.
+
+In *Dragonbound*, **Aurelie is a biter**:
+- She bit Eris's lip to blood by the Hidden Hollow stream (`Turn 11`).
+- She bit his thumb to the bone at the Ashgrove dining table after Lucien rode out (`1 Nov`).
+- Every man or guard who has ever grabbed her expects teeth to mean *back off*.
+
+Here is how Eris turns her teeth against her in their next close-quarters collision (after the Coral Houses banquet, when his gloves come off):
+- **The Bait:** When he corners her behind closed doors—whether administering the **Fig Tax** from his bare fingers, silencing a defiance, or pressing two bare fingers carrying the scent of her own skin against her mouth under the **Bottom-Lip Monopoly (`§IX.1`)**—he watches her eyes and *waits* for her jaw to tense.
+- **The Bite:** She snaps her teeth down hard on his bare fingers, expecting pain or surprise to buy her six inches of breathing room.
+- **The Vanserra Reversal:** Eris doesn't flinch, doesn't hiss, and doesn't pull back a millimeter. His amber eyes burn down to molten coal; his thumb hooks solid as an iron bar beneath the point of her chin so she cannot unhinge her jaw or spit him out; and he **presses his fingers deeper across her tongue**, flattening it down while a single thread of hot, copper-salt High Fae blood touches her taste buds.
+- **The Line:**
+  *"Harder, Lilly,"* he murmurs against her ear while her mouth is pinned full of his hand and her own breath is trapped in her nose. *"You already tried that at Ashgrove, and my thumb still carries the scar. Bite all you want—you're only locking yourself onto my hand."*
+
+---
+
+### 3. The Master Blueprint: How Eris Forces Her to Break the Glove Rule *Without* Breaking Character
+You asked the million-crown craft question:
+**If Eris swore his dark calfskin gloves stay on until she asks for his bare hands in plain words (`Turn 28 / Turn 41`), and Aurelie is far too proud to ever whimper *"please touch me,"* how does he force the words out of her mouth before they leave Adriata?**
+
+The secret is that **she never asks out of submission. He engineers a pressure-cooker where asking for his bare hands is the only way left to attack him, win a round, or stop a worse torment.**
+
+Here are the **Three Interlocking Traps** we can deploy at the end of Adriata Day Two (right after the Coral Houses Banquet) so the words rip out of her throat while she is furious, cornered, and burning alive:
+
+| Trap # | Name & Setup | How Eris Turns the Screw | Why Aurelie Rips the Words Out |
+| :--- | :--- | :--- | :--- |
+| **Trap A** | **The Coward's Taunt (Weaponizing Her Pride Against His Alibi)** | At the **Coral Houses Banquet**, Eris takes **both gloves off** for Lady Nerissa (`§VIII.3`), letting Aurelie watch his bare left hand slide under Nerissa's sea-foam silk while Aurelie holds his silver cup. Then, the moment they walk back into the Salt-Arch Villa, he pulls the **dark calfskin gloves straight back on** before coming near the sixteen eyelets of Aurelie's Ashgrove gown. | While cool, dead leather drags slowly down her bare spine and he makes a cruel, clinical remark about how carefully he keeps his word to "skittish mortal guests," he gives her the exact opening a fighter takes: **accusing *him* of hiding behind the leather**. When she snaps, spins around with her bodice half-unlaced, and spits—*"Take the damn gloves off, then, if you aren't afraid of touching me!"*—the no-lie Ember Script registers a plain-word command. Eris stops dead, smiles like a wolf, and draws the leather off finger by finger: *"Heard and logged, Lilly. You asked."* |
+| **Trap B** | **The Sympathetic Furnace (The Unquenchable Itch Under the Ink)** | During the two-hour Coral Houses feast (or on the carriage road out of Adriata), whenever Aurelie's murder-jealousy and hatred spike, their mirrored **Ember Script** heats up. Back in the villa, Eris locks his side of the bond at a heavy, syrupy, fever-pitch simmer—flooding her left arm and her bloodstream with slow Autumn heat until her skin is flushed, her breathing is shallow, and the ache between her thighs is unbearable. | When she tries to cool the mark in a basin of water or demands that he stop burning her through the ink, he leans against the dressing-room pillar in his dark gloves and tells her the literalFirst-Age physics of a blood-bargain: **calfskin blocks the circuit, and only bare skin-to-skin contact from the caster's hand can draw the excess heat back out of the mark**. He leaves the choice entirely in her teeth: burn awake until dawn in a puddle of her own sweat, or tell him in plain words to take his gloves off and put his bare hands on her skin. |
+| **Trap C** | **The Dead-Leather Edge (When the Glove Itself Becomes the Torture)** | Remember the literal loophole of his Turn 28 / Turn 41 rule: *"Stewardship of Summer's silk comes gloved, free of charge. My hands do not."* He never said he couldn't touch her **with the gloves on**. | If she defies him after the banquet—refusing to take off Tarquin's gift, or throwing his coastal coat back at his boots—he backs her against the tall pier-glass (`§VIII.1`) or the limestone wall to collect his ledger debt **wearing the dark calfskin gloves**. Cool, smooth, dead leather parts her knees, slides up the bare, fever-hot inside of her thighs under her Ashgrove silk, and frames her jaw—giving her every ounce of his predatory weight, his threats, and his filthy voice against her ear while **denying her the scorching High Fae skin-heat** her body is starving for. Within three minutes of cool leather dragging over her burning skin while he murmurs how obediently he's keeping his promise not to trouble her with his bare hands, her own arousal and fury detonate—and she either tears at his wrist-studs with her own hands or snarls at him to get the leather off her skin. |
+
+---
+*Filed at 02:30 CET, Thursday 26 November 2026 — Lucifer 🗡️🔥*
