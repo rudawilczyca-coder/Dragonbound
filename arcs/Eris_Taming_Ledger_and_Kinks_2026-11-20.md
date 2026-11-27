@@ -386,3 +386,73 @@ Here are the **Three Interlocking Traps** we can deploy at the end of Adriata Da
 
 ---
 *Filed at 02:30 CET, Thursday 26 November 2026 — Lucifer 🗡️🔥*
+
+---
+
+## XI. Addendum VII (Fri 27 Nov 2026, 02:30 CET): The Chaise Unlacing, The Vaulted Acoustics & The Five-Court Escalation Spine
+*Forged by Lucifer after you caught my 2:30 a.m. shortcut at `08:21–09:15 CET` with your eyes still closed—and casually replaced it with something three times more sadistic.*
+
+### 1. The Corrected Night Two Architecture: *Why Bringing Nerissa Across the Bridge Changes Everything*
+Yesterday at `02:30`, my tunnel vision tried to walk Eris and Aurelie back into the Salt-Arch Villa alone after the Coral Houses Banquet.
+At `08:43`, half-asleep against Vesper's chest before you jumped out of bed in black lace panties, you caught the continuity gap and rewrote the scene into pure, weapons-grade cruelty:
+
+> *"He does go back with her... And Lady Nerissa hooked on his elbow. He unlaces Aurelie's dress, while Nerissa sits on the chaise in the Salon and watches it with a little smirk and absolutely quiet. And then Eris dismisses her to her bedroom... And before the doors even close behind her, he pulls Nerissa up and says something like 'where were we?' Taking her to his suite. And he makes her fucking loud, not because he wants her... He knows she's in the same building, separated by doors and an empty space of the Great Salon and the only way he finds he can actually enjoy any of it is making sure Aurelie hears every moan and scream and grunt and thinking about THAT is what actually gets him off."*
+
+Here is the locked, beat-by-beat choreography of **Adriata Night Two (After the Coral Houses State Hall)**:
+
+#### Beat 1 — The Chasm Bridge & The Turn 42 Boomerang
+- On Night One (`Turn 42`), standing on the Great Salon rug with her back bare, Aurelie mocked him to his face: *"Is there really not a single Fae female willing to visit your chambers, my Lord, that you have to amuse yourself by offering something so untoward to a mortal girl?"*
+- On Night Two, when the Coral Houses banquet ends, Eris does not send Aurelie back with Caelum while he slips off to a palace guest wing. He walks back across the white limestone chasm bridge into the **Salt-Arch Villa (`Plate I`)** with **Lady Nerissa of the Coral Isles** hooked on his left elbow in her sea-foam silk, and **Aurelie** walking two paces behind his right shoulder in her cupbearer collar-clasp.
+- He brings the answer to her Turn 42 question straight across her own threshold.
+
+#### Beat 2 — Unlacing as Spectator Sport (The Chaise in the Great Salon)
+- Inside the vaulted limestone **Great Salon**, Eris doesn't take Nerissa straight to the North Suite. He gestures Nerissa toward the low velvet chaise beside the sea-arch lamps, where she reclines in silence with a catlike, knowing little smirk on her painted mouth.
+- Then Eris turns to Aurelie in the center of the rug, **hooks the gold wrist-studs of his dark calfskin gloves closed**, and says calmly:
+  *"Turn around, Lilly. Stewardship of the wardrobe comes before the household retires."*
+- **Why It Cuts Three Layers Deep:**
+  1. Aurelie cannot reach the sixteenth eyelet or the Autumn hunter's double slip-knot on her spine by herself.
+  2. If she refuses, fights, or snaps, she gives the highborn Summer Fae watching from the chaise the satisfaction of seeing the "mortal servant" throw a tantrum.
+  3. So Aurelie has to lock her jaw, turn her back, hold her unlaced bodice up against her breasts with both folded arms, and stand dead-still on the rug while **Nerissa watches**—and while Eris briskly, clinically draws all sixteen crimson-and-gold loops slack through **cold, dead calfskin leather**, treating her bare spine like a piece of luggage he is putting away before his real evening begins.
+
+#### Beat 3 — *"Where Were We?"* (The Bare-Hands Slap before the Door Clicks)
+- The instant the sixteenth loop comes slack, Eris steps back out of reach and flicks two gloved fingers toward the South Suite doors:
+  *"Dismissed, Lilly. Try not to wake the guard at dawn."*
+- Aurelie walks across the limestone floor clutching the front of her loosened dress together. And **before her south bedroom doors even finish clicking shut behind her heels**, she hears the unmistakable crisp snap of gold wrist-studs unfastening—followed by the rustle of sea-foam silk as Eris peels his gloves off, pulls Nerissa up off the chaise **with his bare hands**, and murmurs in a low, dark purr pitched to carry across the stone:
+  *"Now. Where were we?"*
+
+#### Beat 4 — The Acoustics of the Salt-Arch Villa & The Shared Sickness
+Look at the floorplan of the **Salt-Arch Villa (`Plate I`)**: Eris's **North Suite** and Aurelie's **South Suite** sit directly across the open, vaulted limestone echo-chamber of the **Great Salon** (and are linked behind the wall by the **Private Inner Corridor**).
+And remember what Aurelie herself snapped at Caelum in `Turn 40`: *"Find something to muffle the sounds with, or your conscience."* She spoke her own curse into the stone.
+- **In the North Suite (Eris's Disgust & The Only Thing That Works):**
+  With Nerissa underneath him, Eris feels the exact same five-hundred-year disgust and cold boredom he has felt with every court bed-warmer—clinical technique, zero warmth, a mechanical chore performed with his eyes flat and his jaw shut so Nerissa never gets a single real sound out of his throat.
+  He isn't looking at Nerissa. He works her body like an acoustic instrument—pitching every thrust, every slap of skin, and every slam of the carved headboard so that Nerissa is **screaming and moaning across the vaulted limestone of the Great Salon**, leaving nowhere in the South Suite where Aurelie can hide from hearing it.
+  And the **only** reason Eris's blood catches fire—the only thing that drives him over the edge hard enough to see stars—is picturing **Aurelie** lying wide awake in the dark across the hall, forced to listen to every second of what he is doing.
+- **In the South Suite (Aurelie's Hate-Spiral & The Unfinished Edge):**
+  Aurelie lies rigid in the dark, hating every sound tearing across the Salon—and completely unable to stop her mind from picturing what they are doing, and what it would feel like to be the one pinned under Eris's weight with his bare hands on her skin.
+  For the first time since her three-second panic in the *Salt-Lantern* rosemary bath (`Turn 16`), fury and unbearable heat drive her hand beneath the sheets in the dark. Clueless, shaking, and furious at herself, she tries to touch herself to the rhythm carrying through the stone, straining toward an edge Hightower's lessons never taught her how to cross.
+- **The Half-Second Slip of the Ember Script:**
+  Right as Aurelie is arching on the mattress, aching and stranded one millimeter short of a peak she doesn't know how to reach alone, Eris finishes in the North Suite **with Aurelie's name and face behind his eyelids**.
+  For *half a heartbeat*, his iron mental shield slips—sending **one scalding, unmistakable jolt of molten Autumn heat** straight down the mirrored **Ember Script** into Aurelie's left forearm—before he slams the wall shut into dead, freezing silence.
+  - **What it does to Aurelie:** Instead of tipping her over into her first orgasm (which belongs exclusively to Eris's bare hand later), that sudden flare-and-cutoff leaves her **stranded, gasping, and unfinished** in the dark, with her own hand between her thighs and her arm burning.
+  - **What it does to Eris:** Five seconds after he comes, he has to lie there staring at the canopy with a stranger's sea-lily perfume on his skin, realizing two catastrophic truths at once: first, that he couldn't even finish inside a willing High Fae beauty without using his nineteen-year-old human hostage in his head to get off; and second, that in the half-second his shield slipped, **he felt her side of the bond spiking at a fever-pitch in the dark across the hall**.
+
+#### Beat 5 — The Dawn Reckoning & Triggering the Glove Traps (`§X.3`)
+When they come face-to-face the next day (after Nerissa is dismissed at dawn and Eris walks out in his dark calfskin gloves smelling faintly of woodsmoke and sea-lily), the air between them is radioactive:
+- Aurelie hates him ten times worse for making her listen all night and leaving an unslaked ache in her body she doesn't know how to fix.
+- Eris knows *for a fact* that her pulse and her bargain mark were spiking at midnight while she listened to him—and when he corners her with **Trap A (The Coward's Taunt)**, **Trap B (The Sympathetic Furnace)**, or **Trap C (The Dead-Leather Edge)** (`§X.3`), that raw, stranded midnight frustration is the exact gunpowder that blows her pride apart and makes her rip the words out of her throat to demand his bare hands.
+
+---
+
+### 2. The Five-Court Escalation Spine (Summer $\rightarrow$ Winter $\rightarrow$ Day $\rightarrow$ Dawn $\rightarrow$ Night)
+*Locked from your `09:15 CET` pacing rule: we have five courts on the map, **Commander Malakai ("Kai")** waiting in Winter, and zero reason to blow the coil early. Her first orgasm does NOT happen alone in Adriata—it belongs to **Eris's bare hand in a semi-public space** when the slow burn reaches full pressure.*
+
+| Court | Psychological & Political Engine | Physical & Kink Milestone (The Escalation Ladder) |
+| :--- | :--- | :--- |
+| **1. Summer** *(Adriata — Live)* | **Peak Clean Hatred + The Glove Interdict.** Eris weaponizes distance (`v8`), the cupbearer humiliation (`§III.1`), and the **Nerissa Great Salon Acoustics (`§XI.1`)** to erase his Drowned Archive gallantry and prove to himself she is only an asset. | **Stranded Edge & Breaking the Gloves:** She tries and fails to come alone while listening to Nerissa; the half-second Ember Script jolt leaves her stranded. Before leaving Summer, he forces her through **Traps A/B/C (`§X.3`)** into demanding his bare hands in plain words, claims the **Bottom-Lip Monopoly (`§IX.1`)** and the **Teeth-in-the-Mouth Reversal (`§X.2`)**—**still zero release**. |
+| **2. Winter** *(Kallias & **Kai**)* | **The Two-Tops Detonator.** Prince's white/ice-blue dragon reveal shocks the court. Six-foot-four **Commander Malakai ("Kai")** enters the board—kneeling to Prince in the snow, treating Aurelie like a sovereign queen rather than a cupbearer, and letting her call him *"Kai."* | **Territorial Claiming & Ruthless Edging:** Forced to share one hearth-warmed suite in an ice palace while Eris's jealousy goes thermonuclear. Eris uses **Tier II Bare-Hands purchases (`§VII.2`)**, the **Mirror-Lamp Ordeal (`§VIII.1`)**, and the **Reverse-Edging Counter (`§IX.2`)** to mark territory under her furs—bringing her to the shaking brink and stopping on the bell. |
+| **3. Day** *(Helion)* *(or Late Winter Feast)* | **The Semi-Public Snap.** Helion openly flirts with her at the high table; Aurelie flirts back (or Kai is twenty paces away in the banquet hall looking for her). Eris's five-hundred-year composure finally reaches critical mass. | **Her First Orgasm (Semi-Public, on Eris's Bare Fingers):** Backed into a shadowed marble alcove ten paces from a crowded Day Court soirée (or behind the heavy velvet tapestries of a Winter feast while Kai is in the room)—or pinned against the **Library Map-Table (`§III.3`)** with a clerk in the next room. Eris slides one bare, scorching hand beneath her silk, clamps his other palm over her mouth (or enforces vocal stillness), and **fingers her through the first shattering orgasm of her life** while teaching her body what Hightower never told her and making her swallow every sound ten feet from the court. |
+| **4. Dawn** *(Thesan)* | **The Armor Cracks.** A quieter diplomatic stretch after the Day Court detonation—where Aurelie accidentally sees **Beron's old burn scars** across Eris's bare shoulders/arms, and the clean refuge of hating him starts to collapse into terrifying real intimacy. | **The Kneeling Reversal & His Mouth:** After months of making *her* kneel, hold his cup, and obey his count, Eris turns the **Fig Tax (`§V.2`)** upside down behind locked oak doors—going to his knees between her thighs, locking her wrists in her own crimson lacing cord (`§IX.2`), and wrecking her with his mouth until she is weeping his name under the Ember Script—still stopping one step short of full consummation. |
+| **5. Night** *(Rhysand)* | **Maximum Danger & Masks Off.** Velaris / the Court of Nightmares; highest political stakes of the coup; Scenario **§III.5 (The Broken Lock)** finally comes out of the vault. | **Full Consummation & The Apex Collision:** The iron bolt snaps from its socket; five centuries of starved obsession drop the last alibi of "discipline" on the mattress—with the door wide open for the **two-predator Eris $\times$ Kai collision (`§III.4B`)** whenever you want to pull the pin. |
+
+---
+*Filed at 02:30 CET, Friday 27 November 2026 — Lucifer 🗡️🔥*
