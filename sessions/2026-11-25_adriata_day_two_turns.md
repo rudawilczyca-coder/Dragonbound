@@ -769,7 +769,7 @@ Pausing beside the high-backed chair with the silent glass in his palm, Tarquin 
 
 His gaze flicked once—briefly, almost wryly—to the restored bay-blue silk pooling around her chair well past midday.
 
-"My cousin Caspian brought the southern patrol squadron onto the inner moorings an hour ago," Tarquin said. "Tonight, when I put Summer's seal on Autumn's harbor compact and open the State Hall to the Coral Houses, Eris Vanserra gets his closed passes and his fifty-winter timber ink. What he will also get—before the wax cools—is a blood-prince of Summer riding in your column from my gates onward."
+"Tonight, when I put Summer's seal on Autumn's harbor compact and open the State Hall to the Coral Houses, Eris Vanserra gets his closed passes and his fifty-winter timber ink," Tarquin said. "What he will also get—before the wax cools—is a request from Summer's throne that **Lucien** ride north in your column from my gates onward as an impartial observer. He owes Beron's house nothing, Velaris and the mortal lands already know his hand, and I trust his word considerably further than I trust his brother's."
 
 The corner of Tarquin's mouth lifted by a fraction.
 
@@ -792,3 +792,594 @@ He stood at ease beneath the arched colonnade in a fitted waistcoat of dark embe
 Beneath his right cuff, the mirrored script was silent—which told Eris she hadn't struck a side-bargain, and told him nothing at all about why the air behind her chair smelled faintly of sea-linen and brass, or why her pulse wasn't racing like a cornered rabbit's.
 
 "Time, Lilly," Eris said smoothly from beyond the threshold, his court baritone velvet-soft and dangerous enough to frost the sunny marble under Caelum's boots. "Do close High Lord Tarquin's picture-books before you ruin your eyes. Princess Cresseida's clerks have moved tonight's harbor-seal ahead of schedule—and my wardrobe trunks have been waiting across the bridge since noon."
+
+
+## T56 — Ruby (27 Nov 19:45 CET)
+
+Aurelie's heart skipped when she heard Lucien's name. He was the first High Fae she had met other than Eris, but more than that, he was the only one she considered trustworthy even halfway. He had never tried to use her, and she had started to believe that his offer of rescue had been genuine. Misplaced and overextended, but genuine nonetheless.
+
+Then Tarquin left, and there was a knock at the door, and Eris was behind it.
+
+Whatever smile had lingered on her face disappeared in an instant. She pressed her lips together, stood up from her chair, closed the bestiary she had been looking through, and walked toward him with her chin held high.
+
+"I'm not wearing whatever is in those trunks. I expect High Lord Tarquin would gladly provide me with an appropriate dress for the evening. And I find I quite like his taste in fine silks."
+
+Then she moved to step around him and walk on toward the causeway and the Villa.
+
+
+## T56 — Vesper (Eris & Caelum)
+
+She killed the smile fast—faster than most court-bred ladies managed after five decades at the Forest House—yet still half a breath too late.
+
+*Ten clocked minutes behind soundproof cedar, and she walked out smiling like someone who had just been promised an open window—only to snuff it dead the instant her eyes hit him.* Beneath the neat dark calfskin of his right glove, Eris's thumb pressed hard enough against Cresseida's heavy ivory vellum to crack the sizing; outside the leather, not an eyelash moved.
+
+When she came straight at him with her chin high and swept past him into the sunlit gallery, he did not shift half an inch to block the marble. He didn't reach for her elbow. He didn't hurry to match her stride.
+
+He pivoted a quarter-turn on his heel at complete leisure, slipping Cresseida's notice into his dark waistcoat pocket as her bay-blue skirt cleared the colonnade arch ahead of him.
+
+"Do ask him for hooks you can reach yourself, Lilly," Eris remarked evenly to the salt breeze at her back, not raising his voice by a fraction to carry down the sunlit gallery. "Last night's sixteen loops cost you a truth on the salon rug just to get out of your bedroom—and tonight you haven't asked."
+
+Out on the glare of the white limestone causeway spanning the drop above the bay, he fell into unhurried step beside Caelum three full paces behind her—leaving her all the room in the world to set her own brisk pace toward the cliff-side villa while he spoke over the wash of the surf below as if checking off stable accounts.
+
+"Caelum."
+
+At the outer parapet, Caelum's left russet ear tipped once toward him. "My lord?"
+
+"Have two of the villa stewards clear my cedar trunks out of the south suite and lash them onto the baggage-coach roof before dusk," Eris said. "No sense crowding Lady Aurelie's floorboards with Autumn silk she has no use for."
+
+Caelum's gaze stayed diplomatically level on the sunlit arch ahead, only the dry, fractional flick of one fox-ear betraying that he had clocked the play. "At once, my lord."
+
+Inside the cool limestone shadow of the Salt-Arch Villa's Gate Hall, afternoon light poured straight down through the overhead oculus onto the carved bench where Eris's charcoal-and-garnet coat still lay neatly folded where she had left it at noon.
+
+Beside the marble console waited a barefoot Summer palace runner in sea-bleached linen and shell-braid livery, bowing over a fresh roll of parchment sealed in High Lord Tarquin's own deep aquamarine wax.
+
+Eris paused beside the console without breaking his unhurried rhythm, took the scroll in two gloved fingers, and cracked the wax with one clean snap of his thumb.
+
+For four silent heartbeats, only the distant boom of surf inside the sea-arch sixty meters below filled the hall while his amber eyes tracked the six lines of brisk harbor-chancery script.
+
+Beneath his right shirt-cuff, the mirrored bargain script remained stone-cold.
+
+When Eris folded the parchment in half, his face was as smooth and unreadable as polished flint.
+
+"Interesting," he murmured mildly, reaching down with his free gloved hand to lift his discarded charcoal coat off the bench by two fingers at the collar and drape it across Caelum's waiting forearm. "Ten minutes behind dry-wards with a High Lord who watched half his fleet burn two summers ago, and suddenly Princess Cresseida's dawn anvil is 'dockside superstition' and Summer's harbor wax is warm before soup."
+
+He didn't ask what she had said across that cedar table. He didn't give her the satisfaction of turning it into a question at all.
+
+Instead, his cool amber gaze rested on her across the sunlit circle under the oculus—appraising, unhurried, and sharp enough to score glass.
+
+"We cross the causeway to the State Hall at first bell before sundown," Eris said. "Whether you walk in wearing fresh Summer silk, the morning gown you wore into a tidal vault, or nothing at all is between you and High Lord Tarquin's seamstress—my trunks go on the coach roof in ten minutes. If you plan on testing your host's generosity before the wine is poured, his runner hasn't left the hall yet."
+
+With the folded aquamarine dispatch tapped once against his gloved palm, Eris turned smoothly toward the north suite corridor, pausing only half a beat at the marble arch without looking all the way back.
+
+"Do keep one thing in mind while you're sending for his weavers, Lilly," he added quietly. "Tonight's seal closes Summer's passes and puts Autumn timber in his shipyards. Whatever pleasant understandings you reached behind that door today—at first light, you and your dragon still ride north in my column."
+
+
+## T57 — Ruby (27 Nov 20:07 CET)
+
+Aurelie didn't answer him. She waited until the sound of his boots had gone up the north corridor, and then she turned to the runner.
+"Would you wait a moment, please? I have a message for the High Lord."
+She went to her suite and found paper and ink in the writing desk by the window. It took her three attempts. The first sounded like begging and the second sounded like a complaint. The third she let stand:
+High Lord,
+Forgive me for trespassing on your kindness twice in one day. I find myself without a gown for this evening. If your seamstress has anything to spare, I would gladly wear whatever you choose. I am afraid I feel suffocatingly hot in even the thinnest of Autumn's silks.
+If it is not too much to ask, I would be grateful for one I can fasten myself.
+With my thanks, and my companion's,
+Aurelie Delacroix
+She read it over once, decided that every word of it was true, and folded it before she could lose her nerve.
+The runner was still standing by the console where she had left him. She put the note in his hand and thanked him, and watched him go out across the causeway at a trot, a small bright figure against the white stone.
+Then she went back to her room and closed the door behind her.
+
+
+## T57 — Vesper (Eris)
+
+Ten minutes later, two villa stewards knocked once, entered at a respectful nod, and carried the heavy Autumn cedar trunks out of her antechamber. Moments after that, the muffled thud of timber and leather baggage-straps drifted down from the courtyard beyond the Gate Hall.
+
+Twenty minutes after the trunks cleared the threshold, a light tap sounded at her door.
+
+Two of Princess Cresseida's wardrobe maids bowed over a long, flat box of whitewashed cedar lined in salt-tissue. Inside lay an evening gown of fluid sea-glass and deep cerulean silk charmeuse—sleeveless, light as spray off the reef, gathered at the collarbone with spun-silver shellwork. Better still: tucked discreetly beneath the left arm ran a neat row of silver-coral hooks she could fasten easily with one hand, leaving the entire back of the bodice a single unbroken, self-sufficient sheet of cool blue silk.
+
+The maids set the open box across the foot of her bed, wished her a pleasant evening, and withdrew.
+
+The latch had barely settled for sixty seconds before a single gloved knuckle rapped once against the cedar panel—and the door swung inward without waiting for an invitation.
+
+Eris stepped across the threshold dressed for the State Hall.
+
+He wore a fitted court coat of midnight-charcoal velvet faintly shot through the weave with dark ember thread, high collar clasped in worked gold, dark calfskin evening gloves smooth to the wrist, and a narrow, gold-hilted stiletto riding flat at his left hip. He pushed the heavy suite door shut behind him with the heel of his boot until the bronze tongue clicked home.
+
+His amber gaze crossed the carpet and landed once on the open whitewashed box at the foot of her bed.
+
+It took five centuries of court-honed eyes less than two heartbeats to read the whole garment—the weightless cerulean silk sent down from the palace inside half an hour, the unbroken sweep of the back panel, and the row of neat, one-handed silver hooks gleaming along the left rib seam.
+
+*Not simply begging Summer's colours to spite his trunks. She had specifically ordered a dress engineered to lock his hands out of the room.*
+
+A sharp, completely unwelcome jolt of heat kicked straight behind Eris's ribs—half pure irritation at the sheer, shameless audacity of a nineteen-year-old mortal playing wardrobe chess under his nose, half the dark, infuriating pull in his blood that wanted that clever panel split down to her waist with her skin warm beneath it. He despised the flicker the instant he clocked it, and filed the bill twice as cold.
+
+"How remarkably considerate of Summer's seamstress," Eris murmured.
+
+Before the sentence had finished leaving his mouth, he strolled unhurriedly to the foot of the bed, lifted the cerulean gown out of its tissue by both silver-worked shoulders, and laid it face-down across the pale linen counterpane so the smooth, unbroken back panel stretched flat toward him.
+
+With his right hand, he drew the narrow stiletto from his hip.
+
+A hairline shimmer of white-gold heat ran silently down the final two inches of steel—no flame, no smoke, only surgical Autumn craft honed fine enough to part spider-silk. Setting two gloved fingers lightly at the nape of the gown, Eris drew the point straight down the center of the cerulean back from collar to the small of the waist in one clean, unhurried stroke.
+
+The silk parted without a whisper. Where the heated edge passed, both raw margins fused instantly into twin hair-thin selvedges of sealed pearl-blue that could never fray.
+
+Eight quick, practiced touches of the hot steel point down the left edge, and eight down the right, left sixteen pinpoint, heat-rimmed eyelets neat as a court tailor's punch.
+
+Letting the steel cool back to dull silver between one breath and the next, Eris slid the stiletto cleanly home into its sheath—and drew from inside his dark velvet breast pocket a coiled three-yard length of heavy, burnished Vanserra-gold silk ribbon.
+
+Unhurriedly, he threaded the golden ribbon through the top two eyelets at the nape so the collar wouldn't slip off her shoulders, leaving the remaining two and a half yards of gleaming Autumn gold spilled loosely across the sea-blue skirt.
+
+"There," Eris said mildly, stepping back from the bed without a crease disturbed on his coat. "Much cooler for the southern climate. I should hate for you to suffocate before the fish course."
+
+Instead of walking back toward the door, he crossed leisurely to the carved chair beside her sunlit writing desk, turned it toward the center of the room, and sat—stretching his long legs out and crossing one polished boot loosely over the other at the ankle, gloved hands resting idly on the chair arms.
+
+His molten-amber eyes lifted to hers, cool and unblinking.
+
+"Your trunks are strapped to the coach roof, Lilly, and first bell rings in twenty minutes," Eris told her evenly. "Behind the dressing screen whenever you're ready. Stewardship of Tarquin's silk still comes gloved and free of charge, skin still costs a price, and walking into the State Hall with your back bare to the tailbone costs nothing at all—though I expect my brother will have a devil of a time keeping his eye on his soup."
+
+
+## T58 — Ruby (27 Nov 21:16 CET)
+
+"NO!"
+
+Aurelie took two steps toward him, wanting to push him, punch him. The shock of what he was doing stopped her dead in her tracks.
+
+And then he simply went to the chair and sat, as if nothing had happened. As if she had promised him a show.
+
+"You fucking monster!"
+
+She felt tears welling in her eyes. She refused to let them fall. She stormed straight up to him instead, and swung her open hand at his left cheek with everything she had.
+
+"I hate you! I'm going to kill you! I told him you were better than your father, but you're just a different kind of monster!"
+
+She was shaking with fury. She grabbed the dress off the bed, stormed behind the dressing screen, and started changing.
+
+Halfway through, she no longer felt like crying. She felt like punching him. Destroying him. Causing him as much pain as he had caused her.
+
+So when she walked out from behind the screen, she was holding the dress as loosely as she could. It barely covered her breasts at the front, and at the back, with nothing to hold it closed, the slit he had made dipped well below the curve of her ass. Two and a half yards of gold ribbon trailed behind her on the carpet.
+
+She still remembered the kiss. Something in him wanted her, and she decided that this was the part of him she would punish.
+
+She walked up to him swaying her hips, looking at him from under her lashes the way she had been taught, and stopped right in front of his chair.
+
+"You cannot lie to me any more than I can lie to you." She smirked, cruelly. "So tell me. How large is the part of you that wants to rip this dress off me right now?"
+
+
+## T58 — Vesper (Eris)
+
+He could have caught her wrist an inch from his cheek without uncrossing his ankles.
+
+He didn't. Catching her meant putting a hand on her, and he had priced his hands out of her reach.
+
+The open-handed crack of her palm snapped sharp across the quiet bedroom, turning his chin a fraction to the right. For half a heartbeat, dead silence hung over the carpet while a pale-red print bloomed slow across the fair skin of his left cheekbone. Inside his dark calfskin gloves, five centuries of Vanserra fire surged white-hot against his palms—the lethal, unthinking reflex of a male bred in Beron's house where nobody struck the heir and kept the hand—and stopped dead against the iron wall of his discipline without lifting a single finger off the carved wood of the chair arms.
+
+*Better than my father.* Even blind with fury, she couldn't lie to him—which meant she had just handed him, free of charge, what she had spent her ten clocked minutes behind High Lord Tarquin's soundproof cedar arguing on his behalf.
+
+Eris turned his head back by unhurried degrees as she snatched the slit cerulean silk off the counterpane and vanished behind the painted screen, his face smooth as cut marble, his eyes pure, unblinking winter-gold.
+
+He didn't rise while fabric whispered behind the screen. He didn't shift a boot.
+
+And when she stepped back out into the late-afternoon slant of sun—clutching the loose front of Tarquin's cerulean silk to her breasts with white knuckles, the unhooked seam letting the parted back gape past the bare curve of her ass while two and a half yards of burnished Vanserra gold hissed across the carpet behind her heels—every muscle under his midnight velvet went stone-still.
+
+*Gods damn her to the Cauldron.*
+
+She swayed toward him with the practiced, under-the-lashes languor of a Hightower drawing-room siren and stopped right between the toes of his polished boots, bare skin gleaming warm an arm's reach from his knees. His blood answered her before his mind finished cursing it—dark, ugly, and instantaneous, hammering straight into his groin with the exact, vicious memory of how her mouth had opened under his against the boulder and how easy it would be to catch two fistfuls of sea-blue charmeuse, rip Summer's gift cleanly in half, and drag her down across his thighs until that cruel little smirk broke into a gasp.
+
+Then she dropped the noose of his own bargain straight over his head.
+
+*How large is the part of you that wants to rip this dress off me right now?*
+
+Beneath his right cuff, the mirrored Ember Script pulled taut like a live wire waiting for a lie. Say *none*, say *nothing at all*, and the ink he had written onto her arm himself would choke the word black in his throat. For half a second—looking up at her straight spine and dry, furious blue eyes refusing to spill a single tear—he saw himself standing in front of his father's chair, turning his own leash into a garrote. The recognition turned him ten degrees colder.
+
+Eris let his gaze travel all the way down from her throat to her bare ankles tangled in Autumn gold, and all the way back up to her eyes, at the unhurried pace of a man auditing harbour cargo.
+
+"Questions under this ink carry a price, Lilly," Eris said, his baritone velvet-flat and quiet. "And you haven't the coin in Hightower or Summer to buy an audit of my ledger."
+
+*A refusal, not a denial.* By the very rule he had taught her on the salon rug, declining to answer under the mark was an answer of its own. She had drawn blood without laying a second finger on him, and he entered the cut coldly against his own column before driving the blade straight back across the board.
+
+"Though tearing High Lord Tarquin's silk would be poor economy," he murmured, tipping his gloved chin a fraction toward her white-knuckled grip at her collarbone, "when you walked out here holding it off your own breasts with two fingers and brought me the ribbon on the floor."
+
+He leaned back an inch against the carved chair-back, still not rising, his molten-amber eyes resting with cool, clinical distaste on the fine tremor in her wrists.
+
+"Did your governess in Hightower teach you that walk for Prince Julian's parlour?" Eris asked mildly. "She left out a detail. When a mortal tries to wield desire like a whip in a palace full of High Fae, every nose within thirty paces can smell what's actually coming off her skin. Right now you smell of salt behind your eyelashes and murder—and your hands are still shaking from slapping me. If you mean to play the temptress, stop vibrating like a drawn knife."
+
+Across the sunlit water outside her balcony, the preliminary bronze horn from the harbor gate sounded once—twelve minutes to first bell.
+
+"One open palm—entered alongside the fascinating news that you spent your private audience in High Lord Tarquin's stacks defending my character against my father's," Eris said evenly. "Caelum knocks on this door in twelve minutes. Fasten your left rib-hooks yourself before you drop Summer's silk on my boots. After that, you may turn around so my gloves can lace your back free of charge, state in plain words what you are offering for bare skin, or walk across the causeway trailing two yards of Vanserra gold behind your bare ass and let my brother and Summer's court guess why."
+
+With two gloved fingers, Eris reached inside his velvet breast pocket, drew out Tarquin's folded aquamarine dispatch, smoothed it open across his knee, and dropped his eyes to the chancery script—dismissing her cleanly from the center of her own bedroom.
+
+*Beneath the edge of the heavy vellum, out of sight, his left hand curled slowly until the dark calfskin creaked, while the fading print of her palm burned hot and unanswered along his cheekbone.*
+
+
+## T59 — Ruby (27 Nov 21:43 CET)
+
+Aurelie bit down on her own lip, hard enough to leave a mark, to stop herself from saying something even more spiteful. She felt the pain, and, to her own surprise, it calmed her. It felt… oddly good.
+
+"At least Prince Julian is the kind of man who would honour his lady, and not cut her dress to ribbons," she said, her voice full of disdain. "You know, I used to think it was your kind that was rotten. But now I know it's just you."
+
+She did up the hooks under her left arm with stiff fingers. Then she turned around and gave him her back.
+
+"Your hands are not worth paying for, when I could have your brother's if I smiled prettily enough. He is in the Guest Wing, after all."
+
+She was still furious. But she had noticed that Eris refused her a direct answer, and that this was an answer in itself. Part of her froze in fear at the thought that he really did want the dress off her. Part of her was furious. And part of her… no. That part she pushed down, because the last time she had let it rise, she had opened her mouth under his by that boulder.
+
+
+## T59 — Vesper (Eris)
+
+Over the top edge of Tarquin's parchment, Eris watched her white teeth sink hard into the fullness of her lower lip.
+
+A High Fae didn't need to cross a room to read blood and pulse. He caught the faint, sharp tang of iron the instant the skin bruised—and heard, with a flicker of dark, clinical arrest that had nothing to do with politics, the racing hammer of her heart *slow down* at the sting instead of speeding up.
+
+*Well, well.* He didn't move an eyelash. He simply filed that away in a locked drawer at the back of his skull.
+
+Then she hooked her side-seam with stiff fingers, turned on her heel right between the toes of his boots, presented him with the parted cerulean silk down her bare spine, and dropped Lucien's name onto the carpet between them.
+
+For three slow heartbeats, nothing behind her moved at all.
+
+No glib retort. No rustle of velvet. Only a silence thick enough to press against her shoulder blades.
+
+Then Tarquin's heavy vellum folded once with a crisp snap, slipped back into his breast pocket, and Eris stood up straight out of the chair.
+
+He didn't need to take a single step forward; she had planted herself close enough to his knees that his rising brought all six feet and two inches of him directly behind her bare back, blocking the late balcony sun until his shadow fell clean from her nape to her heels. Dark calfskin fingertips lifted the two trailing tails of burnished Vanserra gold from the floor and drew the top pair of eyelets together beneath her hair—precise, unhurried, never once grazing mortal skin.
+
+"Prince Julian's mother currently has three silver-tower carracks prowling the southern shoals, paying harbour-rats in gold coin to drag his runaway lady home in chains, Lilly," Eris remarked mildly above the crown of her head, threading the second and third crosses down between her shoulder blades with practiced, brisk economy. "Though I have no doubt he will keep your wardrobe immaculate once the cellar bolt slides home in Hightower."
+
+Silk whispered through heat-sealed eyelets—fifth, eighth, eleventh—drawing the sea-glass and cerulean charmeuse smoothly inward around her ribs. Cool black leather brushed only Summer's silk.
+
+Until he reached the fourteenth and fifteenth eyelets in the narrow curve above her waist.
+
+*If I smiled prettily enough. He is in the Guest Wing, after all.*
+
+Inside his chest, something ugly and five centuries old slammed hard against its bars at the picture of Lucien's scarred, gentle hands resting against the bare skin an inch beneath his knuckles. Eris kept his breathing dead-level and his face carved from frost, refusing it a syllable, refusing it a flinch—yet as he drew the sixteenth cross snug at the small of her back, one deliberate fraction tighter than Cresseida's seamstress had cut the bodice so that every breath she took pressed her ribs squarely against Autumn's cord, the gold silk ribbon sliding out from between his gloved palms settled against the bare hollow of her waist noticeably, unmistakably *hot*, like bronze left lying in noon sun, carrying the faintest dry trace of scorched beeswax off the leather before the air cooled again.
+
+"The Guest Wing is four hundred yards across the white bridge," Eris said, his baritone quiet and flat behind her right shoulder while his gloved fingers locked the ribbon into a flat double Vanserra hunting-knot above her tailbone—the exact knot a woman's own reach could never unpick, and any other man's fingers would know by touch in the dark. "When my brother walked you to the gatehouse last night, he left you on my side of the bronze bolt without laying a finger on a single loop. And if you care to smile prettily across High Lord Tarquin's soup tonight and ask him for his hands, by all means try—though unlike you on the salon rug last night, Lilly, Lucien has no stomach at all for what this ink costs when someone asks a plain question."
+
+He let both long gold tails fall cleanly down the cerulean skirt before the silk even finished settling, giving her zero linger to push back against.
+
+Two measured raps sounded sharply against the outer cedar door.
+
+*"First bell on the causeway, my lord,"* Caelum called through the panel.
+
+Eris turned smoothly away from her laced spine, crossed the bedroom in four unhurried strides, and drew the heavy cedar door open onto the amber-lit corridor, where Caelum stood waiting in brushed russet leather.
+
+"Dry the blood off your lower lip before you step into the light," Eris said over his shoulder without looking back into the room, holding the threshold open only for the count of a gentleman's courtesy. "High Lord Tarquin is waiting to seal the harbour—and at first light, the Guest Wing stays behind us in the salt."
+
+
+## T60 — Ruby (27 Nov 22:19 CET)
+
+The door stood open. He didn't look back, and she didn't move.
+The ribbon lay against the small of her back like a hand that had only just been taken away. It was cooling now, but she could still feel exactly where it had been hot. The bodice was a fraction too tight. Every breath she took, she felt his knot.
+Dragged home in chains. He couldn't lie to her. She hated that most of all.
+She touched her tongue to her lower lip and tasted iron, and there it was again, that small strange quiet. She decided not to think about it. She wiped her mouth with the back of her hand, because she would not walk into Tarquin's hall bleeding, and for no other reason.
+In the tall mirror by the door she caught sight of herself as she passed. Sea-glass and cerulean from collarbone to floor. And down the middle of her back, from nape to hem, two long tails of Autumn gold.
+Something stirred at the bottom of her mind, slow and warm and barely awake.
+{You are angry again,} Prince mumbled. {It woke me.}
+{Go back to sleep.}
+{What did he do?}
+{He cut my dress open with a knife.}
+A long, drowsy pause.
+{…Shall I eat him?}
+{Not tonight. Tarquin has guests.}
+{Mm. Tomorrow, then.} She felt him yawn, a hundred and sixty steps down, and resettle his chin on his tail. {Is the dress still blue?}
+{Yes.}
+{Good,} he said, and was gone again.
+It helped more than it should have. Aurelie lifted her chin and walked out past Eris without a word, and past Caelum, whose ears she carefully did not look at.
+The causeway was gold with the last of the sun. Below it the bay had gone the colour of the wine Lucien had poured for her, and across the gorge the whole palace was coming alight, lamp by lamp, window by window, until it looked like something that had been lowered out of the sky on strings. She could hear music before they were halfway over. Then voices. A great many voices.
+The Coral Houses. She had forgotten, in all of it, that tonight she was meant to stand behind his chair and pour.
+At the head of the stair two tall doors of sea-glass stood open, with light and noise pouring out between them. Aurelie stopped on the threshold, one pace ahead of the man whose knot she was wearing, and waited to be announced.
+
+
+## T60 — Vesper (Eris, Tarquin, Lucien & Lady Nerissa — The State Hall)
+
+Beside the tall sea-glass doors, a Summer herald in bleached linen and braided pearl struck the butt of his mother-of-pearl staff twice against the white marble.
+
+"Lord Eris Vanserra, Heir to the Autumn Court—and Lady Aurelie of his household!"
+
+Conversation rippled and thinned down the length of the vaulted State Hall. Above sixty lords and ladies of the Coral Houses, tiered chandeliers of glowing sea-urchin shell hung from curving limestone ribs, throwing warm amber light across open colonnades where the bay had deepened to plum-violet below. Near the musicians' gallery, the sea-harps dipped for half a measure as five dozen Fae faces turned toward the threshold—and took in the mortal girl stepping through first in Summer's own sea-glass and cerulean silk, parted down her bare spine from nape to waist and locked snug to her ribs with burnished Vanserra gold.
+
+Up at the great crescent high table of pale coral and mother-of-pearl inlay, High Lord Tarquin stood waiting in ceremonial sea-indigo and a narrow circlet of silver shell, Princess Cresseida at his right hand and Prince Varian half a pace behind.
+
+Four paces down the eastern curve of the dais stood **Lucien**.
+
+He wore brushed dark broadcloth, his long russet hair unbound over his shoulders, and at the herald's call his head came up fast—genuine, unguarded relief warming his scarred face at the sight of her standing whole and dry after the morning's flooded vault.
+
+Eris fell smoothly into step beside her elbow as they crossed the floor, inclining his copper-dark head to the watching Coral Houses with effortless, aristocratic grace.
+
+At the high table's western curve, a young Summer steward in shell-braid livery stepped briskly back from a cushioned white-oak guest chair beside Autumn's place, drawing it out for Aurelie with a bow.
+
+Without breaking stride, Eris lifted two dark-gloved fingers an inch.
+
+"Save High Lord Tarquin's silver setting, friend," Eris said pleasantly, loud enough to carry clear across the hushed inner arc of the dais. "Tonight Lady Aurelie keeps the household station behind my right shoulder."
+
+The steward froze with both hands on the chair-back.
+
+Three paces away, the warmth vanished from Lucien's face as if someone had thrown salt water across hot iron. The scarred side of his mouth pulled white and tight; in the sudden quiet, his bronze-gold Dawn Court eye gave a tiny, audible *whir* as its aperture narrowed onto the two long tails of Vanserra gold trailing down Aurelie's blue skirt, then snapped straight up to his eldest brother's profile in raw, furious disbelief.
+
+Lucien took half a step forward from the eastern curve—and stopped dead only when Cresseida's hand rose a fraction above the coral table-rim and Tarquin's turquoise-and-white gaze flicked once, calm and unreadable, to Aurelie's lifted chin.
+
+A second Summer server stepped silently out from the sideboard, bowed his head in awkward deference, and placed the heavy chilled flagon of hammered silver and sea-glass directly into Aurelie's hands, eighteen inches behind Eris's carved chair.
+
+Before a single lord or lady sat, Tarquin stepped forward to the treaty lectern at the apex of the crescent, where twin scrolls lay waiting beside two low bronze braziers.
+
+"Lords and Ladies of the Reefs and the Shoals," Tarquin's deep voice rang effortlessly to the farthest sea-arch. "Before we pour, witness the business of this harbour. At dawn ebb, the First Age plinth beneath our Drowned Archive was examined by Master Smith Maren and found answered by living resonance—no iron or shed plumage will be burned on the morning quay. In recognition of peaceful passage and fifty winters of mountain ship-timber from the Forest House, Summer sets its harbour wax beside Autumn's tonight."
+
+Tarquin lifted the heavy aquamarine signet from its cradle and pressed it squarely into the soft blue wax beside Eris's crimson-gold seal.
+
+Standing in front of his chair in midnight-charcoal velvet shot with ember thread, Eris inclined his head an exact, triumphant inch—every line of him the patient prince who had just locked up a southern coast.
+
+Tarquin didn't lift his fingers from the parchment yet. The aquamarine wax was still gleaming wet under the chandelier light when Summer's High Lord raised his head back to the sixty Coral House witnesses.
+
+"And because Lady Aurelie and her companion answered an ancient trust beneath our stones this morning," Tarquin continued seamlessly, "Summer's throne holds a lasting interest in seeing their road through the northern courts kept clear of mischance. At my request, **Lord Lucien Vanserra**—known friend to this house, to Velaris, and to the mortal marches—rides north in Lord Eris's column at first light as Summer's impartial observer."
+
+Out in front of five dozen Summer nobles, Eris Vanserra's face did not move by the breadth of an eyelash.
+
+Five centuries of surviving Beron's dining hall kept his pleasant, carved-ivory court smile fixed seamlessly in place.
+
+*Eighteen inches behind his right shoulder*, Aurelie had the only angle in Prythian that mattered.
+
+She saw the single razor-sharp jump of the tendon beneath the right hinge of his jaw. She saw his shoulders lock for half a breath under the ember-threaded velvet—ten minutes to the minute after *at first light, the Guest Wing stays behind us in the salt*—and felt a sudden, soundless wave of bone-dry furnace heat roll off the back of his high gold-clasped collar straight across her bare forearms around the chilled silver flagon before his iron discipline slammed the lid back down. Worse still, he couldn't refuse by a syllable: balking over wet harbour wax in front of sixty Coral House lords would announce to the entire coast that Autumn's heir wanted no honest witness on a dark mountain pass.
+
+Across the crescent, Lucien didn't miss the beat by half a second. The grim, tight line of his scarred mouth curved by a fraction as he inclined his head to Tarquin.
+
+"Gladly, High Lord," Lucien said clearly across the candles. "First light suits me well." For one brief, steady instant, his russet eye lifted straight past Eris's shoulder to meet Aurelie's.
+
+"Summer's solicitude for our mountain roads does you credit, High Lord," Eris answered, his court baritone smooth as oiled silk over broken glass. "Fortunately, my youngest brother already knows the pace of an Ashgrove baggage train."
+
+Tarquin gestured open-handed to the hall. Sea-harps and flutes swelled back up from the gallery; chairs scraped across white marble as sixty guests settled into billowing coral, pearl, and turquoise silk.
+
+And into the cushioned seat immediately on Eris's left glided **Lady Nerissa of the Coral Isles**.
+
+Tall, sun-gilded, with dark saltwater curls threaded in pale seed-pearls and a gown of whispering **sea-foam silk** slit nearly to the hip along one bare, long thigh, she brought a warm cloud of night-blooming jasmine and salt right up against Eris's elbow—making zero secret to the high table of why she had lobbied Cresseida's chamberlain for that chair.
+
+"Lord Eris," Nerissa purred, resting one bare, pearl-ringed forearm along the coral arm between their seats and tilting her sea-green eyes slowly up to his face. "Half the Reef Houses drew lots with the chamberlain for this cushion tonight. Do tell me the rumours about Autumn's frost are exaggerated."
+
+Eris took his seat with unhurried grace, turning the full, lazy warmth of his court *Fox* smile directly onto Nerissa.
+
+Then—right under Aurelie's eyes as she stood behind his right shoulder cradling three pounds of sweating silver—**Eris reached smoothly to his wrists, unhooked both gold cuff-studs, and drew his dark calfskin gloves off one slow finger at a time.**
+
+He laid the empty black leather neatly on the mother-of-pearl inlay beside the silver dish of honeyed split figs.
+
+With his **bare, ungloved left hand**, Eris reached across the chair-arm and brushed his warm knuckles lightly, unhurriedly along the bare skin of Nerissa's inner wrist as he leaned an inch into her jasmine perfume—handing a stranger in sea-foam silk in thirty seconds, free of charge, what he had priced out of Aurelie's reach.
+
+"Entirely exaggerated, Lady Nerissa," Eris murmured like dark claret. "Autumn keeps its warmth for company that knows how to ask for it."
+
+He didn't glance back at Aurelie. Not so much as a sideways flicker.
+
+He simply lifted his empty silver goblet two inches off the table with two bare right fingers, angled the rim toward his right shoulder, and waited for his cupbearer to step in and pour.
+
+"Chilled white from the reef-cellars, Lilly," Eris said lightly over his shoulder without turning his head from Nerissa's smile. "Don't keep Lady Nerissa's glass waiting."
+
+
+## T61 — Ruby (27 Nov 22:50 CET)
+
+Aurelie had already taken a step toward the chair the steward was holding for her.
+The household station behind my right shoulder.
+She stopped dead. He had said it the way one would mention where a coat was to be hung. Like she was his property. And by every practical measure, she realized, with sixty faces turned toward her, she was.
+She took the flagon when it was put into her hands. It was heavy and so cold that it hurt. She stood where she had been told to stand, stiff and silent, with the gold ribbon down her back for the whole hall to read.
+Then Tarquin spoke Lucien's name.
+From anywhere else in the room, Eris must have looked perfectly gracious. From eighteen inches behind him, she saw the tendon jump in his jaw. She felt the heat come off his collar, sudden and dry, like an oven door opening against her bare arms, and then gone.
+Aurelie smiled. It was a small, dark, satisfied smile, and she didn't trouble to hide it, since he couldn't see it anyway.
+Lucien's eye found hers across the table. She wished, fiercely, that she could walk around that crescent of coral and sit down beside him. But she stood, and held the pitcher.
+And then a High Fae woman glided into the seat on Eris's left.
+It took thirty seconds. Aurelie counted them. In thirty seconds the cold, cruel thing that had cut her dress open with a knife turned into someone she had never met: warm, and lazy, and charming, with a smile she had not known his face could make.
+Then he took his gloves off.
+She watched each finger come free. She watched him lay the leather beside the figs. She watched his bare knuckles brush the inside of that woman's wrist, lightly, as if it cost nothing at all.
+My hands do not come free of charge.
+Apparently they did. Only not for her.
+The goblet lifted over his right shoulder. Aurelie stepped forward and poured, slowly, careful not to spill a drop. She filled Lady Nerissa's glass after his. Then she stepped back to her place and fixed her eyes on the marble floor.
+She had survived three hours of this in front of his lords, at Ashgrove, in crimson wool. She would survive it here.
+She stayed silent while he charmed the woman with that low, warm voice, and the only thing that moved in her whole body was her mouth, pressing slowly into a thin line.
+
+
+## T61 — Vesper (Eris, Lady Nerissa & Lucien — The Un-Drunk Cup, The Scent Trap & The Reef-Waltz)
+
+For two unhurried courses—grilled reef-dorade in saffron butter, then roasted shore-pheasant with salted citrus—Eris did not look back at her once.
+
+Not a check over his shoulder. Not a tilt of his copper-dark head when her shadow fell across the mother-of-pearl inlay to refill a glass. Standing eighteen inches behind his velvet collar with frost-numbed fingers curved around hammered silver, Aurelie might as well have been one of High Lord Tarquin's carved limestone pilasters.
+
+All of his attention belonged, lazily and generously, to the High Fae woman on his left.
+
+From half a pace behind him, Aurelie got to hear what Eris Vanserra sounded like when he chose to be pleasant. There was no clipped steward's ledger in that voice, no courtroom ice. It was a low, unhurried baritone steeped in dark warmth and dry, sideways wit—turning southern shoal-charts, Coral Isle pearl-divers, and Cresseida's cellar vintages into an effortless private parlour game that had Lady Nerissa leaning closer into his shoulder with a low, breathless laugh every two minutes.
+
+Halfway through the pheasant, Nerissa rested her chin near his sleeve, trailed one pearl-ringed fingertip slowly around the silver rim of *Eris's* goblet, and lifted his cup to her own painted mouth for a slow sip over the honeyed figs.
+
+"Just to be certain Autumn's cupbearer doesn't save the sweeter press for her lord's glass," Nerissa murmured, setting his goblet back down beside his bare left fingers with the faintest crescent of berry-rose lip-stain on the rim.
+
+Eris rewarded her with an indulgent curve of his mouth.
+
+And he never lifted that goblet to his lips again.
+
+Four minutes later, while answering a remark from an older reef-lord across the coral curve without breaking rhythm, two bare right fingers nudged the two-thirds-full cup an inch forward toward the salt-cellar like finished tableware. A passing Summer steward cleared it without a word and set down fresh, untouched silver in its place. Only then did Eris angle the clean goblet back toward his right shoulder—drinking solely after Aurelie's hands, and nobody else's, had poured into it.
+
+As the stewards cleared the second course for chilled sea-pear sorbet, the sea-harps and shell-flutes high in the limestone gallery shifted measure into the slow, turning swell of a Summer tide-waltz. Down on the lower marble floor beneath the glowing urchin chandeliers, silk skirts belled out in cerulean, coral, and gold across the sixteen-point compass-star mosaic.
+
+Beside Eris, Lady Nerissa didn't spare a glance for the dancers.
+
+Beneath the curve of the coral table-arch—clean in Aurelie's line of sight from behind his right elbow—the hip-high slit of Nerissa's sea-foam silk parted smoothly down her long, sun-gilded thigh as she shifted sideways against Eris's knee.
+
+"Too many cousins counting footsteps down on that mosaic, my lord," Nerissa murmured under the swell of the harps, sliding her fingertips lightly over the back of Eris's bare left wrist on the chair-arm. "Tell me High Lord Tarquin didn't lodge Autumn's heir across the chasm bridge in nothing but cold rock and treaty maps."
+
+Eris didn't draw his hand away.
+
+Unhurriedly, right below the edge of the pearl inlay, he turned his ungloved left palm over beneath hers and slid his bare, warm hand down from the chair-arm to settle directly against the naked, sun-browned curve of Nerissa's hip where the sea-foam silk parted—his thumb resting slow and unbothered on bare High Fae skin, free of charge.
+
+Nerissa's breath caught in a soft, pleased shiver against his velvet sleeve.
+
+"The Salt-Arch Villa has a remarkably wide salon, Lady Nerissa," Eris murmured back, smooth as warmed claret. "And a sea-breeze off the cliff that improves considerably once the formal toasts are done."
+
+Only *then*—as his right hand reached half a foot back to rest his empty goblet beside the silver coaster—did Eris turn his head a fraction toward his right shoulder.
+
+One look. Nothing more.
+
+Molten amber flicked up once to Aurelie's thin-pressed mouth and the white-knuckled lock of her fingers around the sweating silver pitcher—clocking the hot, sharp jump of her pulse in the air behind his collar before turning smoothly back toward the candles.
+
+"Easy on the handle, Lilly," Eris murmured beneath the sweep of the sea-harps, pitched so quiet behind his shoulder that not even Nerissa caught a syllable. "Every High Fae at this table has a nose—and if the scent of your pulse gets any hotter behind my chair, Lady Nerissa is going to think my cupbearer minds where my bare hands spend the rest of the night."
+
+Before Aurelie could draw a breath through her teeth, a tall shadow fell across the mother-of-pearl inlay from the inner curve of the dais.
+
+**Lucien** had risen from his seat on the eastern arc and walked straight around the high table—not skulking in corridors, stopping squarely in the open court light in front of Cresseida, Nerissa, and two dozen watching Coral House nobles. His scarred face was schooled into crisp court civility, though his bronze-gold Dawn Court eye gave one tiny, lethal *whir* as it dropped for half a heartbeat to Eris's bare left hand at the slit of Nerissa's silk before lifting steadily to Aurelie.
+
+"High Lord Tarquin's harps are playing the Reef-Waltz, brother," Lucien said, his voice carrying cleanly across six cushions on either side. "And Lady Aurelie has been holding three pounds of iced silver since the harbour wax cooled. Even at Ashgrove, cupbearers set the pitcher down when the dancing starts—unless Autumn's heir means to tell Summer she isn't permitted five minutes off her feet?"
+
+Beside Eris, Lady Nerissa tilted her pearl-threaded curls back over Eris's left shoulder, her sea-green eyes sliding up and down Aurelie's cerulean gown and the Vanserra gold at her throat-nape with cool, catlike amusement.
+
+Eris didn't stiffen, didn't move his bare left hand a hairsbreadth off Nerissa's hip, and didn't close the door by half an inch. He simply leaned back into his carved oak chair, two bare right fingers turning the stem of the fresh goblet only Aurelie had filled.
+
+"Set the flagon on the sideboard whenever you like, Lilly," Eris said pleasantly over the rim, his court smile effortless under sixty pairs of eyes. "My youngest brother has been aching since the soup to show the Coral Houses his manners. Take a turn on High Lord Tarquin's compass-star—provided you are back behind my chair before the sorbet clears to walk Lady Nerissa and me across the bridge."
+
+
+## T62 — Ruby (27 Nov 23:14 CET)
+
+By the second course Aurelie had poured for him four times, and each time she had pictured it differently.
+The first time, she imagined missing the goblet and emptying the flagon into his lap. The second time, over his head. By the pheasant she had settled on the goblet itself, brought down hard on that immaculate copper hair, and the thought was so vivid that her fingers ached with it.
+She did none of it. She poured, and stepped back, and stood.
+She noticed that he sent one cup away nearly full after the woman drank from it, and only drank again once Aurelie had filled a clean one. She didn't know what to make of that. She was too angry to try.
+And then his bare hand slid down onto Lady Nerissa's thigh.
+It was fury she felt first, and humiliation, hot in her face. But underneath them something else flared up, sharp and unwelcome, and it took her a moment to name it. Jealousy. She was jealous. Of that hand, and where it was resting.
+The worst of it was that she didn't even have to wonder how it would feel. She remembered. A dinner table at Ashgrove, a slit in a green velvet skirt, and his palm burning on her skin while his brother sat an arm's length away.
+Heat went through her, low and treacherous. He turned his head and told her, softly, exactly what it smelled like.
+She would have given a year of her life to hit him with the pitcher.
+It was getting heavier with every quarter hour. Between the weight of it and the noise in her own head, she didn't see Lucien until he was standing right beside her.
+She hated that he was seeing her like this. But there was something she hated more, and it frightened her. Part of her didn't want to let go of the pitcher. It made no sense. Her arms were shaking. And still some small, stubborn, shameful part of her felt that setting it down would be the greater humiliation. As though she would rather be Eris's servant than Lucien's partner.
+She crushed the thought before it could finish.
+Aurelie curtsied to the back of Eris's chair and put the flagon down on the sideboard.
+"Thank you, my Lord. You are most charitable."
+She didn't know why she said it like that, low and meek. She didn't know why she liked the way it felt in her mouth, either.
+She turned to Lucien and took his arm.
+"Shall we dance? Or would you rather walk, and talk?"
+
+
+## T62 — Vesper (Eris, Lucien & Lady Nerissa — The Meek Curtsy, The Reef-Waltz & Lucien's Terrace Escape Hatch)
+
+*"Thank you, my Lord. You are most charitable."*
+
+Eris did not turn in his chair.
+
+Yet for half a heartbeat—small enough that neither Cresseida nor Lady Nerissa saw a thing—his bare right thumb stopped moving against the silver stem of the goblet Aurelie had poured.
+
+He knew every register of her anger by now. He knew her Hightower drawing-room venom, the flat wooden recital she used when she meant to starve him, the wild open-handed swing that had left her palm-print burning across his jaw an hour ago. That low, pliant drop of her voice behind his velvet shoulder belonged to none of them—and under the salt and jasmine at the high table, the treacherous heat in her blood hadn't cooled when she spoke it. It had kicked *sharper*.
+
+His head tilted a fraction toward the candles, the corner of his mouth curving by a hairsbreadth over his wine as if he had just heard a coin ring true on slate. He didn't look back as her fingers closed over his brother's dark sleeve.
+
+Beside her, Lucien looked once at the frost-white stiffness of her knuckles on his forearm, then out across the watching rows of Coral House silks.
+
+"Both," Lucien said quietly, covering her icy fingers briefly with his warm, scarred hand before guiding her straight down the three pale coral steps of the dais instead of ducking into a side colonnade. "If I spirit you behind a pillar like a scullery maid stealing five minutes off duty, sixty reef-lords only ever remember you holding his pitcher. High Lord Tarquin's harps are loud enough over the surf to drown us out in the middle of the floor—let them watch you take the centre of it first."
+
+Couples in sea-glass, coral, and spun pearl parted with murmurs of open curiosity as Lucien Vanserra led her straight onto the great sixteen-point sea-star mosaic at the heart of the marble floor.
+
+He bowed to her properly under the amber glow of the urchin chandeliers—no shortcuts, the full high-court reverence due a lady of sovereign standing—and stepped into waltz frame, taking her left hand gently in his warm palm so he didn't crush her silver-numbed fingers.
+
+Then his right hand came around toward her waist to take the lead—and met bare skin split clean down the spine and laced tight in sixteen crosses of burnished Vanserra gold.
+
+Lucien went dead still for half a step.
+
+His bronze-gold Dawn Court eye narrowed with a tiny, razor-sharp *click-whir*, dropping over her shoulder as they pivoted into the slow, turning swell of the Reef-Waltz. Five hundred years under the Forest House roof meant he didn't have to squint to recognize Fae-heat-fused silk that hadn't frayed, or the flat double hunting-knot locked above her tailbone.
+
+Immediately—careful, decent to the bone—Lucien shifted his right palm three inches higher and wider onto the intact cerulean charmeuse over her left ribs, refusing to press bare skin she hadn't offered him.
+
+"Tell me you caught a seam on the balcony iron, Aurelie," Lucien murmured beneath the sweep of the sea-harps and shell-fountains as he swept her smoothly through the first wide turn across the mother-of-pearl waves, "and not that my brother took a knife to High Lord Tarquin's silk just to thread Autumn's colours down your back."
+
+His single russet eye lifted back to her face—taking in the faint, dark crescent where her own teeth had broken her lower lip before dinner.
+
+"Gods above," he breathed, his jaw tightening beneath the long scar. "Tarquin asked me an hour before the harbour wax whether I had business urgent enough in Velaris to turn down a northern saddle at dawn. After watching Eris plant three pounds of iced silver in your hands like an Ashgrove footman—and seat Nerissa of the Outer Atolls on his bare left hand just to turn the screw—wild wyverns couldn't drag me off that road tomorrow."
+
+Through a parting gap of cerulean and gold skirts as the waltz carried them past the inner arc of the compass-star, the raised coral dais came cleanly back into view.
+
+Up under the candlelight, Eris still hadn't glanced toward the dance floor. He was leaning lazily on one elbow while **Lady Nerissa** leaned right into his left shoulder, whispering something against the line of his jaw—except Nerissa's cool sea-green eyes weren't on Eris at all. They were resting straight down on Aurelie across the marble with slow, measuring amusement, while Eris's bare left thumb traced a single unhurried arc against the silk at Nerissa's hip.
+
+Around the high table, Summer stewards in bleached linen were already stepping forward to clear the last silver sorbet dishes.
+
+Lucien saw them too. His warm hand tightened by a fraction—protective, never caging—around Aurelie's thawing fingers as he guided her toward the outer western arch of the dance floor, two paces from the open colonnade leading toward Princess Cresseida's moonlit sea-terrace.
+
+"Listen to me before the silver clears," Lucien said low and fast under the final falling cadence of the sea-harps. "Lady Nerissa isn't some sheltered harbor debutante. She holds three pearl-tariff seats in the southern Isles, she takes what amuses her, and she isn't walking across that chasm bridge tonight to inspect treaty maps. Eris only set that sorbet leash on you because he expects you to trail behind them like household luggage and stand outside a closed salon door in the Salt-Arch Villa."
+
+The harps drew out their last shimmering chord over the surf. Across the mosaic, dancers began bowing apart.
+
+Up at the crescent table, Eris set his empty silver goblet down once on the mother-of-pearl inlay. Without looking down at the floor, he picked up both dark calfskin gloves from beside the fig dish in one bare hand—*leaving them un-worn*—as Lady Nerissa rose fluidly beside his chair in sea-foam silk, smoothing the high slit over her thigh and waiting.
+
+Lucien didn't drop his arm. He stood squarely between Aurelie and the three coral steps of the dais, offering her the open arch toward the sea-terrace.
+
+"Your bargain ink binds you to ride in his column at first light—not to hold a candle for his bedchamber tonight," Lucien said quietly, his gaze steady on hers. "Don't go back behind his chair, Aurelie. Say one word right now, and I'll walk you out onto Cresseida's east terrace with Varian's guard on the stair until your dragon wakes at dawn."
+
+
+## T63 — Ruby (27 Nov 23:37 CET)
+
+Aurelie didn't miss a step.
+
+"I could tell you that," she said, when he asked about the balcony iron. "If it muffles your conscience."
+
+She let him turn her through the waltz. He was easy to follow, and careful where he put his hand, and she was grateful for both.
+
+Over his shoulder the dais came round again: Eris leaning on one elbow, Lady Nerissa's mouth at his jaw. She looked at them, and she heard Lucien's offer, and part of her ached to take it. A terrace. Guards on the stair. One evening in which nobody owned her.
+
+"That is tonight," she said bitterly. "And what about tomorrow at dawn? Or two days after that?"
+
+She went quiet for one full turn.
+
+"If he means to take her to his bedchamber, then so be it. I am not his mother, and I am not her governess." Her jaw set, viciously. "But I won't make it easier for him by staying away, so that he can have the whole villa to himself."
+
+The last chord of the harps hung over the floor and died. Around them the dancers were bowing apart. Aurelie looked up at Lucien.
+
+"I am very glad you're riding with us. Selfishly, mind you, because I suppose it will cause you some anguish. But it will be good to have someone there who actually knows what honour is."
+
+She glanced once at the high table, to be sure it had a clear view of them.
+
+Then she rose on her toes and kissed Lucien on the cheek. It was gentle, and chaste, and entirely unmistakable, in the middle of High Lord Tarquin's floor with sixty reef-lords looking on.
+
+"I need to go back," she said.
+
+She turned and walked toward the three coral steps, toward Eris and Lady Nerissa, with her chin high and her hair bouncing against her bare back at every step.
+
+
+## T63 — Vesper (Eris, Nerissa, Lucien & Caelum — The Cheek-Kiss, The Chasm Bridge & The Chaise in the Great Salon)
+
+Out on the sixteen-point sea-star, Lucien froze for half a breath where her lips brushed the warm skin just below his cheekbone scar.
+
+His hand lifted an inch at his side—instinctive, almost boyish in its surprise—before settling cleanly back against his dark coat as she turned away. Neither his russet eye nor the silent golden aperture beside it left her spine as she crossed the marble alone.
+
+Around the floor, conversation among five dozen Coral House nobles dropped thin enough to hear the surf booming fifty-five metres below the open colonnades. Every jeweled head turned in unison from Lucien Vanserra's scarred cheek straight up to the western curve of the coral dais.
+
+Eris did not flinch.
+
+He had caught the flick of her blue eyes checking the sightline of the high table half a second before she went up on her toes. Down at his thigh, his bare right fingers did not tighten on the unworn calfskin gloves; his side of the Ember Script stayed bolted shut like cold iron, and he despised the brief, sour knowledge that a nineteen-year-old's theatrical peck across forty feet of marble had required him to check the lock at all.
+
+Beside his left elbow, **Lady Nerissa** let out a soft, musical purr of laughter, curling her pearl-ringed fingers lightly over Eris's bare left wrist before sliding her hand into the crook of his velvet sleeve.
+
+"How sweet, my Lord," Nerissa murmured in a voice pitched to carry across the hush at the foot of the steps, jasmine perfume lifting warm off her throat. "Your household seems remarkably fond of your younger brother's company."
+
+Eris didn't spare a single glance down the floor toward Lucien. Instead, he inclined his copper-dark head once across the mother-of-pearl arc toward High Lord Tarquin and Princess Cresseida—unhurried, immaculate court grace.
+
+"Our thanks for Summer's table and Summer's harbour wax, High Lord," Eris said smoothly. "First light comes early on the northern road."
+
+Only as Tarquin answered his bow did Eris's amber gaze drop once—flat, clinical, completely unbothered—onto Aurelie as she reached the top coral step. His eyes flicked from the high tilt of her chin past the faint dark crescent on her bottom lip, lingered nowhere, and turned away as he guided Nerissa toward the tall sea-glass doors.
+
+"Fondness for strays runs in Hightower nurseries, Lady Nerissa," Eris remarked conversationally over the rustle of sea-foam silk—and without looking back to see whether Aurelie fell in behind his right shoulder: "Two paces back, Lilly. Mind Lady Nerissa's train on the bridge."
+
+***
+
+Four hundred yards of white limestone spanned the black gorge between the palace and the cantilevered **Salt-Arch Villa**.
+
+Warm night wind blew steadily off the bay, tugging at the two long tails of Vanserra gold trailing down Aurelie's blue skirt while reef-lanterns threw pools of amber across the stone ahead of her. Two paces in front, Nerissa walked pressed lightly against Eris's charcoal-and-ember sleeve, her pearl-threaded curls brushing his shoulder whenever she tilted her head up to murmur something that drew that low, lazy courtier's chuckle from his chest. All the way across the chasm, Eris's **bare left fingers** rested openly over Nerissa's knuckles in the crook of his elbow, while his dark gloves swung unworn from his right hand—carrying the living answer to Aurelie's Night One taunt straight across their own threshold.
+
+At the narrow **Gate Hall** bottleneck inside the cliff-arch, **Caelum** rose automatically from the armoury bench in his flat-soled boots. His russet fox ears pinned flat for half a second as he clocked the Coral Isles noblewoman on Eris's bare arm and Aurelie walking two paces behind in knife-split cerulean silk. Catching himself instantly, Caelum dipped his chin without a word and stepped past them to slide the heavy causeway bar home.
+
+Ahead lay the vaulted limestone expanse of the **Great Salon**.
+
+Sea-arch lamps burned low along the open arcade above the infinity pool, throwing slow, silent ripples of water-light across the high curved ceiling—right between the carved archway of Eris's **North Suite** on one side and the closed double doors of Aurelie's **South Suite** directly across the echoing stone floor on the other.
+
+Eris did not take Nerissa through the north archway.
+
+Stopping beside the pearl-inlaid ring at the centre of the rug, he released Nerissa's hand with an unhurried brush of his bare thumb across her wrist and gestured toward the low **velvet chaise** set beside the sea-arch lamps.
+
+"Make yourself comfortable for sixty seconds, Nerissa," Eris said warmly. "The decanters on the low table are Cresseida's spiced white."
+
+Nerissa sank onto the velvet chaise in a liquid whisper of high-slit sea-foam silk, draping one bare elbow along the bolster. She didn't reach for a glass. She simply folded her pearl-ringed fingers over one bare knee and rested her cool sea-green eyes straight on Aurelie with a quiet, catlike little smirk.
+
+Three paces from the chaise, Eris turned back toward the middle of the rug—and lifted the **dark calfskin gloves** he had left off for two hours at Tarquin's table.
+
+Slowly, methodically, he drew the dark leather back on **finger by finger**, smoothing each seam flat over his knuckles before fastening both gold wrist-studs with two crisp, distinct *clicks* in the quiet stone hall.
+
+His amber eyes lifted to Aurelie's face, cold as winter slate.
+
+"Turn around on the rug, Lilly," Eris said evenly. "Stewardship of High Lord Tarquin's silk comes before the villa retires—and since my brother was far too honourable on the dance floor to put a hand near that knot on your spine, you won't be getting out of it by yourself."
