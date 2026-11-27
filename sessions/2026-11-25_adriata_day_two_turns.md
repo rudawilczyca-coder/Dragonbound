@@ -494,3 +494,301 @@ His gaze cut once toward the blinding blue square of the Seaward Flood-Arch thir
 Back on the threshold ledge, Varian remained faithfully where he stood above the top step, hands empty at his sides as he spoke softly across the water to Aurelie's bowed shoulders:
 
 "Only my cousin can answer for Summer's crown, Lady Aurelie—he will be at the grate himself inside five minutes," Varian said, genuine respect roughening his quiet baritone as he looked at the exhausted dragon resting in her lap. "Fresh catch from the weirs is on its way down the shaft if it will help him mend his strength before the tide rises."
+
+
+## T52 — Ruby (27 Nov 16:40 CET)
+
+The coat came down over her shoulders before she understood what he was doing. It was dry and heavy and far too warm, and it smelled of cedar and smoke. An hour ago she would have shrugged it off into the water.
+
+But she was soaked to the waist and shaking, and she couldn't hold Prince's head if her arms gave out. So she left the coat where it was, and said nothing, and hated how much that cost her.
+
+The cold was leaving the pool too. She felt it going, from her knees outward, until the water lapping at Prince's belly was as warm as a bath.
+
+{Make him stop,} Prince said faintly.
+
+{He's trying to help you.}
+
+{He is trying to warm me. It was not the cold that emptied me, Little One. The cold was the only pleasant thing in this cave.} A weak, irritable huff stirred the surface. {I feel like a fish in a soup pot.}
+
+{I'll tell him. Now don't talk. Rest.}
+
+{I must tell you this first. While he cannot hear.} His eye opened a slit, azure and dull. {The stone showed me something. A feather would not have woken their great wall. Not burned, not whole. A dead piece of me carries nothing. They need a living voice.}
+
+Aurelie's hand went still on his neck.
+
+{So there is nothing to pay on the anvil.}
+
+{Nothing that would work. But I can come back. When I am grown, I can sing every stone under this city.} A slow breath stirred the water. {That is the true offer. I would rather give it to the High Lord himself. Not here. Not in front of the one who counts everything I do as his.}
+
+She didn't look up at the tall shape standing between them and the stair. She could feel him there all the same.
+
+{He told me the ink forbids side-bargains,} she said.
+
+{Then it is not a bargain. I ask nothing for it. A gift cannot be a debt.}
+
+{And until the loggia?}
+
+{Until the loggia we say nothing more. To anyone.}
+
+{Agreed.}
+
+His eye slid shut again. She stroked the damp feathers of his mane until his breathing deepened.
+
+"He says to stop warming the water," she said quietly, without turning her head. "It wasn't the cold that drained him."
+
+Then she looked up toward the ledge and made her voice steady.
+
+"Thank you, Prince Varian. He will take the fish gladly." She hesitated. "And he would like me to tell you that he has never been this hungry in his life."
+
+## T52 — Vesper (Eris, Varian, Maren & Tarquin)
+
+The heat under the basalt died between one heartbeat and the next.
+
+Eris didn't ask why. At the first syllable, he shut the banked furnace beneath his boot-soles clean off, letting the cold turquoise wash from the deeper channels slide back around his ankles and across the slack pale curve of Prince's ribs.
+
+*Stop warming the water.*
+
+Five hundred years of First Age bestiaries in the Forest House vaults, and not one parchment recorded a fire-drake that preferred freezing salt brine on an empty belly. He filed the discrepancy behind his teeth alongside two others: the heavy charcoal wool she still hadn't thrown off her shoulders into the pool, and the ten full seconds just prior when her hand had gone dead still against the dragon's neck while she stared straight ahead at nothing.
+
+"Ten seconds with your hand frozen on his scales, and all you bring back up is a dining request," Eris murmured to the wet crown of her hair, pitched low enough that the surf rolling under the seaward arch swallowed every word before the ledge. "Keep the hem out of the brine, Lilly. Whatever the pair of you just decided not to tell me had better survive ten minutes with his cousin."
+
+Up on the dry limestone threshold, Varian's grave soldier's mouth broke into a brief, genuine flash of white teeth.
+
+"On that score, Lady Aurelie, half my harbor garrison could claim kinship with him after a dawn watch," the Summer prince answered, clear relief warming his baritone. "If two baskets fall short, the palace weirs are fifty yards up the cliff."
+
+As if on cue, hurried boots and the wet creak of willow echoed down the limestone chimney behind the Tide-Lock—halting obediently behind the raised bronze grate without a spear-shaft or belt-knife in sight. Corso ducked low beneath the dripping bronze teeth carrying two heavy wicker creels alive with fat, silver-scaled sea-bream fresh from the weirs, setting both down beside Varian's boots before backing smartly against the eastern wall to clear the stair.
+
+A second pair of footsteps came down the wet rock right behind him, unhurried and unguarded.
+
+High Lord Tarquin stepped out onto the dry threshold bareheaded, salt-damp white linen open at his brown throat beneath a sleeveless sea-turquoise surcoat darkened at the hem from the shaft. He had brought no ceremonial guard and no trident—and for one full breath at the edge of the stone, the young High Lord of Summer stopped dead.
+
+His summer-sky gaze went first to the First Age plinth beside the grate, where two winters of Hybern's black scorch had vanished and a steady vein of living silver burned from crown to base; then down into the flooded vault to twenty-four feet of white-and-ice-blue feathered dragon lying spent in the turquoise shallows, horned jaw cradled across Aurelie's soaked white-and-blue silk beneath Eris Vanserra's coat.
+
+Varian bent at once, hoisted the heavier dripping creel by both rope ears, and carried it down to the lowest dry limestone tread—stopping cleanly at the water's lip.
+
+Eris was already there. Before Varian's boot could test the brine, Autumn's heir stepped half a pace to the stair, hooked the wet hemp handle in two dark-gloved fingers—ruining good Forest House calfskin on weir-slime without a flicker of expression—and waded two unhurried strides back to set the brimming basket onto the submerged basalt rib right beside Aurelie's knee, where silver tails slapped furiously against soaked willow.
+
+"Mind the coat sleeves when he snaps," Eris said flatly, stepping back to his post between the stair and Prince's shoulder without looking down at her.
+
+Back beside the glowing plinth, old Maren looked up from her knees as Tarquin's shadow fell over the lantern.
+
+"It isn't glamour, my Lord," the silver-braided smith whispered, pressing two reverent fingers an inch from the bright seam. "He drew the rot clean out of the cleft and sang the outer mole awake through forty meters of cliff. Only..." Her weathered throat worked once, her gaze darting nervously past Eris's soaked shirtsleeves to the dragon's closed eye. "The lock-vein isn't keyed to Summer's bloodline anymore. The stone bound itself to the voice that mended it."
+
+Two paces seaward of Aurelie's shoulder, Eris went completely still.
+
+Not a muscle in his jaw moved, and not a spark leaked into the cold brine around his boots, though his amber eyes cut once—sharp as an adder's strike—to the silver vein pulsing quietly in Summer's oldest foundation-stone before settling on Tarquin's face.
+
+Tarquin did not reach for magic, and he did not glance at Varian's empty scabbard. For a long moment he studied the bright silver seam in his ancestors' rock, then walked slowly down to stand beside Varian on the lowest dry step above the pool, hands open at his sides as white foam licked an inch higher across the Outer Basalt Sill thirty feet to seaward.
+
+"Corso gave me your companion's word on the stair, Lady Aurelie," Tarquin said quietly, his deep voice carrying clear and unforced beneath the boom of the surf. "He mended a wound my smiths thought dead for good, and his promise regarding the trench is enough for this floor. Let him eat first—there is no iron on this stair, and the second basket is right behind it."
+
+His turquoise-and-white eyes rested on Prince's slack feathered wing in the rising water, then lifted directly to hers—open, grave, and far more dangerous to Eris Vanserra's ledger than a drawn spear.
+
+"The bay will be over that outer sill inside the hour, and this shaft won't pass his shoulders," Tarquin said. "Tell me what he needs from us to get clear of this vault safely."
+
+
+## T53 — Ruby (27 Nov 17:21 CET)
+
+{They fuss over me as if I were a hatchling,} Prince grumbled.
+
+{Technically… you are.}
+
+He didn't dignify that with an answer. He only raised his head off her lap.
+
+Aurelie got to her feet, holding Eris's coat closed with one hand, and stepped back to give him room. Prince pushed himself up onto his forepaws, wings still trailing in the water, and lowered his muzzle into the basket. The bream went in whole. For a while the only sounds in the vault were the surf outside and a wet, steady crunching that made the young warden on the ledge go faintly green.
+
+When the basket was empty, he lifted his head and looked toward the bright square of the arch.
+
+{I need twenty more minutes. Perhaps fifteen. If I can take off before the water over that sill is too deep to beat my wings properly, I will be fine.}
+
+"He needs a quarter of an hour, High Lord, and the second basket," Aurelie said. "And a clear sky outside the arch. As long as he can take off before the sill is too deep for his wings, he'll manage it himself." She hesitated, then made herself go on. "And I would ask one more kindness. The quay and the anvil. Could they wait until tomorrow? He has nothing left to give today, and I would rather he slept."
+
+He did manage it himself.
+
+Seventeen minutes later the tide was foaming shin-deep across the black basalt, and Prince walked out through it on his own four legs, shook the water from his feathers, and opened his wings to the full width of the arch. For one moment he blotted out the whole sea. Then he dropped off the sill, caught the wind low over the rollers, and climbed, slowly at first, then steadier, a white shape growing smaller against the blue until he banked north toward the Salt-Arch and was gone.
+
+Aurelie let out a breath she felt she had been holding since dawn.
+
+The rest was stairs, and the causeway, in wet sandals and a coat that wasn't hers.
+
+The webbed-fingered tirewoman was waiting in the Gate Hall when she came in. She took one look at the white silk, stained grey with seawater to the waist, and clicked her tongue. Then she ran both hands down the skirt without quite touching it. Aurelie felt a breath of warm, dry air, like standing in front of an oven door, and the salt lifted out of the cloth in a fine white dust and was gone. The blue came back as deep as it had been at dawn.
+
+"There, my lady. No need to change at all."
+
+Aurelie thought of four Autumn gowns folded in a trunk, and of the order she had been given that morning about where this one was to go.
+
+"No," she agreed. "No need at all."
+
+She took off the coat, folded it once, and left it on the limestone bench under the oculus.
+
+By early afternoon she was in the upper archives of the palace. Caelum had walked her there in silence and taken up his post outside the doors. Inside it was dry and quiet, and the harbor might have been a hundred miles away. She sat at a long table under a tall window, with a sea-chart weighted open at one elbow and a bestiary at the other. The painted dragons in it looked nothing like hers.
+
+She was frowning at one with six legs and a beard when she heard a door open, somewhere behind the stacks. It wasn't the one she had come in by.
+
+## T53 — Vesper (Tarquin)
+
+The latch clicked shut with a soft, muffled thud—swallowed almost immediately by the dry, cedar-scented hush of the Archive's preservation wards.
+
+Footsteps came unhurriedly down the narrow aisle between two towering tiers of rolled First Age charts: bare leather soles rather than soldier's boots, quiet on the pale coral flagstones.
+
+When Tarquin rounded the end of the cedar stack into the slant of afternoon sun beneath the tall window, he had changed out of his salt-damp morning surcoat into a simple tunic of bleached sea-linen left unclasped at the collar, silver-white hair tied loosely back at his nape with a leather thong, no crown on his brow and no rings of office on his brown hands. Only a slim brass pocket-glass—an ordinary harbor-master's sand-timer—rested between his fingers.
+
+He stopped at the far end of her reading table rather than crowding her bench, his turquoise-and-white gaze touching the bay-blue silk she hadn't changed out of with a brief, warm flicker of genuine amusement before dropping to the illuminated page beside her elbow.
+
+"A Day Court chronicler drew that one four centuries ago," Tarquin observed, his deep voice pitched to the quiet room. "He never came south of the river-mouths. According to my grandfather's margins, he paid two drunken pearl-divers a silver mark apiece to describe a reef-eel in a fog and added legs until the page looked expensive."
+
+Walking slowly around to the opposite side of the wide cedar table, he set the little brass sand-glass down upright beside the lead chart-weight—turning it once so the pale coral sand began to whisper from top bulb to bottom.
+
+"Your scout outside the bronze doors knows I'm here," Tarquin told her plainly, pulling out the high-backed scholar's chair across the width of the table from hers so the sunlight lay open between them, neither trapping her against the window nor standing over her. "Varian gave him word that I was taking my ten minutes here rather than dragging you out onto a public loggia with half the Coral Houses watching from the lower colonnade. And the dry-wards in these stacks were woven to keep salt-rot and eavesdroppers out in equal measure—neither Lord Vanserra nor my cousin Cresseida can hear a breath past that cedar."
+
+He rested both forearms lightly on the warm wood, open-palmed, studying her face—and, for a single grave beat, the bare length of her left arm where the black-and-ember Vanserra script lay dark against her skin.
+
+"Eris told you what I asked of him last night," Tarquin said—half statement, half quiet check. "He wants Summer's seal behind him when Beron's chair empties, and my ports shut for three days against his brothers' hired sails. On paper, his timber clauses are the cleanest bargain Autumn has offered this coast in three hundred years."
+
+His summer-sky eyes lifted straight to hers—clear, unhurried, without a trace of Lucien's helpless pity or Eris's ledger-keeper calculation.
+
+"What isn't on paper," Tarquin said quietly, "is that his entire argument rests on my court believing the last living dragon in the world flies under Autumn's leash because of the ink on your arm. Last night at my table, with four witnesses listening, you gave him the only answer a woman wearing a Bargain can safely give in public."
+
+A finger's breadth of pale sand whispered down through the glass between them.
+
+"There are no witnesses in this room, Aurelie, and nothing spoken here leaves it," he said, using her real name as naturally as he had the night before. "Before I put Adriata's ships behind Beron's heir—and before my cousin sets an anvil on the quay tomorrow morning for a toll Maren tells me your companion's voice has already outgrown—tell me the truth. Are you backing Eris Vanserra's crown because you choose to, or are you simply waiting for a harbor where that mark can't reach you?"
+
+
+## T54 — Ruby (27 Nov 18:28 CET)
+
+Aurelie had almost forgotten, on the road, how much she missed the quiet of a library. This one was nothing like the library at Ashgrove. The tomes were different, the cataloguing system was different, even the parchment had a different grain. It smelled of dust and old vellum, and most importantly, there was no Lord Eris Vanserra in sight.
+
+She spent the whole of midday and into the afternoon poring over tomes, while Prince slept off his morning's work in his cave under the Salt-Arch Villa. She was alone and no one bothered her, and it would have been one of her best afternoons in Prythian, if only she had found something more than the same vague legends she had seen at Ashgrove, only a shade more specific than the ones she had read at home in Hightower.
+
+She heard the steps and let herself finish the sentence before she rose and curtsied to the High Lord. She took her seat again when he chose to sit on the opposite side of the table.
+
+She saw the sand-glass, and knew immediately that he hadn't come only to talk.
+
+"High Lord, my dragon told me never to lie to you, and I'm not about to start now. I have no sympathy for Lord Eris. He thrust the bargain upon me on the third night I spent under his roof, when I knew nothing about your land and its laws. He bound me and my dragon into servitude, and there isn't a day I don't wish I could wipe this mark off my arm."
+
+She looked at her own forearm, wincing slightly.
+
+"But I do think he will be a better High Lord than his father. Which, I realize, is a low bar. But it is a bar nonetheless. He won't be a kind ruler, or a soft one, but he will be efficient and—"
+
+She broke off for a second, considering her words, as if she wanted to make sure that what she said was absolutely true.
+
+"Once he strikes a deal, he keeps his end of it. He won't cheat you out of whatever timber clauses you agreed upon."
+
+
+## T54 — Vesper (Tarquin)
+
+Tarquin did not interrupt her once—not even during the beat where she stopped to weigh her own words before spending them.
+
+Only when she spoke of the third night under Ashgrove's roof, and her gaze dropped with that small, involuntary wince to the dark script coiled up her bare inner forearm, did something harden across the young High Lord's mouth. It wasn't Lucien's haunted, helpless guilt. It was the quiet, flash-lit anger of a ruler who had spent the first decade of his reign tearing old High Fae predation-clauses out of Summer's lawbooks—watching what another court's heir had inked onto an unwarned nineteen-year-old stranger behind closed doors.
+
+Yet when she finished, the guarded stillness in his shoulders eased by a clear inch.
+
+"Do you know why I believe you?" Tarquin said quietly, one brown hand resting unmoving beside the lead chart-weight. "Last spring, the last visitors who came to Adriata wanting something from my vaults sat across from me at dinner, praised my harbor, smiled like old friends, and robbed my court blind before the week was out. If you had walked in here today and told me Eris Vanserra was a misunderstood nobleman who meant well by you, I would have walked back down the stair and told Varian to double the harbor chains."
+
+A faint, wry crease touched the corner of his summer-sky eyes—brief, warm, and wholly genuine—before his expression sobered again.
+
+"Most travellers kept inside Ashgrove's wards only ever hear what Beron is from tavern talk," he observed, catching the exact weight of that half-second pause before *keeps his end of it* without prying it open against her will. "You didn't speak like someone repeating a rumor."
+
+Between them on the cedar, nearly half the pale coral sand had whispered down into the lower bulb, muffling the afternoon silence in a fine, dry hiss.
+
+Tarquin glanced once at the glass, then back to the dark-and-ember mark on her left arm.
+
+"You also just answered what my cousin Cresseida asked him last night after you left the terrace," he said plainly. "Ink like that only holds until its terms are met. If you wish it off your skin every morning you wake, then the hour that bargain burns out, neither you nor your dragon belongs to Autumn anymore."
+
+He leaned forward slightly across the sunlit wood—not closing the space, only making certain every syllable landed clean between the two of them.
+
+"I will not insult you by offering a second leash to cure the first," Tarquin told her. "Hear me plainly instead, Aurelie Delacroix. Whenever that mark fades—tomorrow, next winter, or ten years from now—if you or your companion ever cross Summer's tide-markers looking for quiet water, my harbors are open to you. Neither Autumn's throne nor Queen Ismena's hulls will take either of you off my stones against your will. You owe me no treaty for that."
+
+His fingertips brushed the warm brass rim of the sand-glass—not turning it back, only marking the half that remained.
+
+"Which leaves tomorrow morning on the quay," Tarquin said, his deep voice dropping a shade quieter inside the cedar hush. "Down in the pool, you asked me to put off the anvil so he could sleep, and I gave you the day in front of Eris so nobody could press you on the steps. Now there is no Vanserra in the room."
+
+His turquoise-and-white gaze held hers—steady, sharp, and entirely clean of guile.
+
+"Old Maren spent an hour beside that plinth after your dragon flew north," he said. "Forty winters of Summer smiths thought a cast scale hammered cold on iron would wake the First Age reef-locks because none of them had ever heard a living throat sing to the stone. Maren tells me a dead feather burned in salt-fire tomorrow morning won't wake a yard of my outer harbor wall—it will only put on an expensive show on the dock so Lord Vanserra can point to the smoke and ask for my seal before noon."
+
+Tarquin opened his empty palm on the table between the bestiary and the running glass.
+
+"Before I have Cresseida haul iron and salt-braziers down to the water at dawn," he asked quietly, "tell me the truth your dragon told you not to lie about. What did he actually intend to give me on that quay?"
+
+
+## T55 — Ruby (27 Nov 19:13 CET)
+
+Aurelie looked at the open hand on the table, and then at the High Lord it belonged to.
+
+Quiet water. A harbor nobody could take her from. It was the kindest thing anyone had offered her since she crossed the Wall, and for one unguarded moment she wanted it so badly that her eyes stung.
+
+She made herself think it through anyway. Eris had taught her that much.
+
+"Thank you for the offer, High Lord. You frame it more kindly than he frames his demands. But we both know it isn't only generosity that makes you say it." She said it gently, without any heat. "I understand that every High Lord in this land is going to want my dragon either in his court or dead. I do prefer the first to the second. And so I am grateful. Truly."
+
+The sand hissed in the glass between them.
+
+Then he asked his question, and she was almost relieved. She had been carrying the answer since the water.
+
+"Your smith is right. Neither a scale nor a feather from my dragon would bring your ward-stones to life. He understood that the moment he touched the one in the vault." She folded her hands on the open bestiary, over the dragon with six legs. "So there was never going to be anything on the anvil. But he would like to make you an offer in its place."
+
+She chose the next words as carefully as she had ever chosen anything.
+
+"It is a promise, not a bargain. He wants nothing from you for it, and he asks me to say that plainly. He cannot wake your great keystone now. He is too young, and this morning nearly emptied him. But he promises you this: once he is grown, and his power lets him do it without risking his life, he will come back to Adriata. Whichever High Lord we happen to be indentured to at the time." A corner of her mouth lifted, without much humor. "And he will wake more than the archive stone, and more than the keystone in your harbor. He will sing the whole network awake, every stone under this city, so that no fleet ever breaks into your bay again."
+
+She let out her breath.
+
+"That is what he meant to give you. He wanted you to hear it without Lord Eris in the room, so that nobody could count it as Autumn's coin."
+
+
+## T55 — Vesper (Tarquin, Caelum & Eris)
+
+At her gentle, clear-eyed assessment of his harbor offer, Tarquin didn't bristle or reach for a courtier's denial.
+
+Instead, a brief, rueful respect flickered across his mouth. He inclined his silver-white head a measured inch to concede the hit before drawing his open hand slowly back onto the sunlit cedar.
+
+"Fairly struck," Tarquin murmured. "Two summers ago I stood on the palace roof and watched Hybern's hulls burn my outer harbor down to the waterline while three thousand of my people choked on the smoke between the docks and the cliffs. No High Lord sitting over open water looks at a living dragon and sees only a guest." His turquoise-and-white gaze stayed level on hers. "Yet there is still a wide sea between wanting a friend on my coast and putting iron—or ink—on his throat to keep him here. Remember the difference if the northern courts turn cold."
+
+Then she laid Prince's promise on the table.
+
+Along her bare left forearm, the black-and-ember Vanserra script did not stir by so much as half a degree. No bargain had been struck; no price had been asked or traded behind Autumn's back. To the ancient magic coiled in her skin, she had only carried the weather.
+
+Across the cedar, Tarquin went utterly still.
+
+For three full heartbeats, the thin whisper of coral sand slipping down the glass sounded loud in the sunlit hush between the stacks. It wasn't a High Lord's calculated pause; it was the sudden, unguarded quiet of a young ruler who still woke up some nights smelling burning pitch in his own bay, hearing that the First Age shield his smiths had mourned for four centuries wasn't dead rock after all—only asleep, waiting for a hatchling's chest to grow wide enough to hold the note.
+
+When Tarquin spoke again, his deep voice was rougher at the edge than he usually let an outsider hear.
+
+"Tell him," Tarquin said quietly, "that I hear his promise exactly as he gave it. Not a bargain. Not a debt. And not one grain of it entered on Autumn's ledger."
+
+Beside the lead chart-weight, the last thin thread of pale coral sand thinned to a trickle and whispered out, leaving the upper bulb empty.
+
+Tarquin reached out, closed his brown fingers around the warm brass frame of the sand-glass, and rose unhurriedly to his feet.
+
+"There will be no anvil on my quay tomorrow morning," he told her cleanly. "I will tell Cresseida and Lord Vanserra myself this afternoon that Old Maren examined the vault plinth, found the First Age lock already answered by living resonance, and advised me that burning shed plumage on iron would be dockside superstition. Every word of that is literal truth—and it spares your companion a spectacle at dawn without handing Eris the reason why."
+
+Pausing beside the high-backed chair with the silent glass in his palm, Tarquin looked down at her—and for the first time, a dry, unmistakably sharp glint of statecraft lit the summer sky of his eyes.
+
+"One thing more before I open that door, Aurelie—not in trade for your dragon's word, because he asked for nothing, but for my own city's sake," he said. "If Adriata's walls ten winters from now rest on that young dragon living long enough to grow into his voice, then Summer just acquired a keen interest in seeing neither of you disappear quietly on a northern mountain pass."
+
+His gaze flicked once—briefly, almost wryly—to the restored bay-blue silk pooling around her chair well past midday.
+
+"My cousin Caspian brought the southern patrol squadron onto the inner moorings an hour ago," Tarquin said. "Tonight, when I put Summer's seal on Autumn's harbor compact and open the State Hall to the Coral Houses, Eris Vanserra gets his closed passes and his fifty-winter timber ink. What he will also get—before the wax cools—is a blood-prince of Summer riding in your column from my gates onward."
+
+The corner of Tarquin's mouth lifted by a fraction.
+
+"Try not to look too surprised over the soup course if Lord Vanserra's temper is already warm."
+
+With a clean, unhurried bow—the bow a High Lord gave a sovereign envoy rather than another lord's hostage—Tarquin stepped back behind the tall cedar stacks. The side latch clicked softly shut behind him, and the dry-ward settled back into silence as if the aisle had always been empty.
+
+Three breaths later, right on the tenth minute, two quiet knuckles rapped once against the main bronze doors at the front of the hall.
+
+The heavy left leaf swung inward.
+
+Caelum stood on the marble threshold, pulling the bronze back to clear the doorway—and the single flat, sideways angle of his left russet ear gave Aurelie her five seconds' warning half a beat before she saw who was standing three paces behind him in the sunlit gallery outside the ward-line.
+
+Eris hadn't brought his coastal coat.
+
+He stood at ease beneath the arched colonnade in a fitted waistcoat of dark ember-charcoal over crisp white linen sleeves, dark calfskin gloves neat at both wrists, turning an unsealed ivory notice from Cresseida's chancery idly between two gloved fingers. Afternoon sun slanted sharp across his high cheekbones and copper-dark hair—and dropped straight through the open doorway with his molten-amber gaze, travelling once over the empty scholar's chair opposite hers before locking, slow and lethal, onto the salt-clean white-and-turquoise silk still clinging unscathed to her waist two hours past noon.
+
+*Not a salt ring left on the hem. Not a wrinkle in the lagoon-blue dye. His coat left folded like tipped livery on the Gate Hall bench at midday while she sat behind High Lord Tarquin's soundproof cedar for ten clocked minutes wearing Summer's colours straight through the afternoon bell.*
+
+Beneath his right cuff, the mirrored script was silent—which told Eris she hadn't struck a side-bargain, and told him nothing at all about why the air behind her chair smelled faintly of sea-linen and brass, or why her pulse wasn't racing like a cornered rabbit's.
+
+"Time, Lilly," Eris said smoothly from beyond the threshold, his court baritone velvet-soft and dangerous enough to frost the sunny marble under Caelum's boots. "Do close High Lord Tarquin's picture-books before you ruin your eyes. Princess Cresseida's clerks have moved tonight's harbor-seal ahead of schedule—and my wardrobe trunks have been waiting across the bridge since noon."
